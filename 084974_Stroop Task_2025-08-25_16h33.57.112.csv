@@ -1,0 +1,3 @@
+﻿word,colour,stimulus_condition,correct_response,thisN,thisTrialN,thisRepN,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,ins.started,text_2.started,text_2.stopped,ins.stopped,trial.started,Fixation.started,Fixation.stopped,text.started,key_resp.started,text.stopped,participant,session,date,expName,expVersion,psychopyVersion,frameRate,expStart,
+,,,,,,,,,,,,,0.001653999999689404,0.006878199999846402,1.028602200000023,0.9912319999984902,,,,,,,084974,001,2025-08-25_16h33.57.112,Stroop Task,,2025.1.1,59.92311863913678,2025-08-25 16h34.03.772876 +0530,
+RED,blue,I,b,0,0,0,0,0,0,1,1.028602200000023,,,,,,1.018907499999841,1.028602200000023,1.5077837999997428,1.5077837999997428,1.5077837999997428,6.007438899998306,,,,,,,,,

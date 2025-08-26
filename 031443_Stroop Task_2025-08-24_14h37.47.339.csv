@@ -1,0 +1,47 @@
+word	colour	stimulus_condition	correct_response		key_resp.keys	key_resp.corr	key_resp.duration
+							
+BLUE	blue	C	b	b	1	0.6718319	0
+RED	red	C	r	r	1	0.3144735	0
+BLUE	blue	C	b	b	1	0.4813022	1
+RED	red	C	r	r	1	0.437458	1
+	blue	C	b	r	0		2
+RED	red	C	r	r	1	1.0752271	2
+BLUE	blue	C	b	b	1	0.4772137	3
+RED	red	C	r	r	1	0.5245618	3
+BLUE	blue	C	b	b	1	0.4174337	4
+RED	red	C	r	r	1	0.8712696	4
+BLUE	blue	C	b	b	1	0.5433739	5
+RED	red	C	r	r	1	0.5576715	5
+RED	red	C	r	r	1	0.370395	6
+BLUE	blue	C	b	b	1	0.6928932	6
+BLUE	blue	C	b	b	1	0.567406	7
+RED	red	C	r	r	1	0.6152085	7
+RED	red	C	r	r	1	0.4704077	8
+BLUE	blue	C	b	b	1	0.4805332	8
+RED	red	C	r	r	1	0.4784452	9
+BLUE	blue	C	b	b	1	0.4151228	9
+						0.550643605	
+							
+BLUE	red	I	r	r	1	0.6653083	0
+RED	blue	I	b	b	1	0.4925886	0
+BLUE	red	I	r	r	1	0.43815	1
+RED	blue	I	b	b	1	0.4280801	1
+BLUE	red	I	r	r	1	0.4834605	2
+RED	blue	I	b	b	1	0.3563048	2
+RED	blue	I	b	b	1	0.9272209	3
+BLUE	red	I	r	r	1	0.4644558	3
+RED	blue	I	b	b	1	0.700324	4
+BLUE	red	I	r	b	0		4
+RED	blue	I	b	r	0		5
+BLUE	red	I	r	r	1	0.3673795	5
+RED	blue	I	b	b	1	0.6528896	6
+BLUE	red	I	r	r	1	0.7372922	6
+RED	blue	I	b	b	1	0.5285803	7
+BLUE	red	I	r	r	1	0.5708886	7
+RED	blue	I	b	b	1	0.581847	8
+BLUE	red	I	r	r	1	0.5845426	8
+BLUE	red	I	r	b	0		9
+RED	blue	I	b	r	0		9
+						0.56120705	
+							
+					I-C	0.010563445	

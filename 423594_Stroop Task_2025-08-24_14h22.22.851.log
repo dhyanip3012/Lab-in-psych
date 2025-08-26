@@ -1,0 +1,590 @@
+535.3539 	INFO 	Loaded monitor calibration from ['2025_08_11 23:33']
+535.4191 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+536.7482 	INFO 	Using renderer 'Intel(R) UHD Graphics' for graphics
+536.7482 	INFO 	OpenGL version supported by driver is 4..
+537.1287 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023F550EFA90>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023F550EFA30>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000023F551E1CC0>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+537.1288 	EXP 	window1: backgroundImage = ''
+537.1288 	EXP 	window1: backgroundFit = 'none'
+537.7870 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+537.7871 	EXP 	window1: recordFrameIntervals = False
+537.9545 	EXP 	window1: recordFrameIntervals = True
+538.1377 	EXP 	Screen (0) actual frame rate measured at 60.19Hz
+538.1378 	EXP 	window1: recordFrameIntervals = False
+538.1900 	INFO 	keyboard.Keyboard is using ptb backend.
+538.1902 	INFO 	keyboard.Keyboard is using ptb backend.
+538.1902 	EXP 	Stroop Task: status = STARTED
+538.7895 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Welcome', units='height', win=Window(...), wrapWidth=1)
+538.8115 	EXP 	Created Fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+538.8129 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+538.8278 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you', units='height', win=Window(...), wrapWidth=1)
+0.0086 	EXP 	text_2: autoDraw = True
+1.0563 	EXP 	Imported Cond Stroop task.xlsx as conditions, 4 conditions, 4 params
+1.0580 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.0761 	EXP 	text_2: autoDraw = False
+1.0761 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+1.0761 	EXP 	text: height = np.float64(0.05)
+1.0761 	EXP 	text: height = np.float64(0.05)
+1.0761 	EXP 	text: height = np.float64(0.05)
+1.0761 	EXP 	text: text = 'RED'
+1.0761 	EXP 	Fixation: autoDraw = True
+1.5083 	INFO 	Keyboard events cleared
+1.5081 	EXP 	Fixation: autoDraw = False
+1.5081 	EXP 	text: autoDraw = True
+4.9570 	EXP 	Device response: <KeyPress from None: t=4.844770900032017, value=r, duration=None>
+4.9573 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+4.9664 	DATA 	Keypress: r
+4.9726 	EXP 	Fixation: autoDraw = False
+4.9726 	EXP 	text: autoDraw = False
+4.9726 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+4.9726 	EXP 	text: height = np.float64(0.05)
+4.9726 	EXP 	text: height = np.float64(0.05)
+4.9726 	EXP 	text: height = np.float64(0.05)
+4.9726 	EXP 	text: text = 'BLUE'
+4.9726 	EXP 	Fixation: autoDraw = True
+4.9732 	EXP 	Device response: <KeyPress from None: t=4.844770900032017, value=r, duration=0.12640660000033677>
+5.4581 	INFO 	Keyboard events cleared
+5.4579 	EXP 	Fixation: autoDraw = False
+5.4579 	EXP 	text: autoDraw = True
+5.9408 	EXP 	Device response: <KeyPress from None: t=5.93027950002579, value=b, duration=None>
+5.9411 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+5.9430 	DATA 	Keypress: b
+5.9600 	EXP 	Fixation: autoDraw = False
+5.9600 	EXP 	text: autoDraw = False
+5.9600 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+5.9600 	EXP 	text: text = 'BLUE'
+5.9600 	EXP 	Fixation: autoDraw = True
+6.0941 	EXP 	Device response: <KeyPress from None: t=5.93027950002579, value=b, duration=0.1632056999951601>
+6.2614 	EXP 	Device response: <KeyPress from None: t=6.245517699979246, value=r, duration=None>
+6.2626 	DATA 	Keypress: r
+6.3943 	EXP 	Device response: <KeyPress from None: t=6.245517699979246, value=r, duration=0.14029670000309125>
+6.4407 	INFO 	Keyboard events cleared
+6.4404 	EXP 	Fixation: autoDraw = False
+6.4404 	EXP 	text: autoDraw = True
+6.7240 	EXP 	Device response: <KeyPress from None: t=6.720889099990018, value=b, duration=None>
+6.7244 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+6.7296 	DATA 	Keypress: b
+6.7434 	EXP 	Fixation: autoDraw = False
+6.7434 	EXP 	text: autoDraw = False
+6.7434 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+6.7434 	EXP 	text: height = np.float64(0.05)
+6.7434 	EXP 	text: height = np.float64(0.05)
+6.7434 	EXP 	text: height = np.float64(0.05)
+6.7434 	EXP 	text: text = 'RED'
+6.7434 	EXP 	Fixation: autoDraw = True
+6.8775 	EXP 	Device response: <KeyPress from None: t=6.720889099990018, value=b, duration=0.15004370000679046>
+7.2246 	INFO 	Keyboard events cleared
+7.2245 	EXP 	Fixation: autoDraw = False
+7.2245 	EXP 	text: autoDraw = True
+7.9574 	EXP 	Device response: <KeyPress from None: t=7.9516052000108175, value=r, duration=None>
+7.9578 	EXP 	New trial (rep=1, index=0): <Trial 4 (0 in rep 1) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 4, 'thisTrialN': 0, 'thisRepN': 1}>
+7.9596 	DATA 	Keypress: r
+7.9769 	EXP 	Fixation: autoDraw = False
+7.9769 	EXP 	text: autoDraw = False
+7.9769 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+7.9769 	EXP 	text: text = 'RED'
+7.9769 	EXP 	Fixation: autoDraw = True
+8.0773 	EXP 	Device response: <KeyPress from None: t=7.9516052000108175, value=r, duration=0.12117880000732839>
+8.4569 	INFO 	Keyboard events cleared
+8.4567 	EXP 	Fixation: autoDraw = False
+8.4567 	EXP 	text: autoDraw = True
+8.9906 	EXP 	Device response: <KeyPress from None: t=8.976982299995143, value=r, duration=None>
+8.9910 	EXP 	New trial (rep=1, index=1): <Trial 5 (1 in rep 1) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 5, 'thisTrialN': 1, 'thisRepN': 1}>
+8.9961 	DATA 	Keypress: r
+9.0099 	EXP 	Fixation: autoDraw = False
+9.0099 	EXP 	text: autoDraw = False
+9.0099 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+9.0099 	EXP 	text: height = np.float64(0.05)
+9.0099 	EXP 	text: height = np.float64(0.05)
+9.0099 	EXP 	text: height = np.float64(0.05)
+9.0099 	EXP 	text: text = 'BLUE'
+9.0099 	EXP 	Fixation: autoDraw = True
+9.1608 	EXP 	Device response: <KeyPress from None: t=8.976982299995143, value=r, duration=0.17021150002256036>
+9.4906 	INFO 	Keyboard events cleared
+9.4904 	EXP 	Fixation: autoDraw = False
+9.4904 	EXP 	text: autoDraw = True
+10.7236 	EXP 	Device response: <KeyPress from None: t=10.71309769997606, value=b, duration=None>
+10.7240 	EXP 	New trial (rep=1, index=2): <Trial 6 (2 in rep 1) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 6, 'thisTrialN': 2, 'thisRepN': 1}>
+10.7258 	DATA 	Keypress: b
+10.7429 	EXP 	Fixation: autoDraw = False
+10.7429 	EXP 	text: autoDraw = False
+10.7429 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+10.7429 	EXP 	text: text = 'BLUE'
+10.7429 	EXP 	Fixation: autoDraw = True
+10.9109 	EXP 	Device response: <KeyPress from None: t=10.71309769997606, value=b, duration=0.1901015000184998>
+11.2241 	INFO 	Keyboard events cleared
+11.2239 	EXP 	Fixation: autoDraw = False
+11.2239 	EXP 	text: autoDraw = True
+11.8070 	EXP 	Device response: <KeyPress from None: t=11.793824499996845, value=r, duration=None>
+11.8074 	EXP 	New trial (rep=1, index=3): <Trial 7 (3 in rep 1) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 7, 'thisTrialN': 3, 'thisRepN': 1}>
+11.8128 	DATA 	Keypress: r
+11.8263 	EXP 	Fixation: autoDraw = False
+11.8263 	EXP 	text: autoDraw = False
+11.8263 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+11.8263 	EXP 	text: height = np.float64(0.05)
+11.8263 	EXP 	text: height = np.float64(0.05)
+11.8263 	EXP 	text: height = np.float64(0.05)
+11.8263 	EXP 	text: text = 'RED'
+11.8263 	EXP 	Fixation: autoDraw = True
+11.9437 	EXP 	Device response: <KeyPress from None: t=11.793824499996845, value=r, duration=0.14676610002061352>
+12.3066 	INFO 	Keyboard events cleared
+12.3064 	EXP 	Fixation: autoDraw = False
+12.3064 	EXP 	text: autoDraw = True
+12.7568 	EXP 	Device response: <KeyPress from None: t=12.754311900003813, value=r, duration=None>
+12.7571 	EXP 	New trial (rep=2, index=0): <Trial 8 (0 in rep 2) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 8, 'thisTrialN': 0, 'thisRepN': 2}>
+12.7624 	DATA 	Keypress: r
+12.7760 	EXP 	Fixation: autoDraw = False
+12.7760 	EXP 	text: autoDraw = False
+12.7760 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+12.7760 	EXP 	text: height = np.float64(0.05)
+12.7760 	EXP 	text: height = np.float64(0.05)
+12.7760 	EXP 	text: height = np.float64(0.05)
+12.7760 	EXP 	text: text = 'BLUE'
+12.7760 	EXP 	Fixation: autoDraw = True
+12.9265 	EXP 	Device response: <KeyPress from None: t=12.754311900003813, value=r, duration=0.16005499998573214>
+13.2564 	INFO 	Keyboard events cleared
+13.2561 	EXP 	Fixation: autoDraw = False
+13.2561 	EXP 	text: autoDraw = True
+13.6403 	EXP 	Device response: <KeyPress from None: t=13.629857100022491, value=b, duration=None>
+13.6407 	EXP 	New trial (rep=2, index=1): <Trial 9 (1 in rep 2) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 9, 'thisTrialN': 1, 'thisRepN': 2}>
+13.6456 	DATA 	Keypress: b
+13.6589 	EXP 	Fixation: autoDraw = False
+13.6589 	EXP 	text: autoDraw = False
+13.6589 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+13.6589 	EXP 	text: height = np.float64(0.05)
+13.6589 	EXP 	text: height = np.float64(0.05)
+13.6589 	EXP 	text: height = np.float64(0.05)
+13.6589 	EXP 	text: text = 'RED'
+13.6589 	EXP 	Fixation: autoDraw = True
+13.8267 	EXP 	Device response: <KeyPress from None: t=13.629857100022491, value=b, duration=0.19567449996247888>
+14.1400 	INFO 	Keyboard events cleared
+14.1399 	EXP 	Fixation: autoDraw = False
+14.1399 	EXP 	text: autoDraw = True
+14.7231 	EXP 	Device response: <KeyPress from None: t=14.710348799999338, value=r, duration=None>
+14.7235 	EXP 	New trial (rep=2, index=2): <Trial 10 (2 in rep 2) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 10, 'thisTrialN': 2, 'thisRepN': 2}>
+14.7254 	DATA 	Keypress: r
+14.7428 	EXP 	Fixation: autoDraw = False
+14.7428 	EXP 	text: autoDraw = False
+14.7428 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+14.7428 	EXP 	text: text = 'RED'
+14.7428 	EXP 	Fixation: autoDraw = True
+14.8928 	EXP 	Device response: <KeyPress from None: t=14.710348799999338, value=r, duration=0.18117960001109168>
+15.2227 	INFO 	Keyboard events cleared
+15.2224 	EXP 	Fixation: autoDraw = False
+15.2224 	EXP 	text: autoDraw = True
+15.8736 	EXP 	Device response: <KeyPress from None: t=15.871361500001512, value=b, duration=None>
+15.8739 	EXP 	New trial (rep=2, index=3): <Trial 11 (3 in rep 2) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 11, 'thisTrialN': 3, 'thisRepN': 2}>
+15.8784 	DATA 	Keypress: b
+15.8931 	EXP 	Fixation: autoDraw = False
+15.8931 	EXP 	text: autoDraw = False
+15.8931 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+15.8931 	EXP 	text: height = np.float64(0.05)
+15.8931 	EXP 	text: height = np.float64(0.05)
+15.8931 	EXP 	text: height = np.float64(0.05)
+15.8931 	EXP 	text: text = 'BLUE'
+15.8931 	EXP 	Fixation: autoDraw = True
+16.0431 	EXP 	Device response: <KeyPress from None: t=15.871361500001512, value=b, duration=0.16568580002058297>
+16.3729 	INFO 	Keyboard events cleared
+16.3726 	EXP 	Fixation: autoDraw = False
+16.3726 	EXP 	text: autoDraw = True
+17.0235 	EXP 	Device response: <KeyPress from None: t=17.018591500003822, value=r, duration=None>
+17.0238 	EXP 	New trial (rep=3, index=0): <Trial 12 (0 in rep 3) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 12, 'thisTrialN': 0, 'thisRepN': 3}>
+17.0260 	DATA 	Keypress: r
+17.0423 	EXP 	Fixation: autoDraw = False
+17.0423 	EXP 	text: autoDraw = False
+17.0423 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+17.0423 	EXP 	text: text = 'BLUE'
+17.0423 	EXP 	Fixation: autoDraw = True
+17.1258 	EXP 	Device response: <KeyPress from None: t=17.018591500003822, value=r, duration=0.09894130000611767>
+17.5230 	INFO 	Keyboard events cleared
+17.5228 	EXP 	Fixation: autoDraw = False
+17.5228 	EXP 	text: autoDraw = True
+18.3064 	EXP 	Device response: <KeyPress from None: t=18.292445899976883, value=r, duration=None>
+18.3067 	EXP 	New trial (rep=3, index=1): <Trial 13 (1 in rep 3) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 13, 'thisTrialN': 1, 'thisRepN': 3}>
+18.3107 	DATA 	Keypress: r
+18.3259 	EXP 	Fixation: autoDraw = False
+18.3259 	EXP 	text: autoDraw = False
+18.3259 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+18.3259 	EXP 	text: height = np.float64(0.05)
+18.3259 	EXP 	text: height = np.float64(0.05)
+18.3259 	EXP 	text: height = np.float64(0.05)
+18.3259 	EXP 	text: text = 'RED'
+18.3259 	EXP 	Fixation: autoDraw = True
+18.4095 	EXP 	Device response: <KeyPress from None: t=18.292445899976883, value=r, duration=0.10494130000006407>
+18.8056 	INFO 	Keyboard events cleared
+18.8054 	EXP 	Fixation: autoDraw = False
+18.8054 	EXP 	text: autoDraw = True
+19.1236 	DATA 	Keypress: b
+19.1392 	EXP 	Device response: <KeyPress from None: t=19.122726000030525, value=b, duration=None>
+19.1395 	EXP 	New trial (rep=3, index=2): <Trial 14 (2 in rep 3) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 14, 'thisTrialN': 2, 'thisRepN': 3}>
+19.1585 	EXP 	Fixation: autoDraw = False
+19.1585 	EXP 	text: autoDraw = False
+19.1585 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+19.1585 	EXP 	text: height = np.float64(0.05)
+19.1585 	EXP 	text: height = np.float64(0.05)
+19.1585 	EXP 	text: height = np.float64(0.05)
+19.1585 	EXP 	text: text = 'BLUE'
+19.1585 	EXP 	Fixation: autoDraw = True
+19.2930 	EXP 	Device response: <KeyPress from None: t=19.122726000030525, value=b, duration=0.1548847999656573>
+19.6389 	INFO 	Keyboard events cleared
+19.6387 	EXP 	Fixation: autoDraw = False
+19.6387 	EXP 	text: autoDraw = True
+19.9736 	DATA 	Keypress: b
+19.9899 	EXP 	Device response: <KeyPress from None: t=19.97292979998747, value=b, duration=None>
+19.9902 	EXP 	New trial (rep=3, index=3): <Trial 15 (3 in rep 3) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 15, 'thisTrialN': 3, 'thisRepN': 3}>
+20.0091 	EXP 	Fixation: autoDraw = False
+20.0091 	EXP 	text: autoDraw = False
+20.0091 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+20.0091 	EXP 	text: height = np.float64(0.05)
+20.0091 	EXP 	text: height = np.float64(0.05)
+20.0091 	EXP 	text: height = np.float64(0.05)
+20.0091 	EXP 	text: text = 'RED'
+20.0091 	EXP 	Fixation: autoDraw = True
+20.1430 	EXP 	Device response: <KeyPress from None: t=19.97292979998747, value=b, duration=0.155020100006368>
+20.4893 	INFO 	Keyboard events cleared
+20.4891 	EXP 	Fixation: autoDraw = False
+20.4891 	EXP 	text: autoDraw = True
+20.9390 	EXP 	Device response: <KeyPress from None: t=20.9336323000025, value=r, duration=None>
+20.9393 	EXP 	New trial (rep=4, index=0): <Trial 16 (0 in rep 4) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 16, 'thisTrialN': 0, 'thisRepN': 4}>
+20.9442 	DATA 	Keypress: r
+20.9579 	EXP 	Fixation: autoDraw = False
+20.9579 	EXP 	text: autoDraw = False
+20.9579 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+20.9579 	EXP 	text: height = np.float64(0.05)
+20.9579 	EXP 	text: height = np.float64(0.05)
+20.9579 	EXP 	text: height = np.float64(0.05)
+20.9579 	EXP 	text: text = 'BLUE'
+20.9579 	EXP 	Fixation: autoDraw = True
+21.1090 	EXP 	Device response: <KeyPress from None: t=20.9336323000025, value=r, duration=0.17022239998914301>
+21.4391 	INFO 	Keyboard events cleared
+21.4388 	EXP 	Fixation: autoDraw = False
+21.4388 	EXP 	text: autoDraw = True
+21.7896 	EXP 	Device response: <KeyPress from None: t=21.774304200022016, value=r, duration=None>
+21.7899 	EXP 	New trial (rep=4, index=1): <Trial 17 (1 in rep 4) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 17, 'thisTrialN': 1, 'thisRepN': 4}>
+21.7937 	DATA 	Keypress: r
+21.8088 	EXP 	Fixation: autoDraw = False
+21.8088 	EXP 	text: autoDraw = False
+21.8088 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+21.8088 	EXP 	text: height = np.float64(0.05)
+21.8088 	EXP 	text: height = np.float64(0.05)
+21.8088 	EXP 	text: height = np.float64(0.05)
+21.8088 	EXP 	text: text = 'RED'
+21.8088 	EXP 	Fixation: autoDraw = True
+21.9258 	EXP 	Device response: <KeyPress from None: t=21.774304200022016, value=r, duration=0.15059629996540025>
+22.2885 	INFO 	Keyboard events cleared
+22.2883 	EXP 	Fixation: autoDraw = False
+22.2883 	EXP 	text: autoDraw = True
+22.3224 	EXP 	Device response: <KeyPress from None: t=22.319499199977145, value=b, duration=None>
+22.3228 	EXP 	New trial (rep=4, index=2): <Trial 18 (2 in rep 4) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 18, 'thisTrialN': 2, 'thisRepN': 4}>
+22.3268 	DATA 	Keypress: b
+22.3421 	EXP 	Fixation: autoDraw = False
+22.3421 	EXP 	text: autoDraw = False
+22.3421 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+22.3421 	EXP 	text: height = np.float64(0.05)
+22.3421 	EXP 	text: height = np.float64(0.05)
+22.3421 	EXP 	text: height = np.float64(0.05)
+22.3421 	EXP 	text: text = 'BLUE'
+22.3421 	EXP 	Fixation: autoDraw = True
+22.5092 	EXP 	Device response: <KeyPress from None: t=22.319499199977145, value=b, duration=0.18497110001044348>
+22.8218 	INFO 	Keyboard events cleared
+22.8215 	EXP 	Fixation: autoDraw = False
+22.8215 	EXP 	text: autoDraw = True
+24.3718 	EXP 	Device response: <KeyPress from None: t=24.37067939998815, value=b, duration=None>
+24.3722 	EXP 	New trial (rep=4, index=3): <Trial 19 (3 in rep 4) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 19, 'thisTrialN': 3, 'thisRepN': 4}>
+24.3771 	DATA 	Keypress: b
+24.3912 	EXP 	Fixation: autoDraw = False
+24.3912 	EXP 	text: autoDraw = False
+24.3912 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+24.3912 	EXP 	text: height = np.float64(0.05)
+24.3912 	EXP 	text: height = np.float64(0.05)
+24.3912 	EXP 	text: height = np.float64(0.05)
+24.3912 	EXP 	text: text = 'RED'
+24.3912 	EXP 	Fixation: autoDraw = True
+24.5423 	EXP 	Device response: <KeyPress from None: t=24.37067939998815, value=b, duration=0.17065660003572702>
+24.8716 	INFO 	Keyboard events cleared
+24.8713 	EXP 	Fixation: autoDraw = False
+24.8713 	EXP 	text: autoDraw = True
+25.5389 	EXP 	Device response: <KeyPress from None: t=25.53615910001099, value=r, duration=None>
+25.5392 	EXP 	New trial (rep=5, index=0): <Trial 20 (0 in rep 5) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 20, 'thisTrialN': 0, 'thisRepN': 5}>
+25.5405 	DATA 	Keypress: r
+25.5580 	EXP 	Fixation: autoDraw = False
+25.5580 	EXP 	text: autoDraw = False
+25.5580 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+25.5580 	EXP 	text: text = 'RED'
+25.5580 	EXP 	Fixation: autoDraw = True
+25.7242 	EXP 	Device response: <KeyPress from None: t=25.53615910001099, value=r, duration=0.1799423000193201>
+26.0377 	INFO 	Keyboard events cleared
+26.0375 	EXP 	Fixation: autoDraw = False
+26.0375 	EXP 	text: autoDraw = True
+27.4220 	EXP 	Device response: <KeyPress from None: t=27.40716820000671, value=b, duration=None>
+27.4224 	EXP 	New trial (rep=5, index=1): <Trial 21 (1 in rep 5) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 21, 'thisTrialN': 1, 'thisRepN': 5}>
+27.4238 	DATA 	Keypress: b
+27.4411 	EXP 	Fixation: autoDraw = False
+27.4411 	EXP 	text: autoDraw = False
+27.4411 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+27.4411 	EXP 	text: text = 'RED'
+27.4411 	EXP 	Fixation: autoDraw = True
+27.6083 	EXP 	Device response: <KeyPress from None: t=27.40716820000671, value=b, duration=0.2006048000184819>
+27.9218 	INFO 	Keyboard events cleared
+27.9216 	EXP 	Fixation: autoDraw = False
+27.9216 	EXP 	text: autoDraw = True
+28.5879 	EXP 	Device response: <KeyPress from None: t=28.57287069997983, value=r, duration=None>
+28.5883 	EXP 	New trial (rep=5, index=2): <Trial 22 (2 in rep 5) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 22, 'thisTrialN': 2, 'thisRepN': 5}>
+28.5932 	DATA 	Keypress: r
+28.6072 	EXP 	Fixation: autoDraw = False
+28.6072 	EXP 	text: autoDraw = False
+28.6072 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+28.6072 	EXP 	text: height = np.float64(0.05)
+28.6072 	EXP 	text: height = np.float64(0.05)
+28.6072 	EXP 	text: height = np.float64(0.05)
+28.6072 	EXP 	text: text = 'BLUE'
+28.6072 	EXP 	Fixation: autoDraw = True
+28.6742 	EXP 	Device response: <KeyPress from None: t=28.57287069997983, value=r, duration=0.08993000001646578>
+29.0879 	INFO 	Keyboard events cleared
+29.0876 	EXP 	Fixation: autoDraw = False
+29.0876 	EXP 	text: autoDraw = True
+29.6716 	EXP 	Device response: <KeyPress from None: t=29.658471300033852, value=b, duration=None>
+29.6719 	EXP 	New trial (rep=5, index=3): <Trial 23 (3 in rep 5) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 23, 'thisTrialN': 3, 'thisRepN': 5}>
+29.6732 	DATA 	Keypress: b
+29.6909 	EXP 	Fixation: autoDraw = False
+29.6909 	EXP 	text: autoDraw = False
+29.6909 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+29.6909 	EXP 	text: text = 'BLUE'
+29.6909 	EXP 	Fixation: autoDraw = True
+29.8415 	EXP 	Device response: <KeyPress from None: t=29.658471300033852, value=b, duration=0.17506219999631867>
+30.1710 	INFO 	Keyboard events cleared
+30.1708 	EXP 	Fixation: autoDraw = False
+30.1708 	EXP 	text: autoDraw = True
+30.5713 	EXP 	Device response: <KeyPress from None: t=30.5588160000043, value=r, duration=None>
+30.5715 	EXP 	New trial (rep=6, index=0): <Trial 24 (0 in rep 6) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 24, 'thisTrialN': 0, 'thisRepN': 6}>
+30.5728 	DATA 	Keypress: r
+30.5903 	EXP 	Fixation: autoDraw = False
+30.5903 	EXP 	text: autoDraw = False
+30.5903 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+30.5903 	EXP 	text: text = 'BLUE'
+30.5903 	EXP 	Fixation: autoDraw = True
+30.7071 	EXP 	Device response: <KeyPress from None: t=30.5588160000043, value=r, duration=0.14007580000907183>
+31.0709 	INFO 	Keyboard events cleared
+31.0707 	EXP 	Fixation: autoDraw = False
+31.0707 	EXP 	text: autoDraw = True
+31.4217 	EXP 	Device response: <KeyPress from None: t=31.41429839999182, value=r, duration=None>
+31.4220 	EXP 	New trial (rep=6, index=1): <Trial 25 (1 in rep 6) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 25, 'thisTrialN': 1, 'thisRepN': 6}>
+31.4268 	DATA 	Keypress: r
+31.4405 	EXP 	Fixation: autoDraw = False
+31.4405 	EXP 	text: autoDraw = False
+31.4405 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+31.4405 	EXP 	text: height = np.float64(0.05)
+31.4405 	EXP 	text: height = np.float64(0.05)
+31.4405 	EXP 	text: height = np.float64(0.05)
+31.4405 	EXP 	text: text = 'RED'
+31.4405 	EXP 	Fixation: autoDraw = True
+31.5902 	EXP 	Device response: <KeyPress from None: t=31.41429839999182, value=r, duration=0.16511800000444055>
+31.9205 	INFO 	Keyboard events cleared
+31.9202 	EXP 	Fixation: autoDraw = False
+31.9202 	EXP 	text: autoDraw = True
+32.3711 	EXP 	Device response: <KeyPress from None: t=32.364821000024676, value=r, duration=None>
+32.3714 	EXP 	New trial (rep=6, index=2): <Trial 26 (2 in rep 6) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 26, 'thisTrialN': 2, 'thisRepN': 6}>
+32.3759 	DATA 	Keypress: r
+32.3909 	EXP 	Fixation: autoDraw = False
+32.3909 	EXP 	text: autoDraw = False
+32.3909 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+32.3909 	EXP 	text: height = np.float64(0.05)
+32.3909 	EXP 	text: height = np.float64(0.05)
+32.3909 	EXP 	text: height = np.float64(0.05)
+32.3909 	EXP 	text: text = 'BLUE'
+32.3909 	EXP 	Fixation: autoDraw = True
+32.5414 	EXP 	Device response: <KeyPress from None: t=32.364821000024676, value=r, duration=0.17556529998546466>
+32.8707 	INFO 	Keyboard events cleared
+32.8705 	EXP 	Fixation: autoDraw = False
+32.8705 	EXP 	text: autoDraw = True
+33.2543 	EXP 	Device response: <KeyPress from None: t=33.24549729999853, value=b, duration=None>
+33.2547 	EXP 	New trial (rep=6, index=3): <Trial 27 (3 in rep 6) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 27, 'thisTrialN': 3, 'thisRepN': 6}>
+33.2594 	DATA 	Keypress: b
+33.2738 	EXP 	Fixation: autoDraw = False
+33.2738 	EXP 	text: autoDraw = False
+33.2738 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+33.2738 	EXP 	text: height = np.float64(0.05)
+33.2738 	EXP 	text: height = np.float64(0.05)
+33.2738 	EXP 	text: height = np.float64(0.05)
+33.2738 	EXP 	text: text = 'RED'
+33.2738 	EXP 	Fixation: autoDraw = True
+33.4408 	EXP 	Device response: <KeyPress from None: t=33.24549729999853, value=b, duration=0.180027800030075>
+33.7538 	INFO 	Keyboard events cleared
+33.7534 	EXP 	Fixation: autoDraw = False
+33.7534 	EXP 	text: autoDraw = True
+34.3222 	EXP 	Device response: <KeyPress from None: t=34.31595279998146, value=b, duration=None>
+34.3226 	EXP 	New trial (rep=7, index=0): <Trial 28 (0 in rep 7) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 28, 'thisTrialN': 0, 'thisRepN': 7}>
+34.3244 	DATA 	Keypress: b
+34.3399 	EXP 	Fixation: autoDraw = False
+34.3399 	EXP 	text: autoDraw = False
+34.3399 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+34.3399 	EXP 	text: text = 'RED'
+34.3399 	EXP 	Fixation: autoDraw = True
+34.5072 	EXP 	Device response: <KeyPress from None: t=34.31595279998146, value=b, duration=0.1853166000219062>
+34.8205 	INFO 	Keyboard events cleared
+34.8202 	EXP 	Fixation: autoDraw = False
+34.8202 	EXP 	text: autoDraw = True
+35.1040 	EXP 	Device response: <KeyPress from None: t=35.097508499980904, value=b, duration=None>
+35.1043 	EXP 	New trial (rep=7, index=1): <Trial 29 (1 in rep 7) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 29, 'thisTrialN': 1, 'thisRepN': 7}>
+35.1095 	DATA 	Keypress: b
+35.1233 	EXP 	Fixation: autoDraw = False
+35.1233 	EXP 	text: autoDraw = False
+35.1233 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+35.1233 	EXP 	text: height = np.float64(0.05)
+35.1233 	EXP 	text: height = np.float64(0.05)
+35.1233 	EXP 	text: height = np.float64(0.05)
+35.1233 	EXP 	text: text = 'BLUE'
+35.1233 	EXP 	Fixation: autoDraw = True
+35.2405 	EXP 	Device response: <KeyPress from None: t=35.097508499980904, value=b, duration=0.12917590001598>
+35.6035 	INFO 	Keyboard events cleared
+35.6033 	EXP 	Fixation: autoDraw = False
+35.6033 	EXP 	text: autoDraw = True
+35.8873 	EXP 	Device response: <KeyPress from None: t=35.88209239998832, value=b, duration=None>
+35.8876 	EXP 	New trial (rep=7, index=2): <Trial 30 (2 in rep 7) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 30, 'thisTrialN': 2, 'thisRepN': 7}>
+35.8895 	DATA 	Keypress: b
+35.9065 	EXP 	Fixation: autoDraw = False
+35.9065 	EXP 	text: autoDraw = False
+35.9065 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+35.9065 	EXP 	text: text = 'BLUE'
+35.9065 	EXP 	Fixation: autoDraw = True
+36.0570 	EXP 	Device response: <KeyPress from None: t=35.88209239998832, value=b, duration=0.17278650001389906>
+36.3868 	INFO 	Keyboard events cleared
+36.3866 	EXP 	Fixation: autoDraw = False
+36.3866 	EXP 	text: autoDraw = True
+36.8386 	DATA 	Keypress: r
+36.8541 	EXP 	Device response: <KeyPress from None: t=36.83757630002219, value=r, duration=None>
+36.8544 	EXP 	New trial (rep=7, index=3): <Trial 31 (3 in rep 7) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 31, 'thisTrialN': 3, 'thisRepN': 7}>
+36.8737 	EXP 	Fixation: autoDraw = False
+36.8737 	EXP 	text: autoDraw = False
+36.8737 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+36.8737 	EXP 	text: height = np.float64(0.05)
+36.8737 	EXP 	text: height = np.float64(0.05)
+36.8737 	EXP 	text: height = np.float64(0.05)
+36.8737 	EXP 	text: text = 'RED'
+36.8737 	EXP 	Fixation: autoDraw = True
+36.9901 	EXP 	Device response: <KeyPress from None: t=36.83757630002219, value=r, duration=0.14478069997858256>
+37.3539 	INFO 	Keyboard events cleared
+37.3536 	EXP 	Fixation: autoDraw = False
+37.3536 	EXP 	text: autoDraw = True
+37.7371 	EXP 	Device response: <KeyPress from None: t=37.72803009999916, value=r, duration=None>
+37.7374 	EXP 	New trial (rep=8, index=0): <Trial 32 (0 in rep 8) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 32, 'thisTrialN': 0, 'thisRepN': 8}>
+37.7392 	DATA 	Keypress: r
+37.7562 	EXP 	Fixation: autoDraw = False
+37.7562 	EXP 	text: autoDraw = False
+37.7562 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+37.7562 	EXP 	text: text = 'RED'
+37.7562 	EXP 	Fixation: autoDraw = True
+37.8901 	EXP 	Device response: <KeyPress from None: t=37.72803009999916, value=r, duration=0.15508719999343157>
+38.2366 	INFO 	Keyboard events cleared
+38.2363 	EXP 	Fixation: autoDraw = False
+38.2363 	EXP 	text: autoDraw = True
+39.0035 	EXP 	Device response: <KeyPress from None: t=38.99386170000071, value=r, duration=None>
+39.0039 	EXP 	New trial (rep=8, index=1): <Trial 33 (1 in rep 8) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 33, 'thisTrialN': 1, 'thisRepN': 8}>
+39.0079 	DATA 	Keypress: r
+39.0231 	EXP 	Fixation: autoDraw = False
+39.0231 	EXP 	text: autoDraw = False
+39.0231 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+39.0231 	EXP 	text: height = np.float64(0.05)
+39.0231 	EXP 	text: height = np.float64(0.05)
+39.0231 	EXP 	text: height = np.float64(0.05)
+39.0231 	EXP 	text: text = 'BLUE'
+39.0231 	EXP 	Fixation: autoDraw = True
+39.1564 	EXP 	Device response: <KeyPress from None: t=38.99386170000071, value=r, duration=0.16101919999346137>
+39.5029 	INFO 	Keyboard events cleared
+39.5028 	EXP 	Fixation: autoDraw = False
+39.5028 	EXP 	text: autoDraw = True
+40.0365 	EXP 	Device response: <KeyPress from None: t=40.03048590000253, value=b, duration=None>
+40.0368 	EXP 	New trial (rep=8, index=2): <Trial 34 (2 in rep 8) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 34, 'thisTrialN': 2, 'thisRepN': 8}>
+40.0386 	DATA 	Keypress: b
+40.0558 	EXP 	Fixation: autoDraw = False
+40.0558 	EXP 	text: autoDraw = False
+40.0558 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+40.0558 	EXP 	text: text = 'BLUE'
+40.0558 	EXP 	Fixation: autoDraw = True
+40.2068 	EXP 	Device response: <KeyPress from None: t=40.03048590000253, value=b, duration=0.17492010002024472>
+40.5367 	INFO 	Keyboard events cleared
+40.5365 	EXP 	Fixation: autoDraw = False
+40.5365 	EXP 	text: autoDraw = True
+41.5698 	EXP 	Device response: <KeyPress from None: t=41.56006330001401, value=r, duration=None>
+41.5702 	EXP 	New trial (rep=8, index=3): <Trial 35 (3 in rep 8) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 35, 'thisTrialN': 3, 'thisRepN': 8}>
+41.5742 	DATA 	Keypress: r
+41.5893 	EXP 	Fixation: autoDraw = False
+41.5893 	EXP 	text: autoDraw = False
+41.5893 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+41.5893 	EXP 	text: height = np.float64(0.05)
+41.5893 	EXP 	text: height = np.float64(0.05)
+41.5893 	EXP 	text: height = np.float64(0.05)
+41.5893 	EXP 	text: text = 'RED'
+41.5893 	EXP 	Fixation: autoDraw = True
+41.7397 	EXP 	Device response: <KeyPress from None: t=41.56006330001401, value=r, duration=0.1701271000201814>
+42.0700 	INFO 	Keyboard events cleared
+42.0698 	EXP 	Fixation: autoDraw = False
+42.0698 	EXP 	text: autoDraw = True
+42.3699 	EXP 	Device response: <KeyPress from None: t=42.36577520001447, value=b, duration=None>
+42.3702 	EXP 	New trial (rep=9, index=0): <Trial 36 (0 in rep 9) data={'word': 'BLUE', 'colour': 'red', 'stimulus_condition': 'I', 'correct_response': 'r', 'thisN': 36, 'thisTrialN': 0, 'thisRepN': 9}>
+42.3744 	DATA 	Keypress: b
+42.3896 	EXP 	Fixation: autoDraw = False
+42.3896 	EXP 	text: autoDraw = False
+42.3896 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+42.3896 	EXP 	text: height = np.float64(0.05)
+42.3896 	EXP 	text: height = np.float64(0.05)
+42.3896 	EXP 	text: height = np.float64(0.05)
+42.3896 	EXP 	text: text = 'BLUE'
+42.3896 	EXP 	Fixation: autoDraw = True
+42.5396 	EXP 	Device response: <KeyPress from None: t=42.36577520001447, value=b, duration=0.17181349999736995>
+42.8689 	INFO 	Keyboard events cleared
+42.8686 	EXP 	Fixation: autoDraw = False
+42.8686 	EXP 	text: autoDraw = True
+43.7531 	EXP 	Device response: <KeyPress from None: t=43.751574800000526, value=r, duration=None>
+43.7534 	EXP 	New trial (rep=9, index=1): <Trial 37 (1 in rep 9) data={'word': 'BLUE', 'colour': 'blue', 'stimulus_condition': 'C', 'correct_response': 'b', 'thisN': 37, 'thisTrialN': 1, 'thisRepN': 9}>
+43.7549 	DATA 	Keypress: r
+43.7723 	EXP 	Fixation: autoDraw = False
+43.7723 	EXP 	text: autoDraw = False
+43.7723 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+43.7723 	EXP 	text: text = 'BLUE'
+43.7723 	EXP 	Fixation: autoDraw = True
+43.8891 	EXP 	Device response: <KeyPress from None: t=43.751574800000526, value=r, duration=0.13602360000368208>
+44.2529 	INFO 	Keyboard events cleared
+44.2527 	EXP 	Fixation: autoDraw = False
+44.2527 	EXP 	text: autoDraw = True
+44.8198 	EXP 	Device response: <KeyPress from None: t=44.81242660002317, value=b, duration=None>
+44.8201 	EXP 	New trial (rep=9, index=2): <Trial 38 (2 in rep 9) data={'word': 'RED', 'colour': 'red', 'stimulus_condition': 'C', 'correct_response': 'r', 'thisN': 38, 'thisTrialN': 2, 'thisRepN': 9}>
+44.8238 	DATA 	Keypress: b
+44.8384 	EXP 	Fixation: autoDraw = False
+44.8384 	EXP 	text: autoDraw = False
+44.8384 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+44.8384 	EXP 	text: height = np.float64(0.05)
+44.8384 	EXP 	text: height = np.float64(0.05)
+44.8384 	EXP 	text: height = np.float64(0.05)
+44.8384 	EXP 	text: text = 'RED'
+44.8384 	EXP 	Fixation: autoDraw = True
+44.9394 	EXP 	Device response: <KeyPress from None: t=44.81242660002317, value=b, duration=0.1256582000060007>
+45.3187 	INFO 	Keyboard events cleared
+45.3184 	EXP 	Fixation: autoDraw = False
+45.3184 	EXP 	text: autoDraw = True
+45.8192 	EXP 	Device response: <KeyPress from None: t=45.80784439999843, value=r, duration=None>
+45.8196 	EXP 	New trial (rep=9, index=3): <Trial 39 (3 in rep 9) data={'word': 'RED', 'colour': 'blue', 'stimulus_condition': 'I', 'correct_response': 'b', 'thisN': 39, 'thisTrialN': 3, 'thisRepN': 9}>
+45.8213 	DATA 	Keypress: r
+45.8388 	EXP 	Fixation: autoDraw = False
+45.8388 	EXP 	text: autoDraw = False
+45.8388 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+45.8388 	EXP 	text: text = 'RED'
+45.8388 	EXP 	Fixation: autoDraw = True
+45.9728 	EXP 	Device response: <KeyPress from None: t=45.80784439999843, value=r, duration=0.15007179998792708>
+46.3186 	INFO 	Keyboard events cleared
+46.3184 	EXP 	Fixation: autoDraw = False
+46.3184 	EXP 	text: autoDraw = True
+46.9690 	EXP 	Device response: <KeyPress from None: t=46.95376920001581, value=b, duration=None>
+46.9718 	DATA 	Keypress: b
+46.9862 	EXP 	Fixation: autoDraw = False
+46.9862 	EXP 	text: autoDraw = False
+46.9862 	EXP 	text_3: autoDraw = True
+47.1357 	EXP 	Device response: <KeyPress from None: t=46.95376920001581, value=b, duration=0.16988259996287525>
+47.9549 	EXP 	Device response: <KeyPress from None: t=47.948900300019886, value=b, duration=None>
+47.9559 	DATA 	Keypress: b
+47.9853 	EXP 	text_3: autoDraw = False
+47.9853 	EXP 	text_3: autoDraw = False
+47.9855 	EXP 	Stroop Task: status = STOPPED
+47.9997 	INFO 	saved data to 'C:\\Users\\123\\OneDrive\\Desktop\\Lab Psychology\\stroop task\\data\\423594_Stroop Task_2025-08-24_14h22.22.851.csv'
+48.0025 	INFO 	saved data to C:\Users\123\OneDrive\Desktop\Lab Psychology\stroop task\data\423594_Stroop Task_2025-08-24_14h22.22.851.psydat
+50.9710 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+51.0097 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
