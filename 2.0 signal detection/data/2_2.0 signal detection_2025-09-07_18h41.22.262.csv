@@ -1,0 +1,8 @@
+	Respond YES	Respond NO		prop hit = hit/hit+miss	0.6
+signal present	Hit	Miss		prop fa = fa/fa+corr rejection	0.466666667
+signal absent	False alarm	Correct Rejection			
+					
+				d-prime = z(prop hit) - Z(prop fa)	0.336998837
+	Respond YES	Respond NO		c=  -z(prop hit) + z(prop fa)/2	-0.211521236
+Signal Present	33	22			
+signal Absent	21	24			
