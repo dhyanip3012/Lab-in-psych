@@ -1,0 +1,1018 @@
+21.5428 	INFO 	Loaded monitor calibration from ['2025_08_11 23:33']
+22.1540 	INFO 	Using renderer 'Intel(R) UHD Graphics' for graphics
+22.1541 	INFO 	OpenGL version supported by driver is 4..
+22.4627 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024EC0C52B60>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024EC0C52BC0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024EC0D4AEF0>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(425.0), np.float64(240.0)], screen=0, size=array([1070,  600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+22.4628 	EXP 	window1: backgroundImage = ''
+22.4629 	EXP 	window1: backgroundFit = 'none'
+22.9571 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+22.9571 	EXP 	window1: recordFrameIntervals = False
+23.1770 	EXP 	window1: recordFrameIntervals = True
+23.3603 	EXP 	Screen (0) actual frame rate measured at 60.17Hz
+23.3604 	EXP 	window1: recordFrameIntervals = False
+23.4396 	INFO 	keyboard.Keyboard is using ptb backend.
+23.4397 	EXP 	Word_priming_5.0: status = STARTED
+23.6100 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.8347 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Noto Sans', granularity=0.0, labelColor=None, labelHeight=np.float64(0.05), labelWrapWidth=None, labels=['Familiar', 'unfamiliar'], lineColor=None, markerColor=None, name='slider', opacity=None, ori=0.0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+23.8356 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+24.1931 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([ 0. , -0.3]), rgb=UNKNOWN, text='click to submit\n', units='height', win=Window(...), wrapWidth=1)
+0.0152 	EXP 	slider: autoLog = True
+0.0152 	EXP 	slider: styleTweaks = []
+0.0152 	EXP 	slider: styleTweaks = []
+0.0152 	EXP 	slider: styleTweaks = []
+0.0152 	EXP 	slider: styleTweaks = []
+0.0152 	EXP 	slider: contrast = 1.0
+0.0152 	EXP 	slider: markerPos = None
+0.0152 	EXP 	slider: autoLog = True
+0.0152 	EXP 	textbox: autoLog = True
+0.0255 	EXP 	Imported study_word.xlsx as conditions, 15 conditions, 1 params
+0.0258 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'study_word': 'book', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0484 	EXP 	text: height = np.float64(0.05)
+0.0484 	EXP 	text: height = np.float64(0.05)
+0.0484 	EXP 	text: height = np.float64(0.05)
+0.0484 	EXP 	text: text = 'book'
+0.0484 	EXP 	slider: markerPos = None
+0.0484 	EXP 	slider: markerPos = None
+0.0484 	EXP 	text: autoDraw = True
+0.0484 	EXP 	slider: autoDraw = True
+4.5394 	DATA 	Mouse: Left button down, pos=(227,127)
+4.5656 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.5818 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.5986 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.6156 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.6323 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.6491 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.6654 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.6826 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.6990 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.7158 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.7328 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.7487 	EXP 	slider: markerPos = np.float64(0.9466666666666668)
+4.7501 	DATA 	Mouse:  Left button up, pos=(227,127)
+4.7654 	EXP 	slider: markerPos = np.int64(1)
+4.7666 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'study_word': 'Pastry', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+4.7979 	EXP 	text: autoDraw = False
+4.7979 	EXP 	slider: autoDraw = False
+4.7979 	EXP 	text: height = np.float64(0.05)
+4.7979 	EXP 	text: height = np.float64(0.05)
+4.7979 	EXP 	text: height = np.float64(0.05)
+4.7979 	EXP 	text: text = 'Pastry'
+4.7979 	EXP 	slider: markerPos = None
+4.7979 	EXP 	slider: markerPos = None
+4.7979 	EXP 	text: autoDraw = True
+4.7979 	EXP 	slider: autoDraw = True
+8.2508 	DATA 	Mouse: Left button down, pos=(392,127)
+8.2651 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.2816 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.2990 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.3158 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.3319 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.3490 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.3653 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.3814 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.3983 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.4146 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.4320 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.4488 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.4651 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.4740 	DATA 	Mouse:  Left button up, pos=(392,127)
+8.4827 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.4996 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+8.5014 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'study_word': 'phone', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+8.5313 	EXP 	text: autoDraw = False
+8.5313 	EXP 	slider: autoDraw = False
+8.5313 	EXP 	text: height = np.float64(0.05)
+8.5313 	EXP 	text: height = np.float64(0.05)
+8.5313 	EXP 	text: height = np.float64(0.05)
+8.5313 	EXP 	text: text = 'phone'
+8.5313 	EXP 	slider: markerPos = None
+8.5313 	EXP 	slider: markerPos = None
+8.5313 	EXP 	text: autoDraw = True
+8.5313 	EXP 	slider: autoDraw = True
+9.8995 	DATA 	Mouse: Left button down, pos=(392,127)
+9.9156 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+9.9310 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+9.9494 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+9.9660 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+9.9813 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+9.9980 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.0157 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.0315 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.0485 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.0644 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.0805 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.0978 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.1147 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.1313 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.1324 	DATA 	Mouse:  Left button up, pos=(392,127)
+10.1488 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.1500 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'study_word': 'Keys', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+10.1807 	EXP 	text: autoDraw = False
+10.1807 	EXP 	slider: autoDraw = False
+10.1807 	EXP 	text: height = np.float64(0.05)
+10.1807 	EXP 	text: height = np.float64(0.05)
+10.1807 	EXP 	text: height = np.float64(0.05)
+10.1807 	EXP 	text: text = 'Keys'
+10.1807 	EXP 	slider: markerPos = None
+10.1807 	EXP 	slider: markerPos = None
+10.1807 	EXP 	text: autoDraw = True
+10.1807 	EXP 	slider: autoDraw = True
+10.9335 	DATA 	Mouse: Left button down, pos=(392,127)
+10.9491 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.9647 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.9823 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+10.9989 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.0147 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.0314 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.0479 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.0652 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.0816 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.0984 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.1148 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.1319 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.1486 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.1610 	DATA 	Mouse:  Left button up, pos=(392,127)
+11.1805 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.1980 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+11.1992 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'study_word': 'board', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+11.2144 	EXP 	text: autoDraw = False
+11.2144 	EXP 	slider: autoDraw = False
+11.2144 	EXP 	text: height = np.float64(0.05)
+11.2144 	EXP 	text: height = np.float64(0.05)
+11.2144 	EXP 	text: height = np.float64(0.05)
+11.2144 	EXP 	text: text = 'board'
+11.2144 	EXP 	slider: markerPos = None
+11.2144 	EXP 	slider: markerPos = None
+11.2144 	EXP 	text: autoDraw = True
+11.2144 	EXP 	slider: autoDraw = True
+12.0879 	DATA 	Mouse: Left button down, pos=(392,127)
+12.1148 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.1317 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.1493 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.1642 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.1813 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.1982 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.2145 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.2325 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.2480 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.2640 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.2813 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.2981 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.3074 	DATA 	Mouse:  Left button up, pos=(392,127)
+12.3144 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.3316 	EXP 	slider: markerPos = np.float64(2.046666666666667)
+12.3333 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'study_word': 'cushion', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+12.3631 	EXP 	text: autoDraw = False
+12.3631 	EXP 	slider: autoDraw = False
+12.3631 	EXP 	text: height = np.float64(0.05)
+12.3631 	EXP 	text: height = np.float64(0.05)
+12.3631 	EXP 	text: height = np.float64(0.05)
+12.3631 	EXP 	text: text = 'cushion'
+12.3631 	EXP 	slider: markerPos = None
+12.3631 	EXP 	slider: markerPos = None
+12.3631 	EXP 	text: autoDraw = True
+12.3631 	EXP 	slider: autoDraw = True
+14.3674 	DATA 	Mouse: Left button down, pos=(829,114)
+14.3814 	EXP 	slider: markerPos = np.float64(4.96)
+14.3979 	EXP 	slider: markerPos = np.float64(4.96)
+14.4141 	EXP 	slider: markerPos = np.float64(4.96)
+14.4313 	EXP 	slider: markerPos = np.float64(4.96)
+14.4475 	EXP 	slider: markerPos = np.float64(4.96)
+14.4645 	EXP 	slider: markerPos = np.float64(4.96)
+14.4807 	EXP 	slider: markerPos = np.float64(4.96)
+14.4975 	EXP 	slider: markerPos = np.float64(4.96)
+14.5147 	EXP 	slider: markerPos = np.float64(4.96)
+14.5311 	EXP 	slider: markerPos = np.float64(4.96)
+14.5479 	EXP 	slider: markerPos = np.float64(4.96)
+14.5640 	EXP 	slider: markerPos = np.float64(4.96)
+14.5811 	EXP 	slider: markerPos = np.float64(4.96)
+14.5971 	EXP 	slider: markerPos = np.float64(4.96)
+14.5983 	DATA 	Mouse:  Left button up, pos=(829,114)
+14.6146 	EXP 	slider: markerPos = np.float64(4.96)
+14.6158 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'study_word': 'mouse', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+14.6305 	EXP 	text: autoDraw = False
+14.6305 	EXP 	slider: autoDraw = False
+14.6305 	EXP 	text: height = np.float64(0.05)
+14.6305 	EXP 	text: height = np.float64(0.05)
+14.6305 	EXP 	text: height = np.float64(0.05)
+14.6305 	EXP 	text: text = 'mouse'
+14.6305 	EXP 	slider: markerPos = None
+14.6305 	EXP 	slider: markerPos = None
+14.6305 	EXP 	text: autoDraw = True
+14.6305 	EXP 	slider: autoDraw = True
+16.1328 	DATA 	Mouse: Left button down, pos=(372,141)
+16.1480 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.1638 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.1809 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.1978 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.2129 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.2308 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.2477 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.2646 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.2817 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.2974 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.3145 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.3317 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.3475 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.3653 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.3671 	DATA 	Mouse:  Left button up, pos=(372,141)
+16.3822 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+16.3833 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'study_word': 'Police', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+16.3976 	EXP 	text: autoDraw = False
+16.3976 	EXP 	slider: autoDraw = False
+16.3976 	EXP 	text: height = np.float64(0.05)
+16.3976 	EXP 	text: height = np.float64(0.05)
+16.3976 	EXP 	text: height = np.float64(0.05)
+16.3976 	EXP 	text: text = 'Police'
+16.3976 	EXP 	slider: markerPos = None
+16.3976 	EXP 	slider: markerPos = None
+16.3976 	EXP 	text: autoDraw = True
+16.3976 	EXP 	slider: autoDraw = True
+17.8816 	DATA 	Mouse: Left button down, pos=(372,141)
+17.8977 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+17.9142 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+17.9311 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+17.9472 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+17.9640 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+17.9806 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+17.9977 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.0142 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.0302 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.0466 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.0639 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.0807 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.0970 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.1056 	DATA 	Mouse:  Left button up, pos=(372,141)
+18.1139 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.1305 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+18.1318 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'study_word': 'Poster', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+18.1465 	EXP 	text: autoDraw = False
+18.1465 	EXP 	slider: autoDraw = False
+18.1465 	EXP 	text: height = np.float64(0.05)
+18.1465 	EXP 	text: height = np.float64(0.05)
+18.1465 	EXP 	text: height = np.float64(0.05)
+18.1465 	EXP 	text: text = 'Poster'
+18.1465 	EXP 	slider: markerPos = None
+18.1465 	EXP 	slider: markerPos = None
+18.1465 	EXP 	text: autoDraw = True
+18.1465 	EXP 	slider: autoDraw = True
+19.2660 	DATA 	Mouse: Left button down, pos=(372,141)
+19.2801 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.2969 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.3152 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.3303 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.3473 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.3633 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.3802 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.3969 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.4132 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.4307 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.4478 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.4635 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.4814 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.4828 	DATA 	Mouse:  Left button up, pos=(372,141)
+19.4968 	EXP 	slider: markerPos = np.float64(1.9133333333333333)
+19.4985 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'study_word': 'marble', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+19.5128 	EXP 	text: autoDraw = False
+19.5128 	EXP 	slider: autoDraw = False
+19.5128 	EXP 	text: height = np.float64(0.05)
+19.5128 	EXP 	text: height = np.float64(0.05)
+19.5128 	EXP 	text: height = np.float64(0.05)
+19.5128 	EXP 	text: text = 'marble'
+19.5128 	EXP 	slider: markerPos = None
+19.5128 	EXP 	slider: markerPos = None
+19.5128 	EXP 	text: autoDraw = True
+19.5128 	EXP 	slider: autoDraw = True
+21.4808 	DATA 	Mouse: Left button down, pos=(844,117)
+21.4971 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.5136 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.5306 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.5481 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.5637 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.5805 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.5973 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.6134 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.6304 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.6470 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.6633 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.6803 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.6961 	EXP 	slider: markerPos = np.float64(5.0600000000000005)
+21.6971 	DATA 	Mouse:  Left button up, pos=(844,117)
+21.7131 	EXP 	slider: markerPos = np.int64(5)
+21.7142 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'study_word': 'chart', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+21.7297 	EXP 	text: autoDraw = False
+21.7297 	EXP 	slider: autoDraw = False
+21.7297 	EXP 	text: height = np.float64(0.05)
+21.7297 	EXP 	text: height = np.float64(0.05)
+21.7297 	EXP 	text: height = np.float64(0.05)
+21.7297 	EXP 	text: text = 'chart'
+21.7297 	EXP 	slider: markerPos = None
+21.7297 	EXP 	slider: markerPos = None
+21.7297 	EXP 	text: autoDraw = True
+21.7297 	EXP 	slider: autoDraw = True
+22.9876 	DATA 	Mouse: Left button down, pos=(381,141)
+23.0126 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.0307 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.0474 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.0631 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.0798 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.0965 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.1131 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.1294 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.1471 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.1631 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.1802 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.1971 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.2143 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.2156 	DATA 	Mouse:  Left button up, pos=(381,141)
+23.2302 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+23.2316 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'study_word': 'T-shirt', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+23.2633 	EXP 	text: autoDraw = False
+23.2633 	EXP 	slider: autoDraw = False
+23.2633 	EXP 	text: height = np.float64(0.05)
+23.2633 	EXP 	text: height = np.float64(0.05)
+23.2633 	EXP 	text: height = np.float64(0.05)
+23.2633 	EXP 	text: text = 'T-shirt'
+23.2633 	EXP 	slider: markerPos = None
+23.2633 	EXP 	slider: markerPos = None
+23.2633 	EXP 	text: autoDraw = True
+23.2633 	EXP 	slider: autoDraw = True
+24.0380 	DATA 	Mouse: Left button down, pos=(381,141)
+24.0625 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.0796 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.0963 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.1128 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.1306 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.1458 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.1630 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.1795 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.1963 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.2130 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.2297 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.2461 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.2544 	DATA 	Mouse:  Left button up, pos=(381,141)
+24.2636 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.2798 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+24.2810 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'study_word': 'Cruise', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+24.2974 	EXP 	text: autoDraw = False
+24.2974 	EXP 	slider: autoDraw = False
+24.2974 	EXP 	text: height = np.float64(0.05)
+24.2974 	EXP 	text: height = np.float64(0.05)
+24.2974 	EXP 	text: height = np.float64(0.05)
+24.2974 	EXP 	text: text = 'Cruise'
+24.2974 	EXP 	slider: markerPos = None
+24.2974 	EXP 	slider: markerPos = None
+24.2974 	EXP 	text: autoDraw = True
+24.2974 	EXP 	slider: autoDraw = True
+25.3979 	DATA 	Mouse: Left button down, pos=(381,141)
+25.4142 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.4302 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.4468 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.4629 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.4807 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.4961 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.5134 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.5299 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.5469 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.5635 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.5796 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.5960 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.6123 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.6136 	DATA 	Mouse:  Left button up, pos=(381,141)
+25.6301 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+25.6319 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'study_word': 'laptop', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+25.6457 	EXP 	text: autoDraw = False
+25.6457 	EXP 	slider: autoDraw = False
+25.6457 	EXP 	text: height = np.float64(0.05)
+25.6457 	EXP 	text: height = np.float64(0.05)
+25.6457 	EXP 	text: height = np.float64(0.05)
+25.6457 	EXP 	text: text = 'laptop'
+25.6457 	EXP 	slider: markerPos = None
+25.6457 	EXP 	slider: markerPos = None
+25.6457 	EXP 	text: autoDraw = True
+25.6457 	EXP 	slider: autoDraw = True
+27.1475 	DATA 	Mouse: Left button down, pos=(381,141)
+27.1630 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.1792 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.1963 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.2128 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.2294 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.2458 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.2626 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.2789 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.2961 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.3126 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.3290 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.3463 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.3631 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.3749 	DATA 	Mouse:  Left button up, pos=(381,141)
+27.3793 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.3962 	EXP 	slider: markerPos = np.float64(1.9733333333333334)
+27.3979 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'study_word': 'Case', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+27.4122 	EXP 	text: autoDraw = False
+27.4122 	EXP 	slider: autoDraw = False
+27.4122 	EXP 	text: height = np.float64(0.05)
+27.4122 	EXP 	text: height = np.float64(0.05)
+27.4122 	EXP 	text: height = np.float64(0.05)
+27.4122 	EXP 	text: text = 'Case'
+27.4122 	EXP 	slider: markerPos = None
+27.4122 	EXP 	slider: markerPos = None
+27.4122 	EXP 	text: autoDraw = True
+27.4122 	EXP 	slider: autoDraw = True
+29.3013 	DATA 	Mouse: Left button down, pos=(708,111)
+29.3296 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.3462 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.3625 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.3794 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.3953 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.4123 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.4295 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.4463 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.4622 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.4798 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.4962 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.4975 	DATA 	Mouse:  Left button up, pos=(708,111)
+29.5128 	EXP 	slider: markerPos = np.float64(4.153333333333333)
+29.5257 	EXP 	Imported test_word.xlsx as conditions, 20 conditions, 3 params
+29.5265 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'test_word': '_oo_', 'Refrence': 'book', 'old_new': 'old', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+29.5452 	EXP 	text: autoDraw = False
+29.5452 	EXP 	slider: autoDraw = False
+29.5452 	EXP 	text_2: height = np.float64(0.05)
+29.5452 	EXP 	text_2: height = np.float64(0.05)
+29.5452 	EXP 	text_2: height = np.float64(0.05)
+29.5452 	EXP 	text_2: text = '_oo_'
+29.5452 	EXP 	text_2: autoDraw = True
+29.5452 	EXP 	textbox: autoDraw = True
+29.5452 	EXP 	text_3: autoDraw = True
+29.5635 	DATA 	Mouse: Left button down, pos=(708,111)
+29.7211 	DATA 	Mouse:  Left button up, pos=(708,111)
+31.3047 	DATA 	Keypress: b
+31.3470 	EXP 	Device response: <KeyPress from None: t=31.29738240002189, value=b, duration=None>
+31.3975 	EXP 	Device response: <KeyPress from None: t=31.29738240002189, value=b, duration=0.08468179998453707>
+31.7179 	DATA 	Keypress: o
+31.7304 	EXP 	Device response: <KeyPress from None: t=31.71717160003027, value=o, duration=None>
+31.8138 	EXP 	Device response: <KeyPress from None: t=31.71717160003027, value=o, duration=0.08002449997002259>
+31.9024 	DATA 	Keypress: o
+31.9138 	EXP 	Device response: <KeyPress from None: t=31.898281000030693, value=o, duration=None>
+31.9801 	EXP 	Device response: <KeyPress from None: t=31.898281000030693, value=o, duration=0.0744632999994792>
+32.0998 	DATA 	Keypress: k
+32.1142 	EXP 	Device response: <KeyPress from None: t=32.097483700024895, value=k, duration=None>
+32.1805 	EXP 	Device response: <KeyPress from None: t=32.097483700024895, value=k, duration=0.08018900000024587>
+33.9128 	DATA 	Mouse: Left button down, pos=(579,113)
+33.9137 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'test_word': '_ru_s_', 'Refrence': 'Cruise', 'old_new': 'old', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+33.9448 	EXP 	text_2: autoDraw = False
+33.9448 	EXP 	textbox: autoDraw = False
+33.9448 	EXP 	text_3: autoDraw = False
+33.9448 	EXP 	text_2: height = np.float64(0.05)
+33.9448 	EXP 	text_2: height = np.float64(0.05)
+33.9448 	EXP 	text_2: height = np.float64(0.05)
+33.9448 	EXP 	text_2: text = '_ru_s_'
+33.9448 	EXP 	text_2: autoDraw = True
+33.9448 	EXP 	textbox: autoDraw = True
+33.9448 	EXP 	text_3: autoDraw = True
+34.1452 	DATA 	Mouse:  Left button up, pos=(579,113)
+35.9128 	DATA 	Keypress: c
+35.9160 	EXP 	Device response: <KeyPress from None: t=35.90682380000362, value=c, duration=None>
+36.0474 	EXP 	Device response: <KeyPress from None: t=35.90682380000362, value=c, duration=0.13344810000853613>
+36.3168 	DATA 	Keypress: r
+36.3299 	EXP 	Device response: <KeyPress from None: t=36.31480839999858, value=r, duration=None>
+36.4302 	EXP 	Device response: <KeyPress from None: t=36.31480839999858, value=r, duration=0.09998860000632703>
+36.7166 	DATA 	Keypress: u
+36.7293 	EXP 	Device response: <KeyPress from None: t=36.715105700015556, value=u, duration=None>
+36.7964 	EXP 	Device response: <KeyPress from None: t=36.715105700015556, value=u, duration=0.08012150001013651>
+36.9140 	DATA 	Keypress: i
+36.9182 	EXP 	Device response: <KeyPress from None: t=36.91156899998896, value=i, duration=None>
+36.9963 	EXP 	Device response: <KeyPress from None: t=36.91156899998896, value=i, duration=0.08360660000471398>
+37.3634 	DATA 	Keypress: s
+37.3678 	EXP 	Device response: <KeyPress from None: t=37.35700590000488, value=s, duration=None>
+37.4629 	EXP 	Device response: <KeyPress from None: t=37.35700590000488, value=s, duration=0.09343660000013188>
+37.5663 	DATA 	Keypress: e
+37.5783 	EXP 	Device response: <KeyPress from None: t=37.56582910002908, value=e, duration=None>
+37.6636 	EXP 	Device response: <KeyPress from None: t=37.56582910002908, value=e, duration=0.0910613999585621>
+39.5160 	DATA 	Mouse: Left button down, pos=(577,147)
+39.5301 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'test_word': 'c_a_', 'Refrence': 'Case', 'old_new': 'old', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+39.5600 	EXP 	text_2: autoDraw = False
+39.5600 	EXP 	textbox: autoDraw = False
+39.5600 	EXP 	text_3: autoDraw = False
+39.5600 	EXP 	text_2: height = np.float64(0.05)
+39.5600 	EXP 	text_2: height = np.float64(0.05)
+39.5600 	EXP 	text_2: height = np.float64(0.05)
+39.5600 	EXP 	text_2: text = 'c_a_'
+39.5600 	EXP 	text_2: autoDraw = True
+39.5600 	EXP 	textbox: autoDraw = True
+39.5600 	EXP 	text_3: autoDraw = True
+39.7453 	DATA 	Mouse:  Left button up, pos=(577,147)
+40.8707 	DATA 	Keypress: c
+40.8786 	EXP 	Device response: <KeyPress from None: t=40.863648500002455, value=c, duration=None>
+40.9631 	EXP 	Device response: <KeyPress from None: t=40.863648500002455, value=c, duration=0.09428780002053827>
+43.2495 	DATA 	Keypress: o
+43.2607 	EXP 	Device response: <KeyPress from None: t=43.24883639998734, value=o, duration=None>
+43.3956 	EXP 	Device response: <KeyPress from None: t=43.24883639998734, value=o, duration=0.14068670000415295>
+43.8615 	DATA 	Keypress: a
+43.8658 	EXP 	Device response: <KeyPress from None: t=43.85091320000356, value=a, duration=None>
+43.9299 	EXP 	Device response: <KeyPress from None: t=43.85091320000356, value=a, duration=0.07448210002621636>
+44.1950 	DATA 	Keypress: t
+44.1983 	EXP 	Device response: <KeyPress from None: t=44.184410299989395, value=t, duration=None>
+44.2628 	EXP 	Device response: <KeyPress from None: t=44.184410299989395, value=t, duration=0.0751831000088714>
+45.9616 	DATA 	Mouse: Left button down, pos=(577,147)
+45.9626 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'test_word': '_ha_t', 'Refrence': 'chart', 'old_new': 'old', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+45.9765 	EXP 	text_2: autoDraw = False
+45.9765 	EXP 	textbox: autoDraw = False
+45.9765 	EXP 	text_3: autoDraw = False
+45.9765 	EXP 	text_2: height = np.float64(0.05)
+45.9765 	EXP 	text_2: height = np.float64(0.05)
+45.9765 	EXP 	text_2: height = np.float64(0.05)
+45.9765 	EXP 	text_2: text = '_ha_t'
+45.9765 	EXP 	text_2: autoDraw = True
+45.9765 	EXP 	textbox: autoDraw = True
+45.9765 	EXP 	text_3: autoDraw = True
+46.1782 	DATA 	Mouse:  Left button up, pos=(577,147)
+47.7110 	DATA 	Keypress: c
+47.7121 	EXP 	Device response: <KeyPress from None: t=47.707040500012226, value=c, duration=None>
+47.7953 	EXP 	Device response: <KeyPress from None: t=47.707040500012226, value=c, duration=0.08526650001294911>
+47.9649 	DATA 	Keypress: h
+47.9779 	EXP 	Device response: <KeyPress from None: t=47.961607600038406, value=h, duration=None>
+48.0634 	EXP 	Device response: <KeyPress from None: t=47.961607600038406, value=h, duration=0.09541059995535761>
+48.5785 	DATA 	Keypress: a
+48.5801 	EXP 	Device response: <KeyPress from None: t=48.56807869998738, value=a, duration=None>
+48.6624 	EXP 	Device response: <KeyPress from None: t=48.56807869998738, value=a, duration=0.08910040004411712>
+48.8120 	DATA 	Keypress: r
+48.8132 	EXP 	Device response: <KeyPress from None: t=48.80732980003813, value=r, duration=None>
+48.8953 	EXP 	Device response: <KeyPress from None: t=48.80732980003813, value=r, duration=0.08624629996484146>
+49.0120 	DATA 	Keypress: t
+49.0135 	EXP 	Device response: <KeyPress from None: t=49.003488400019705, value=t, duration=None>
+49.0957 	EXP 	Device response: <KeyPress from None: t=49.003488400019705, value=t, duration=0.08956559997750446>
+50.5941 	DATA 	Mouse: Left button down, pos=(577,147)
+50.5950 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'test_word': '_o_rd', 'Refrence': 'board', 'old_new': 'old', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+50.6094 	EXP 	text_2: autoDraw = False
+50.6094 	EXP 	textbox: autoDraw = False
+50.6094 	EXP 	text_3: autoDraw = False
+50.6094 	EXP 	text_2: height = np.float64(0.05)
+50.6094 	EXP 	text_2: height = np.float64(0.05)
+50.6094 	EXP 	text_2: height = np.float64(0.05)
+50.6094 	EXP 	text_2: text = '_o_rd'
+50.6094 	EXP 	text_2: autoDraw = True
+50.6094 	EXP 	textbox: autoDraw = True
+50.6094 	EXP 	text_3: autoDraw = True
+50.8107 	DATA 	Mouse:  Left button up, pos=(577,147)
+52.3447 	DATA 	Keypress: b
+52.3462 	EXP 	Device response: <KeyPress from None: t=52.33570009999676, value=b, duration=None>
+52.4109 	EXP 	Device response: <KeyPress from None: t=52.33570009999676, value=b, duration=0.06353939999826252>
+52.8109 	DATA 	Keypress: o
+52.8123 	EXP 	Device response: <KeyPress from None: t=52.80982830002904, value=o, duration=None>
+52.8949 	EXP 	Device response: <KeyPress from None: t=52.80982830002904, value=o, duration=0.08082299999659881>
+53.2983 	DATA 	Keypress: a
+53.3098 	EXP 	Device response: <KeyPress from None: t=53.294744300015736, value=a, duration=None>
+53.3790 	EXP 	Device response: <KeyPress from None: t=53.294744300015736, value=a, duration=0.08045960002345964>
+53.5447 	DATA 	Keypress: r
+53.5463 	EXP 	Device response: <KeyPress from None: t=53.53642379998928, value=r, duration=None>
+53.6283 	EXP 	Device response: <KeyPress from None: t=53.53642379998928, value=r, duration=0.08873270003823563>
+53.7445 	DATA 	Keypress: d
+53.7492 	EXP 	Device response: <KeyPress from None: t=53.740220200037584, value=d, duration=None>
+53.8434 	EXP 	Device response: <KeyPress from None: t=53.740220200037584, value=d, duration=0.08983439998701215>
+55.8429 	DATA 	Mouse: Left button down, pos=(577,147)
+55.8437 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'test_word': '_ou_s_', 'Refrence': 'mouse', 'old_new': 'old', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+55.8586 	EXP 	text_2: autoDraw = False
+55.8586 	EXP 	textbox: autoDraw = False
+55.8586 	EXP 	text_3: autoDraw = False
+55.8586 	EXP 	text_2: height = np.float64(0.05)
+55.8586 	EXP 	text_2: height = np.float64(0.05)
+55.8586 	EXP 	text_2: height = np.float64(0.05)
+55.8586 	EXP 	text_2: text = '_ou_s_'
+55.8586 	EXP 	text_2: autoDraw = True
+55.8586 	EXP 	textbox: autoDraw = True
+55.8586 	EXP 	text_3: autoDraw = True
+56.0775 	DATA 	Mouse:  Left button up, pos=(577,147)
+57.2269 	DATA 	Keypress: m
+57.2302 	EXP 	Device response: <KeyPress from None: t=57.2223225000198, value=m, duration=None>
+57.3104 	EXP 	Device response: <KeyPress from None: t=57.2223225000198, value=m, duration=0.08548050001263618>
+57.4978 	DATA 	Keypress: o
+57.5094 	EXP 	Device response: <KeyPress from None: t=57.497219100012444, value=o, duration=None>
+57.5940 	EXP 	Device response: <KeyPress from None: t=57.497219100012444, value=o, duration=0.09078520000912249>
+57.7433 	DATA 	Keypress: u
+57.7445 	EXP 	Device response: <KeyPress from None: t=57.73309190000873, value=u, duration=None>
+57.8115 	EXP 	Device response: <KeyPress from None: t=57.73309190000873, value=u, duration=0.07487100001890212>
+58.1821 	DATA 	Keypress: s
+58.1925 	EXP 	Device response: <KeyPress from None: t=58.17767210002057, value=s, duration=None>
+58.2601 	EXP 	Device response: <KeyPress from None: t=58.17767210002057, value=s, duration=0.0723922000033781>
+58.3944 	DATA 	Keypress: e
+58.3959 	EXP 	Device response: <KeyPress from None: t=58.38917169999331, value=e, duration=None>
+58.4766 	EXP 	Device response: <KeyPress from None: t=58.38917169999331, value=e, duration=0.07360140001401305>
+60.1766 	DATA 	Mouse: Left button down, pos=(577,147)
+60.1773 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'test_word': 'v_s_', 'Refrence': 'vase', 'old_new': 'new', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+60.1917 	EXP 	text_2: autoDraw = False
+60.1917 	EXP 	textbox: autoDraw = False
+60.1917 	EXP 	text_3: autoDraw = False
+60.1917 	EXP 	text_2: height = np.float64(0.05)
+60.1917 	EXP 	text_2: height = np.float64(0.05)
+60.1917 	EXP 	text_2: height = np.float64(0.05)
+60.1917 	EXP 	text_2: text = 'v_s_'
+60.1917 	EXP 	text_2: autoDraw = True
+60.1917 	EXP 	textbox: autoDraw = True
+60.1917 	EXP 	text_3: autoDraw = True
+60.4088 	DATA 	Mouse:  Left button up, pos=(577,147)
+61.1925 	DATA 	Keypress: v
+61.1959 	EXP 	Device response: <KeyPress from None: t=61.19004529999802, value=v, duration=None>
+61.2930 	EXP 	Device response: <KeyPress from None: t=61.19004529999802, value=v, duration=0.09520010004052892>
+61.5586 	DATA 	Keypress: a
+61.5598 	EXP 	Device response: <KeyPress from None: t=61.54980959999375, value=a, duration=None>
+61.6604 	EXP 	Device response: <KeyPress from None: t=61.54980959999375, value=a, duration=0.10049159999471158>
+61.7760 	DATA 	Keypress: s
+61.7773 	EXP 	Device response: <KeyPress from None: t=61.76514510001289, value=s, duration=None>
+61.8767 	EXP 	Device response: <KeyPress from None: t=61.76514510001289, value=s, duration=0.10073499998543411>
+62.1090 	DATA 	Keypress: e
+62.1101 	EXP 	Device response: <KeyPress from None: t=62.10501290002139, value=e, duration=None>
+62.1931 	EXP 	Device response: <KeyPress from None: t=62.10501290002139, value=e, duration=0.08051389997126535>
+63.2816 	DATA 	Mouse: Left button down, pos=(577,147)
+63.2938 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'test_word': '_am_ra', 'Refrence': 'camera', 'old_new': 'new', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+63.3236 	EXP 	text_2: autoDraw = False
+63.3236 	EXP 	textbox: autoDraw = False
+63.3236 	EXP 	text_3: autoDraw = False
+63.3236 	EXP 	text_2: height = np.float64(0.05)
+63.3236 	EXP 	text_2: height = np.float64(0.05)
+63.3236 	EXP 	text_2: height = np.float64(0.05)
+63.3236 	EXP 	text_2: text = '_am_ra'
+63.3236 	EXP 	text_2: autoDraw = True
+63.3236 	EXP 	textbox: autoDraw = True
+63.3236 	EXP 	text_3: autoDraw = True
+63.5088 	DATA 	Mouse:  Left button up, pos=(577,147)
+64.1500 	DATA 	Keypress: c
+64.1593 	EXP 	Device response: <KeyPress from None: t=64.14639360003639, value=c, duration=None>
+64.2426 	EXP 	Device response: <KeyPress from None: t=64.14639360003639, value=c, duration=0.09524609998334199>
+64.4759 	DATA 	Keypress: a
+64.4772 	EXP 	Device response: <KeyPress from None: t=64.46790009998949, value=a, duration=None>
+64.5594 	EXP 	Device response: <KeyPress from None: t=64.46790009998949, value=a, duration=0.08514450001530349>
+65.0088 	DATA 	Keypress: m
+65.0099 	EXP 	Device response: <KeyPress from None: t=65.00320620002458, value=m, duration=None>
+65.0771 	EXP 	Device response: <KeyPress from None: t=65.00320620002458, value=m, duration=0.06465690000914037>
+65.4417 	DATA 	Keypress: e
+65.4429 	EXP 	Device response: <KeyPress from None: t=65.43715110002086, value=e, duration=None>
+65.5088 	EXP 	Device response: <KeyPress from None: t=65.43715110002086, value=e, duration=0.06636990001425147>
+65.6262 	DATA 	Keypress: r
+65.6276 	EXP 	Device response: <KeyPress from None: t=65.6180224000127, value=r, duration=None>
+65.7084 	EXP 	Device response: <KeyPress from None: t=65.6180224000127, value=r, duration=0.07913849997567013>
+65.8975 	DATA 	Keypress: a
+65.9084 	EXP 	Device response: <KeyPress from None: t=65.89348890003748, value=a, duration=None>
+65.9932 	EXP 	Device response: <KeyPress from None: t=65.89348890003748, value=a, duration=0.0894797999644652>
+67.6481 	DATA 	Mouse: Left button down, pos=(577,147)
+67.6614 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'test_word': 'T_hi_t', 'Refrence': 'Tshirt', 'old_new': 'old', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+67.6906 	EXP 	text_2: autoDraw = False
+67.6906 	EXP 	textbox: autoDraw = False
+67.6906 	EXP 	text_3: autoDraw = False
+67.6906 	EXP 	text_2: height = np.float64(0.05)
+67.6906 	EXP 	text_2: height = np.float64(0.05)
+67.6906 	EXP 	text_2: height = np.float64(0.05)
+67.6906 	EXP 	text_2: text = 'T_hi_t'
+67.6906 	EXP 	text_2: autoDraw = True
+67.6906 	EXP 	textbox: autoDraw = True
+67.6906 	EXP 	text_3: autoDraw = True
+67.8671 	DATA 	Mouse:  Left button up, pos=(577,147)
+69.4418 	DATA 	Keypress: t
+69.4429 	EXP 	Device response: <KeyPress from None: t=69.43500009999843, value=t, duration=None>
+69.5257 	EXP 	Device response: <KeyPress from None: t=69.43500009999843, value=t, duration=0.07468310004333034>
+69.7758 	DATA 	Keypress: s
+69.7771 	EXP 	Device response: <KeyPress from None: t=69.77495839999756, value=s, duration=None>
+69.8748 	EXP 	Device response: <KeyPress from None: t=69.77495839999756, value=s, duration=0.08573640004033223>
+70.2796 	DATA 	Keypress: h
+70.2909 	EXP 	Device response: <KeyPress from None: t=70.27505400002701, value=h, duration=None>
+70.3426 	EXP 	Device response: <KeyPress from None: t=70.27505400002701, value=h, duration=0.06508609995944425>
+70.5098 	DATA 	Keypress: i
+70.5112 	EXP 	Device response: <KeyPress from None: t=70.50207779998891, value=i, duration=None>
+70.5919 	EXP 	Device response: <KeyPress from None: t=70.50207779998891, value=i, duration=0.07313250005245209>
+70.8079 	DATA 	Keypress: r
+70.8092 	EXP 	Device response: <KeyPress from None: t=70.79613249999238, value=r, duration=None>
+70.8924 	EXP 	Device response: <KeyPress from None: t=70.79613249999238, value=r, duration=0.09133540000766516>
+71.0086 	DATA 	Keypress: t
+71.0102 	EXP 	Device response: <KeyPress from None: t=71.0009485000046, value=t, duration=None>
+71.1085 	EXP 	Device response: <KeyPress from None: t=71.0009485000046, value=t, duration=0.09464319999096915>
+73.5950 	DATA 	Mouse: Left button down, pos=(577,147)
+73.6076 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'test_word': 'K_y_', 'Refrence': 'Keys', 'old_new': 'old', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+73.6228 	EXP 	text_2: autoDraw = False
+73.6228 	EXP 	textbox: autoDraw = False
+73.6228 	EXP 	text_3: autoDraw = False
+73.6228 	EXP 	text_2: height = np.float64(0.05)
+73.6228 	EXP 	text_2: height = np.float64(0.05)
+73.6228 	EXP 	text_2: height = np.float64(0.05)
+73.6228 	EXP 	text_2: text = 'K_y_'
+73.6228 	EXP 	text_2: autoDraw = True
+73.6228 	EXP 	textbox: autoDraw = True
+73.6228 	EXP 	text_3: autoDraw = True
+73.8245 	DATA 	Mouse:  Left button up, pos=(577,147)
+74.7074 	DATA 	Keypress: k
+74.7083 	EXP 	Device response: <KeyPress from None: t=74.70347619999666, value=k, duration=None>
+74.8092 	EXP 	Device response: <KeyPress from None: t=74.70347619999666, value=k, duration=0.10426739999093115>
+75.1748 	DATA 	Keypress: e
+75.1763 	EXP 	Device response: <KeyPress from None: t=75.16302070004167, value=e, duration=None>
+75.2584 	EXP 	Device response: <KeyPress from None: t=75.16302070004167, value=e, duration=0.09060679998947307>
+75.4417 	DATA 	Keypress: y
+75.4432 	EXP 	Device response: <KeyPress from None: t=75.43863920000149, value=y, duration=None>
+75.5419 	EXP 	Device response: <KeyPress from None: t=75.43863920000149, value=y, duration=0.09478380001382902>
+75.7254 	DATA 	Keypress: s
+75.7405 	EXP 	Device response: <KeyPress from None: t=75.72318710002583, value=s, duration=None>
+75.8084 	EXP 	Device response: <KeyPress from None: t=75.72318710002583, value=s, duration=0.07009890000335872>
+77.2440 	DATA 	Mouse: Left button down, pos=(577,147)
+77.2581 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'test_word': '_a_bl_', 'Refrence': 'marble', 'old_new': 'old', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+77.2727 	EXP 	text_2: autoDraw = False
+77.2727 	EXP 	textbox: autoDraw = False
+77.2727 	EXP 	text_3: autoDraw = False
+77.2727 	EXP 	text_2: height = np.float64(0.05)
+77.2727 	EXP 	text_2: height = np.float64(0.05)
+77.2727 	EXP 	text_2: height = np.float64(0.05)
+77.2727 	EXP 	text_2: text = '_a_bl_'
+77.2727 	EXP 	text_2: autoDraw = True
+77.2727 	EXP 	textbox: autoDraw = True
+77.2727 	EXP 	text_3: autoDraw = True
+77.4737 	DATA 	Mouse:  Left button up, pos=(577,147)
+78.2402 	DATA 	Keypress: t
+78.2412 	EXP 	Device response: <KeyPress from None: t=78.23506820003968, value=t, duration=None>
+78.3251 	EXP 	Device response: <KeyPress from None: t=78.23506820003968, value=t, duration=0.08105859998613596>
+78.6409 	DATA 	Keypress: a
+78.6424 	EXP 	Device response: <KeyPress from None: t=78.64012689999072, value=a, duration=None>
+78.7746 	EXP 	Device response: <KeyPress from None: t=78.64012689999072, value=a, duration=0.12997990002622828>
+79.2461 	DATA 	Keypress: b
+79.2561 	EXP 	Device response: <KeyPress from None: t=79.2453313000151, value=b, duration=None>
+79.3235 	EXP 	Device response: <KeyPress from None: t=79.2453313000151, value=b, duration=0.07090470002731308>
+79.5574 	DATA 	Keypress: l
+79.5632 	EXP 	Device response: <KeyPress from None: t=79.55106600001454, value=l, duration=None>
+79.6583 	EXP 	Device response: <KeyPress from None: t=79.55106600001454, value=l, duration=0.09479519998421893>
+79.9918 	DATA 	Keypress: e
+79.9930 	EXP 	Device response: <KeyPress from None: t=79.98214570002165, value=e, duration=None>
+80.0735 	EXP 	Device response: <KeyPress from None: t=79.98214570002165, value=e, duration=0.07866810000268742>
+82.0743 	DATA 	Mouse: Left button down, pos=(577,147)
+82.0753 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'test_word': 'l_pt_p', 'Refrence': 'laptop', 'old_new': 'old', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+82.1044 	EXP 	text_2: autoDraw = False
+82.1044 	EXP 	textbox: autoDraw = False
+82.1044 	EXP 	text_3: autoDraw = False
+82.1044 	EXP 	text_2: height = np.float64(0.05)
+82.1044 	EXP 	text_2: height = np.float64(0.05)
+82.1044 	EXP 	text_2: height = np.float64(0.05)
+82.1044 	EXP 	text_2: text = 'l_pt_p'
+82.1044 	EXP 	text_2: autoDraw = True
+82.1044 	EXP 	textbox: autoDraw = True
+82.1044 	EXP 	text_3: autoDraw = True
+82.3066 	DATA 	Mouse:  Left button up, pos=(577,147)
+83.0410 	DATA 	Keypress: l
+83.0419 	EXP 	Device response: <KeyPress from None: t=83.0276545000379, value=l, duration=None>
+83.1402 	EXP 	Device response: <KeyPress from None: t=83.0276545000379, value=l, duration=0.10024079994764179>
+83.4905 	DATA 	Keypress: a
+83.4917 	EXP 	Device response: <KeyPress from None: t=83.4780406000209, value=a, duration=None>
+83.6077 	EXP 	Device response: <KeyPress from None: t=83.4780406000209, value=a, duration=0.12521530000958592>
+83.8946 	DATA 	Keypress: p
+83.9061 	EXP 	Device response: <KeyPress from None: t=83.8942296000314, value=p, duration=None>
+84.0569 	EXP 	Device response: <KeyPress from None: t=83.8942296000314, value=p, duration=0.15472439996665344>
+84.4231 	DATA 	Keypress: t
+84.4244 	EXP 	Device response: <KeyPress from None: t=84.4140761999879, value=t, duration=None>
+84.4900 	EXP 	Device response: <KeyPress from None: t=84.4140761999879, value=t, duration=0.07484320004004985>
+84.7579 	DATA 	Keypress: o
+84.7594 	EXP 	Device response: <KeyPress from None: t=84.75448960001813, value=o, duration=None>
+84.8402 	EXP 	Device response: <KeyPress from None: t=84.75448960001813, value=o, duration=0.08476170001085848>
+84.9908 	DATA 	Keypress: p
+84.9924 	EXP 	Device response: <KeyPress from None: t=84.97914060001494, value=p, duration=None>
+85.0728 	EXP 	Device response: <KeyPress from None: t=84.97914060001494, value=p, duration=0.0797321000136435>
+86.6440 	DATA 	Mouse: Left button down, pos=(577,147)
+86.6567 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'test_word': 'c_s_io_', 'Refrence': 'cushion', 'old_new': 'old', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+86.6875 	EXP 	text_2: autoDraw = False
+86.6875 	EXP 	textbox: autoDraw = False
+86.6875 	EXP 	text_3: autoDraw = False
+86.6875 	EXP 	text_2: height = np.float64(0.05)
+86.6875 	EXP 	text_2: height = np.float64(0.05)
+86.6875 	EXP 	text_2: height = np.float64(0.05)
+86.6875 	EXP 	text_2: text = 'c_s_io_'
+86.6875 	EXP 	text_2: autoDraw = True
+86.6875 	EXP 	textbox: autoDraw = True
+86.6875 	EXP 	text_3: autoDraw = True
+86.8639 	DATA 	Mouse:  Left button up, pos=(577,147)
+88.0950 	DATA 	Keypress: c
+88.1055 	EXP 	Device response: <KeyPress from None: t=88.09081600001082, value=c, duration=None>
+88.2076 	EXP 	Device response: <KeyPress from None: t=88.09081600001082, value=c, duration=0.11575029999949038>
+89.5394 	DATA 	Keypress: u
+89.5406 	EXP 	Device response: <KeyPress from None: t=89.53337329998612, value=u, duration=None>
+89.6399 	EXP 	Device response: <KeyPress from None: t=89.53337329998612, value=u, duration=0.09968100005062297>
+89.9393 	DATA 	Keypress: s
+89.9405 	EXP 	Device response: <KeyPress from None: t=89.93360839999514, value=s, duration=None>
+90.0401 	EXP 	Device response: <KeyPress from None: t=89.93360839999514, value=s, duration=0.0936764000216499>
+90.3564 	DATA 	Keypress: h
+90.3576 	EXP 	Device response: <KeyPress from None: t=90.352606200031, value=h, duration=None>
+90.4392 	EXP 	Device response: <KeyPress from None: t=90.352606200031, value=h, duration=0.07498669996857643>
+90.6561 	DATA 	Keypress: i
+90.6573 	EXP 	Device response: <KeyPress from None: t=90.65346729999874, value=i, duration=None>
+90.7248 	EXP 	Device response: <KeyPress from None: t=90.65346729999874, value=i, duration=0.06925060000503436>
+90.8259 	DATA 	Keypress: o
+90.8379 	EXP 	Device response: <KeyPress from None: t=90.82297989999643, value=o, duration=None>
+90.9215 	EXP 	Device response: <KeyPress from None: t=90.82297989999643, value=o, duration=0.08561840001493692>
+91.0727 	DATA 	Keypress: n
+91.0778 	EXP 	Device response: <KeyPress from None: t=91.06375979998847, value=n, duration=None>
+91.1407 	EXP 	Device response: <KeyPress from None: t=91.06375979998847, value=n, duration=0.07466340000974014>
+92.6062 	DATA 	Mouse: Left button down, pos=(577,147)
+92.6073 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'test_word': 'b_tt_e', 'Refrence': 'bottle', 'old_new': 'new', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+92.6206 	EXP 	text_2: autoDraw = False
+92.6206 	EXP 	textbox: autoDraw = False
+92.6206 	EXP 	text_3: autoDraw = False
+92.6206 	EXP 	text_2: height = np.float64(0.05)
+92.6206 	EXP 	text_2: height = np.float64(0.05)
+92.6206 	EXP 	text_2: height = np.float64(0.05)
+92.6206 	EXP 	text_2: text = 'b_tt_e'
+92.6206 	EXP 	text_2: autoDraw = True
+92.6206 	EXP 	textbox: autoDraw = True
+92.6206 	EXP 	text_3: autoDraw = True
+92.8109 	DATA 	Mouse:  Left button up, pos=(577,147)
+93.6712 	DATA 	Keypress: b
+93.6721 	EXP 	Device response: <KeyPress from None: t=93.66591270000208, value=b, duration=None>
+93.7722 	EXP 	Device response: <KeyPress from None: t=93.66591270000208, value=b, duration=0.09384610003326088>
+94.0726 	DATA 	Keypress: u
+94.0742 	EXP 	Device response: <KeyPress from None: t=94.07085210003424, value=u, duration=None>
+94.1566 	EXP 	Device response: <KeyPress from None: t=94.07085210003424, value=u, duration=0.0806062999763526>
+94.3050 	DATA 	Keypress: t
+94.3062 	EXP 	Device response: <KeyPress from None: t=94.29561650002142, value=t, duration=None>
+94.3892 	EXP 	Device response: <KeyPress from None: t=94.29561650002142, value=t, duration=0.07938810001360252>
+94.4560 	DATA 	Keypress: t
+94.4578 	EXP 	Device response: <KeyPress from None: t=94.44569650001358, value=t, duration=None>
+94.5240 	EXP 	Device response: <KeyPress from None: t=94.44569650001358, value=t, duration=0.07535990001633763>
+94.6936 	DATA 	Keypress: e
+94.7049 	EXP 	Device response: <KeyPress from None: t=94.690384800022, value=e, duration=None>
+94.7723 	EXP 	Device response: <KeyPress from None: t=94.690384800022, value=e, duration=0.06500419997610152>
+94.8716 	DATA 	Keypress: r
+94.8733 	EXP 	Device response: <KeyPress from None: t=94.86169460002566, value=r, duration=None>
+94.9721 	EXP 	Device response: <KeyPress from None: t=94.86169460002566, value=r, duration=0.09458919998724014>
+95.7928 	DATA 	Mouse: Left button down, pos=(577,147)
+95.8057 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'test_word': '_o_t_r', 'Refrence': 'Poster', 'old_new': 'old', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+95.8205 	EXP 	text_2: autoDraw = False
+95.8205 	EXP 	textbox: autoDraw = False
+95.8205 	EXP 	text_3: autoDraw = False
+95.8205 	EXP 	text_2: height = np.float64(0.05)
+95.8205 	EXP 	text_2: height = np.float64(0.05)
+95.8205 	EXP 	text_2: height = np.float64(0.05)
+95.8205 	EXP 	text_2: text = '_o_t_r'
+95.8205 	EXP 	text_2: autoDraw = True
+95.8205 	EXP 	textbox: autoDraw = True
+95.8205 	EXP 	text_3: autoDraw = True
+96.0221 	DATA 	Mouse:  Left button up, pos=(577,147)
+96.9211 	DATA 	Keypress: p
+96.9221 	EXP 	Device response: <KeyPress from None: t=96.91780970001128, value=p, duration=None>
+97.0056 	EXP 	Device response: <KeyPress from None: t=96.91780970001128, value=p, duration=0.07955810002749786>
+97.1384 	DATA 	Keypress: o
+97.1397 	EXP 	Device response: <KeyPress from None: t=97.12815790000604, value=o, duration=None>
+97.2213 	EXP 	Device response: <KeyPress from None: t=97.12815790000604, value=o, duration=0.07858289999421686>
+97.6882 	DATA 	Keypress: s
+97.6893 	EXP 	Device response: <KeyPress from None: t=97.68283730000257, value=s, duration=None>
+97.7890 	EXP 	Device response: <KeyPress from None: t=97.68283730000257, value=s, duration=0.08944770001107827>
+98.3384 	DATA 	Keypress: t
+98.3396 	EXP 	Device response: <KeyPress from None: t=98.33777430001646, value=t, duration=None>
+98.4559 	EXP 	Device response: <KeyPress from None: t=98.33777430001646, value=t, duration=0.10492519999388605>
+98.5709 	DATA 	Keypress: e
+98.5723 	EXP 	Device response: <KeyPress from None: t=98.56795410002815, value=e, duration=None>
+98.6393 	EXP 	Device response: <KeyPress from None: t=98.56795410002815, value=e, duration=0.06608149997191504>
+98.7711 	DATA 	Keypress: r
+98.7723 	EXP 	Device response: <KeyPress from None: t=98.7637218000018, value=r, duration=None>
+98.8718 	EXP 	Device response: <KeyPress from None: t=98.7637218000018, value=r, duration=0.09424420003779233>
+101.2072 	DATA 	Mouse: Left button down, pos=(577,147)
+101.2213 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'test_word': '_ab_e', 'Refrence': 'table', 'old_new': 'new', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+101.2529 	EXP 	text_2: autoDraw = False
+101.2529 	EXP 	textbox: autoDraw = False
+101.2529 	EXP 	text_3: autoDraw = False
+101.2529 	EXP 	text_2: height = np.float64(0.05)
+101.2529 	EXP 	text_2: height = np.float64(0.05)
+101.2529 	EXP 	text_2: height = np.float64(0.05)
+101.2529 	EXP 	text_2: text = '_ab_e'
+101.2529 	EXP 	text_2: autoDraw = True
+101.2529 	EXP 	textbox: autoDraw = True
+101.2529 	EXP 	text_3: autoDraw = True
+101.4367 	DATA 	Mouse:  Left button up, pos=(577,147)
+102.6715 	DATA 	Keypress: t
+102.6729 	EXP 	Device response: <KeyPress from None: t=102.66077630000655, value=t, duration=None>
+102.7718 	EXP 	Device response: <KeyPress from None: t=102.66077630000655, value=t, duration=0.09988520003389567>
+104.7381 	DATA 	Keypress: a
+104.7396 	EXP 	Device response: <KeyPress from None: t=104.73327219998464, value=a, duration=None>
+104.8214 	EXP 	Device response: <KeyPress from None: t=104.73327219998464, value=a, duration=0.08362770004896447>
+105.2377 	DATA 	Keypress: b
+105.2389 	EXP 	Device response: <KeyPress from None: t=105.23300180002116, value=b, duration=None>
+105.3206 	EXP 	Device response: <KeyPress from None: t=105.23300180002116, value=b, duration=0.0798681000014767>
+105.5536 	DATA 	Keypress: l
+105.5551 	EXP 	Device response: <KeyPress from None: t=105.54736800002865, value=l, duration=None>
+105.6546 	EXP 	Device response: <KeyPress from None: t=105.54736800002865, value=l, duration=0.0962988999672234>
+105.9217 	DATA 	Keypress: e
+105.9230 	EXP 	Device response: <KeyPress from None: t=105.91937980003422, value=e, duration=None>
+106.0034 	EXP 	Device response: <KeyPress from None: t=105.91937980003422, value=e, duration=0.06810769997537136>
+106.7405 	DATA 	Mouse: Left button down, pos=(577,147)
+106.7549 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'test_word': '_ol_ce', 'Refrence': 'Police', 'old_new': 'old', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+106.7698 	EXP 	text_2: autoDraw = False
+106.7698 	EXP 	textbox: autoDraw = False
+106.7698 	EXP 	text_3: autoDraw = False
+106.7698 	EXP 	text_2: height = np.float64(0.05)
+106.7698 	EXP 	text_2: height = np.float64(0.05)
+106.7698 	EXP 	text_2: height = np.float64(0.05)
+106.7698 	EXP 	text_2: text = '_ol_ce'
+106.7698 	EXP 	text_2: autoDraw = True
+106.7698 	EXP 	textbox: autoDraw = True
+106.7698 	EXP 	text_3: autoDraw = True
+106.9701 	DATA 	Mouse:  Left button up, pos=(577,147)
+108.0741 	DATA 	Keypress: p
+108.0870 	EXP 	Device response: <KeyPress from None: t=108.07379400002537, value=p, duration=None>
+108.1706 	EXP 	Device response: <KeyPress from None: t=108.07379400002537, value=p, duration=0.08528200001455843>
+108.2745 	DATA 	Keypress: o
+108.2861 	EXP 	Device response: <KeyPress from None: t=108.2741415000055, value=o, duration=None>
+108.3543 	EXP 	Device response: <KeyPress from None: t=108.2741415000055, value=o, duration=0.0649025000166148>
+108.4871 	DATA 	Keypress: l
+108.4884 	EXP 	Device response: <KeyPress from None: t=108.48466050002025, value=l, duration=None>
+108.5534 	EXP 	Device response: <KeyPress from None: t=108.48466050002025, value=l, duration=0.06090149999363348>
+108.6755 	DATA 	Keypress: i
+108.6858 	EXP 	Device response: <KeyPress from None: t=108.6744258000399, value=i, duration=None>
+108.7707 	EXP 	Device response: <KeyPress from None: t=108.6744258000399, value=i, duration=0.07988939998904243>
+109.0365 	DATA 	Keypress: c
+109.0379 	EXP 	Device response: <KeyPress from None: t=109.03483150003012, value=c, duration=None>
+109.1376 	EXP 	Device response: <KeyPress from None: t=109.03483150003012, value=c, duration=0.0961750999558717>
+109.2700 	DATA 	Keypress: e
+109.2714 	EXP 	Device response: <KeyPress from None: t=109.26039990002755, value=e, duration=None>
+109.3375 	EXP 	Device response: <KeyPress from None: t=109.26039990002755, value=e, duration=0.07457369996700436>
+110.7202 	DATA 	Mouse: Left button down, pos=(577,147)
+110.7212 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'test_word': 'p_s_ry', 'Refrence': 'Pastry', 'old_new': 'old', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+110.7345 	EXP 	text_2: autoDraw = False
+110.7345 	EXP 	textbox: autoDraw = False
+110.7345 	EXP 	text_3: autoDraw = False
+110.7345 	EXP 	text_2: height = np.float64(0.05)
+110.7345 	EXP 	text_2: height = np.float64(0.05)
+110.7345 	EXP 	text_2: height = np.float64(0.05)
+110.7345 	EXP 	text_2: text = 'p_s_ry'
+110.7345 	EXP 	text_2: autoDraw = True
+110.7345 	EXP 	textbox: autoDraw = True
+110.7345 	EXP 	text_3: autoDraw = True
+110.9367 	DATA 	Mouse:  Left button up, pos=(577,147)
+111.5207 	DATA 	Keypress: p
+111.5221 	EXP 	Device response: <KeyPress from None: t=111.51630170003045, value=p, duration=None>
+111.6200 	EXP 	Device response: <KeyPress from None: t=111.51630170003045, value=p, duration=0.08972769998945296>
+111.9531 	DATA 	Keypress: a
+111.9546 	EXP 	Device response: <KeyPress from None: t=111.94342680001864, value=a, duration=None>
+112.0204 	EXP 	Device response: <KeyPress from None: t=111.94342680001864, value=a, duration=0.06288390001282096>
+112.2543 	DATA 	Keypress: s
+112.2556 	EXP 	Device response: <KeyPress from None: t=112.24144459998934, value=s, duration=None>
+112.3207 	EXP 	Device response: <KeyPress from None: t=112.24144459998934, value=s, duration=0.0757492000120692>
+112.5207 	DATA 	Keypress: t
+112.5223 	EXP 	Device response: <KeyPress from None: t=112.51254860003246, value=t, duration=None>
+112.6200 	EXP 	Device response: <KeyPress from None: t=112.51254860003246, value=t, duration=0.10503229999449104>
+112.7533 	DATA 	Keypress: r
+112.7549 	EXP 	Device response: <KeyPress from None: t=112.7474192000227, value=r, duration=None>
+112.8373 	EXP 	Device response: <KeyPress from None: t=112.7474192000227, value=r, duration=0.07956549996742979>
+113.0034 	DATA 	Keypress: y
+113.0050 	EXP 	Device response: <KeyPress from None: t=112.9972963000182, value=y, duration=None>
+113.1042 	EXP 	Device response: <KeyPress from None: t=112.9972963000182, value=y, duration=0.1048568999976851>
+114.5689 	DATA 	Mouse: Left button down, pos=(577,147)
+114.5697 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'test_word': '_ho_n_', 'Refrence': 'phone', 'old_new': 'old', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+114.5844 	EXP 	text_2: autoDraw = False
+114.5844 	EXP 	textbox: autoDraw = False
+114.5844 	EXP 	text_3: autoDraw = False
+114.5844 	EXP 	text_2: height = np.float64(0.05)
+114.5844 	EXP 	text_2: height = np.float64(0.05)
+114.5844 	EXP 	text_2: height = np.float64(0.05)
+114.5844 	EXP 	text_2: text = '_ho_n_'
+114.5844 	EXP 	text_2: autoDraw = True
+114.5844 	EXP 	textbox: autoDraw = True
+114.5844 	EXP 	text_3: autoDraw = True
+114.7852 	DATA 	Mouse:  Left button up, pos=(577,147)
+116.9274 	DATA 	Keypress: p
+116.9355 	EXP 	Device response: <KeyPress from None: t=116.92038090003189, value=p, duration=None>
+117.0193 	EXP 	Device response: <KeyPress from None: t=116.92038090003189, value=p, duration=0.08394229999976233>
+117.5529 	DATA 	Keypress: h
+117.5545 	EXP 	Device response: <KeyPress from None: t=117.55060910002794, value=h, duration=None>
+117.6198 	EXP 	Device response: <KeyPress from None: t=117.55060910002794, value=h, duration=0.06421699997736141>
+120.0193 	DATA 	Keypress: backspace
+120.0206 	EXP 	Device response: <KeyPress from None: t=120.0126203999971, value=backspace, duration=None>
+120.1188 	EXP 	Device response: <KeyPress from None: t=120.0126203999971, value=backspace, duration=0.09942270000465214>
+120.2219 	DATA 	Keypress: backspace
+120.2354 	EXP 	Device response: <KeyPress from None: t=120.22142180002993, value=backspace, duration=None>
+120.3195 	EXP 	Device response: <KeyPress from None: t=120.22142180002993, value=backspace, duration=0.09580670000286773>
+121.5348 	DATA 	Keypress: p
+121.5359 	EXP 	Device response: <KeyPress from None: t=121.52744169998914, value=p, duration=None>
+121.6194 	EXP 	Device response: <KeyPress from None: t=121.52744169998914, value=p, duration=0.08532880002167076>
+121.9187 	DATA 	Keypress: h
+121.9204 	EXP 	Device response: <KeyPress from None: t=121.91374620003626, value=h, duration=None>
+122.0196 	EXP 	Device response: <KeyPress from None: t=121.91374620003626, value=h, duration=0.10383239999646321>
+122.1571 	DATA 	Keypress: o
+122.1691 	EXP 	Device response: <KeyPress from None: t=122.1527828000253, value=o, duration=None>
+122.2691 	EXP 	Device response: <KeyPress from None: t=122.1527828000253, value=o, duration=0.09972920001018792>
+122.4563 	DATA 	Keypress: n
+122.4690 	EXP 	Device response: <KeyPress from None: t=122.45273140002973, value=n, duration=None>
+122.5692 	EXP 	Device response: <KeyPress from None: t=122.45273140002973, value=n, duration=0.11151219997555017>
+123.6022 	DATA 	Keypress: e
+123.6038 	EXP 	Device response: <KeyPress from None: t=123.59871240000939, value=e, duration=None>
+123.7013 	EXP 	Device response: <KeyPress from None: t=123.59871240000939, value=e, duration=0.08986349997576326>
+124.5691 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'test_word': 'p_nc_l', 'Refrence': 'pencil', 'old_new': 'new', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+124.6002 	EXP 	text_2: autoDraw = False
+124.6002 	EXP 	textbox: autoDraw = False
+124.6002 	EXP 	text_3: autoDraw = False
+124.6002 	EXP 	text_2: autoDraw = False
+124.6002 	EXP 	textbox: autoDraw = False
+124.6002 	EXP 	text_3: autoDraw = False
+124.6002 	EXP 	text_2: height = np.float64(0.05)
+124.6002 	EXP 	text_2: height = np.float64(0.05)
+124.6002 	EXP 	text_2: height = np.float64(0.05)
+124.6002 	EXP 	text_2: text = 'p_nc_l'
+124.6002 	EXP 	text_2: autoDraw = True
+124.6002 	EXP 	textbox: autoDraw = True
+124.6002 	EXP 	text_3: autoDraw = True
+124.8678 	DATA 	Mouse: Left button down, pos=(577,147)
+124.8840 	EXP 	text_2: autoDraw = False
+124.8840 	EXP 	textbox: autoDraw = False
+124.8840 	EXP 	text_3: autoDraw = False
+124.8844 	EXP 	Word_priming_5.0: status = STOPPED
+124.9155 	INFO 	saved data to 'C:\\Users\\123\\OneDrive\\Desktop\\Lab Psychology\\Word Priming 5.0\\data\\1_Word_priming_5.0_2025-10-13_16h12.29.919.csv'
+124.9183 	INFO 	saved data to C:\Users\123\OneDrive\Desktop\Lab Psychology\Word Priming 5.0\data\1_Word_priming_5.0_2025-10-13_16h12.29.919.psydat
+125.4510 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
