@@ -1,0 +1,39 @@
+15.3313 	INFO 	Loaded monitor calibration from ['2025_08_11 23:33']
+15.7042 	INFO 	Using renderer 'Intel(R) UHD Graphics' for graphics
+15.7043 	INFO 	OpenGL version supported by driver is 4..
+16.0323 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002B6B3F2D780>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002B6B3F2D7E0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002B6B3FB7940>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(420.0), np.float64(240.0)], screen=0, size=array([1080,  600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.0325 	EXP 	window1: backgroundImage = ''
+16.0325 	EXP 	window1: backgroundFit = 'none'
+16.5200 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+16.5201 	EXP 	window1: recordFrameIntervals = False
+16.7332 	EXP 	window1: recordFrameIntervals = True
+16.9164 	EXP 	Screen (0) actual frame rate measured at 60.08Hz
+16.9165 	EXP 	window1: recordFrameIntervals = False
+16.9694 	INFO 	keyboard.Keyboard is using ptb backend.
+16.9696 	INFO 	keyboard.Keyboard is using ptb backend.
+16.9696 	EXP 	Delay discounting: status = STARTED
+17.1393 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.1459 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+17.1468 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0355 	EXP 	text_2: autoDraw = True
+4.0224 	EXP 	Imported discounting.xlsx as conditions, 100 conditions, 3 params
+4.0234 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'reward_today': 53, 'future_reward': 92, 'delay': 57, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+4.0501 	EXP 	text_2: autoDraw = False
+4.0501 	EXP 	text: height = np.float64(0.05)
+4.0501 	EXP 	text: height = np.float64(0.05)
+4.0501 	EXP 	text: height = np.float64(0.05)
+4.0501 	EXP 	text: text = 'GBP 53 today or GBP 92 after 57 days'
+4.0501 	EXP 	fixation: autoDraw = True
+5.0022 	INFO 	Keyboard events cleared
+5.0020 	EXP 	text: autoDraw = True
+5.0509 	EXP 	fixation: autoDraw = False
+36.0341 	EXP 	Device response: <KeyPress from None: t=36.00968339992687, value=escape, duration=None>
+36.0359 	DATA 	Keypress: escape
+36.1483 	EXP 	Device response: <KeyPress from None: t=36.00968339992687, value=escape, duration=0.1350007001310587>
+36.1484 	EXP 	Delay discounting: status = STOPPED
+36.1642 	EXP 	text: autoDraw = False
+36.1644 	EXP 	Delay discounting: status = STOPPED
+36.1730 	INFO 	saved data to 'C:\\Users\\123\\OneDrive\\Desktop\\Lab Psychology\\Delay Discounting 6.0\\data\\402463_Delay discounting_2025-11-03_15h26.52.401.csv'
+36.1760 	INFO 	saved data to C:\Users\123\OneDrive\Desktop\Lab Psychology\Delay Discounting 6.0\data\402463_Delay discounting_2025-11-03_15h26.52.401.psydat
+36.6205 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+36.6478 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
