@@ -1,0 +1,1128 @@
+14.3875 	INFO 	Loaded monitor calibration from ['2025_08_11 23:33']
+14.7988 	INFO 	Using renderer 'Intel(R) UHD Graphics' for graphics
+14.7988 	INFO 	OpenGL version supported by driver is 4..
+15.0809 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002F68F9734F0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002F68F973490>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002F68FA68100>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(420.0), np.float64(240.0)], screen=0, size=array([1080,  600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+15.0809 	EXP 	window1: backgroundImage = ''
+15.0809 	EXP 	window1: backgroundFit = 'none'
+15.5011 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+15.5011 	EXP 	window1: recordFrameIntervals = False
+15.6873 	EXP 	window1: recordFrameIntervals = True
+15.8698 	EXP 	Screen (0) actual frame rate measured at 60.08Hz
+15.8698 	EXP 	window1: recordFrameIntervals = False
+15.9438 	INFO 	keyboard.Keyboard is using ptb backend.
+15.9439 	INFO 	keyboard.Keyboard is using ptb backend.
+15.9439 	EXP 	Lexical Decision Task: status = STARTED
+16.2663 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.2676 	EXP 	Created Condition_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Condition_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.2712 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for your time and effort', units='height', win=Window(...), wrapWidth=1)
+0.0319 	EXP 	text: autoDraw = True
+5.0322 	EXP 	Imported LDT_cond.xlsx as conditions, 100 conditions, 3 params
+5.0332 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Characters': 'tiger', 'Corr_ans': 1, 'answer': 'right', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+5.0476 	INFO 	Keyboard events cleared
+5.0475 	EXP 	text: autoDraw = False
+5.0475 	EXP 	Condition_text: height = np.float64(0.05)
+5.0475 	EXP 	Condition_text: height = np.float64(0.05)
+5.0475 	EXP 	Condition_text: height = np.float64(0.05)
+5.0475 	EXP 	Condition_text: text = 'tiger'
+5.0475 	EXP 	Condition_text: autoDraw = True
+7.7627 	EXP 	Device response: <KeyPress from None: t=7.746405500045512, value=right, duration=None>
+7.7633 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Characters': 'nif', 'Corr_ans': 0, 'answer': 'left', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+7.7657 	DATA 	Keypress: right
+7.7808 	INFO 	Keyboard events cleared
+7.7807 	EXP 	Condition_text: autoDraw = False
+7.7807 	EXP 	Condition_text: height = np.float64(0.05)
+7.7807 	EXP 	Condition_text: height = np.float64(0.05)
+7.7807 	EXP 	Condition_text: height = np.float64(0.05)
+7.7807 	EXP 	Condition_text: text = 'nif'
+7.7807 	EXP 	Condition_text: autoDraw = True
+7.9487 	EXP 	Device response: <KeyPress from None: t=7.746405500045512, value=right, duration=0.19183429999975488>
+10.2157 	EXP 	Device response: <KeyPress from None: t=10.213098400039598, value=left, duration=None>
+10.2159 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Characters': 'house', 'Corr_ans': 1, 'answer': 'right', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+10.2198 	DATA 	Keypress: left
+10.2306 	INFO 	Keyboard events cleared
+10.2304 	EXP 	Condition_text: autoDraw = False
+10.2304 	EXP 	Condition_text: height = np.float64(0.05)
+10.2304 	EXP 	Condition_text: height = np.float64(0.05)
+10.2304 	EXP 	Condition_text: height = np.float64(0.05)
+10.2304 	EXP 	Condition_text: text = 'house'
+10.2304 	EXP 	Condition_text: autoDraw = True
+10.3657 	EXP 	Device response: <KeyPress from None: t=10.213098400039598, value=left, duration=0.15000600001076236>
+11.0989 	EXP 	Device response: <KeyPress from None: t=11.089262300054543, value=right, duration=None>
+11.0991 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Characters': 'juf', 'Corr_ans': 0, 'answer': 'left', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+11.1037 	DATA 	Keypress: right
+11.1140 	INFO 	Keyboard events cleared
+11.1139 	EXP 	Condition_text: autoDraw = False
+11.1139 	EXP 	Condition_text: height = np.float64(0.05)
+11.1139 	EXP 	Condition_text: height = np.float64(0.05)
+11.1139 	EXP 	Condition_text: height = np.float64(0.05)
+11.1139 	EXP 	Condition_text: text = 'juf'
+11.1139 	EXP 	Condition_text: autoDraw = True
+11.2485 	EXP 	Device response: <KeyPress from None: t=11.089262300054543, value=right, duration=0.15007739997236058>
+13.3985 	EXP 	Device response: <KeyPress from None: t=13.39488540001912, value=left, duration=None>
+13.3988 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Characters': 'car', 'Corr_ans': 1, 'answer': 'right', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+13.4029 	DATA 	Keypress: left
+13.4141 	INFO 	Keyboard events cleared
+13.4140 	EXP 	Condition_text: autoDraw = False
+13.4140 	EXP 	Condition_text: height = np.float64(0.05)
+13.4140 	EXP 	Condition_text: height = np.float64(0.05)
+13.4140 	EXP 	Condition_text: height = np.float64(0.05)
+13.4140 	EXP 	Condition_text: text = 'car'
+13.4140 	EXP 	Condition_text: autoDraw = True
+13.5312 	EXP 	Device response: <KeyPress from None: t=13.39488540001912, value=left, duration=0.12005600001430139>
+14.0814 	EXP 	Device response: <KeyPress from None: t=14.08023060002597, value=right, duration=None>
+14.0817 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'Characters': 'gled', 'Corr_ans': 0, 'answer': 'left', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+14.0860 	DATA 	Keypress: right
+14.0976 	INFO 	Keyboard events cleared
+14.0974 	EXP 	Condition_text: autoDraw = False
+14.0974 	EXP 	Condition_text: height = np.float64(0.05)
+14.0974 	EXP 	Condition_text: height = np.float64(0.05)
+14.0974 	EXP 	Condition_text: height = np.float64(0.05)
+14.0974 	EXP 	Condition_text: text = 'gled'
+14.0974 	EXP 	Condition_text: autoDraw = True
+14.2475 	EXP 	Device response: <KeyPress from None: t=14.08023060002597, value=right, duration=0.16091510001569986>
+17.8812 	EXP 	Device response: <KeyPress from None: t=17.87328110000817, value=left, duration=None>
+17.8815 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'Characters': 'wug', 'Corr_ans': 0, 'answer': 'left', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+17.8850 	DATA 	Keypress: left
+17.8973 	INFO 	Keyboard events cleared
+17.8972 	EXP 	Condition_text: autoDraw = False
+17.8972 	EXP 	Condition_text: height = np.float64(0.05)
+17.8972 	EXP 	Condition_text: height = np.float64(0.05)
+17.8972 	EXP 	Condition_text: height = np.float64(0.05)
+17.8972 	EXP 	Condition_text: text = 'wug'
+17.8972 	EXP 	Condition_text: autoDraw = True
+18.0138 	EXP 	Device response: <KeyPress from None: t=17.87328110000817, value=left, duration=0.13611290004337206>
+21.1138 	EXP 	Device response: <KeyPress from None: t=21.10947570001008, value=left, duration=None>
+21.1141 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'Characters': 'hal', 'Corr_ans': 0, 'answer': 'left', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+21.1187 	DATA 	Keypress: left
+21.1301 	INFO 	Keyboard events cleared
+21.1300 	EXP 	Condition_text: autoDraw = False
+21.1300 	EXP 	Condition_text: height = np.float64(0.05)
+21.1300 	EXP 	Condition_text: height = np.float64(0.05)
+21.1300 	EXP 	Condition_text: height = np.float64(0.05)
+21.1300 	EXP 	Condition_text: text = 'hal'
+21.1300 	EXP 	Condition_text: autoDraw = True
+21.2471 	EXP 	Device response: <KeyPress from None: t=21.10947570001008, value=left, duration=0.1250448999926448>
+23.4127 	EXP 	Device response: <KeyPress from None: t=23.4053217000328, value=left, duration=None>
+23.4129 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'Characters': 'taz', 'Corr_ans': 0, 'answer': 'left', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+23.4174 	DATA 	Keypress: left
+23.4289 	INFO 	Keyboard events cleared
+23.4288 	EXP 	Condition_text: autoDraw = False
+23.4288 	EXP 	Condition_text: height = np.float64(0.05)
+23.4288 	EXP 	Condition_text: height = np.float64(0.05)
+23.4288 	EXP 	Condition_text: height = np.float64(0.05)
+23.4288 	EXP 	Condition_text: text = 'taz'
+23.4288 	EXP 	Condition_text: autoDraw = True
+23.5621 	EXP 	Device response: <KeyPress from None: t=23.4053217000328, value=left, duration=0.15544639999279752>
+24.8466 	EXP 	Device response: <KeyPress from None: t=24.836767800035886, value=left, duration=None>
+24.8469 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'Characters': 'ring', 'Corr_ans': 1, 'answer': 'right', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+24.8521 	DATA 	Keypress: left
+24.8631 	INFO 	Keyboard events cleared
+24.8630 	EXP 	Condition_text: autoDraw = False
+24.8630 	EXP 	Condition_text: height = np.float64(0.05)
+24.8630 	EXP 	Condition_text: height = np.float64(0.05)
+24.8630 	EXP 	Condition_text: height = np.float64(0.05)
+24.8630 	EXP 	Condition_text: text = 'ring'
+24.8630 	EXP 	Condition_text: autoDraw = True
+24.9634 	EXP 	Device response: <KeyPress from None: t=24.836767800035886, value=left, duration=0.11575789999915287>
+25.3480 	DATA 	Keypress: right
+25.3631 	EXP 	Device response: <KeyPress from None: t=25.346860600053333, value=right, duration=None>
+25.3634 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'Characters': 'dog', 'Corr_ans': 1, 'answer': 'right', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+25.3789 	INFO 	Keyboard events cleared
+25.3788 	EXP 	Condition_text: autoDraw = False
+25.3788 	EXP 	Condition_text: height = np.float64(0.05)
+25.3788 	EXP 	Condition_text: height = np.float64(0.05)
+25.3788 	EXP 	Condition_text: height = np.float64(0.05)
+25.3788 	EXP 	Condition_text: text = 'dog'
+25.3788 	EXP 	Condition_text: autoDraw = True
+25.5132 	EXP 	Device response: <KeyPress from None: t=25.346860600053333, value=right, duration=0.1556298999930732>
+25.9953 	EXP 	Device response: <KeyPress from None: t=25.982617800007574, value=right, duration=None>
+25.9955 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'Characters': 'pat', 'Corr_ans': 1, 'answer': 'right', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+25.9989 	DATA 	Keypress: right
+26.0122 	INFO 	Keyboard events cleared
+26.0121 	EXP 	Condition_text: autoDraw = False
+26.0121 	EXP 	Condition_text: height = np.float64(0.05)
+26.0121 	EXP 	Condition_text: height = np.float64(0.05)
+26.0121 	EXP 	Condition_text: height = np.float64(0.05)
+26.0121 	EXP 	Condition_text: text = 'pat'
+26.0121 	EXP 	Condition_text: autoDraw = True
+26.1457 	EXP 	Device response: <KeyPress from None: t=25.982617800007574, value=right, duration=0.15918930002953857>
+26.9631 	EXP 	Device response: <KeyPress from None: t=26.95396890002303, value=right, duration=None>
+26.9633 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'Characters': 'ruve', 'Corr_ans': 0, 'answer': 'left', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+26.9678 	DATA 	Keypress: right
+26.9788 	INFO 	Keyboard events cleared
+26.9788 	EXP 	Condition_text: autoDraw = False
+26.9788 	EXP 	Condition_text: height = np.float64(0.05)
+26.9788 	EXP 	Condition_text: height = np.float64(0.05)
+26.9788 	EXP 	Condition_text: height = np.float64(0.05)
+26.9788 	EXP 	Condition_text: text = 'ruve'
+26.9788 	EXP 	Condition_text: autoDraw = True
+27.1466 	EXP 	Device response: <KeyPress from None: t=26.95396890002303, value=right, duration=0.17944859998533502>
+28.3962 	EXP 	Device response: <KeyPress from None: t=28.389007900026627, value=left, duration=None>
+28.3966 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'Characters': 'lom', 'Corr_ans': 0, 'answer': 'left', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+28.4004 	DATA 	Keypress: left
+28.4123 	INFO 	Keyboard events cleared
+28.4122 	EXP 	Condition_text: autoDraw = False
+28.4122 	EXP 	Condition_text: height = np.float64(0.05)
+28.4122 	EXP 	Condition_text: height = np.float64(0.05)
+28.4122 	EXP 	Condition_text: height = np.float64(0.05)
+28.4122 	EXP 	Condition_text: text = 'lom'
+28.4122 	EXP 	Condition_text: autoDraw = True
+28.5122 	EXP 	Device response: <KeyPress from None: t=28.389007900026627, value=left, duration=0.11923880001995713>
+29.9787 	EXP 	Device response: <KeyPress from None: t=29.97010540001793, value=left, duration=None>
+29.9788 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'Characters': 'bar', 'Corr_ans': 1, 'answer': 'right', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+29.9811 	DATA 	Keypress: left
+29.9953 	INFO 	Keyboard events cleared
+29.9951 	EXP 	Condition_text: autoDraw = False
+29.9951 	EXP 	Condition_text: height = np.float64(0.05)
+29.9951 	EXP 	Condition_text: height = np.float64(0.05)
+29.9951 	EXP 	Condition_text: height = np.float64(0.05)
+29.9951 	EXP 	Condition_text: text = 'bar'
+29.9951 	EXP 	Condition_text: autoDraw = True
+30.0953 	EXP 	Device response: <KeyPress from None: t=29.97010540001793, value=left, duration=0.11397599999327213>
+30.5796 	DATA 	Keypress: right
+30.5953 	EXP 	Device response: <KeyPress from None: t=30.579188900010195, value=right, duration=None>
+30.5955 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'Characters': 'star', 'Corr_ans': 1, 'answer': 'right', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+30.6114 	INFO 	Keyboard events cleared
+30.6113 	EXP 	Condition_text: autoDraw = False
+30.6113 	EXP 	Condition_text: height = np.float64(0.05)
+30.6113 	EXP 	Condition_text: height = np.float64(0.05)
+30.6113 	EXP 	Condition_text: height = np.float64(0.05)
+30.6113 	EXP 	Condition_text: text = 'star'
+30.6113 	EXP 	Condition_text: autoDraw = True
+30.7119 	EXP 	Device response: <KeyPress from None: t=30.579188900010195, value=right, duration=0.11992960004135966>
+31.2955 	EXP 	Device response: <KeyPress from None: t=31.289789200003725, value=right, duration=None>
+31.2958 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'Characters': 'bipt', 'Corr_ans': 0, 'answer': 'left', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+31.3009 	DATA 	Keypress: right
+31.3127 	INFO 	Keyboard events cleared
+31.3126 	EXP 	Condition_text: autoDraw = False
+31.3126 	EXP 	Condition_text: height = np.float64(0.05)
+31.3126 	EXP 	Condition_text: height = np.float64(0.05)
+31.3126 	EXP 	Condition_text: height = np.float64(0.05)
+31.3126 	EXP 	Condition_text: text = 'bipt'
+31.3126 	EXP 	Condition_text: autoDraw = True
+31.4460 	EXP 	Device response: <KeyPress from None: t=31.289789200003725, value=right, duration=0.15097310004057363>
+34.8292 	EXP 	Device response: <KeyPress from None: t=34.81781000003684, value=left, duration=None>
+34.8295 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'Characters': 'tree', 'Corr_ans': 1, 'answer': 'right', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+34.8340 	DATA 	Keypress: left
+34.8457 	INFO 	Keyboard events cleared
+34.8455 	EXP 	Condition_text: autoDraw = False
+34.8455 	EXP 	Condition_text: height = np.float64(0.05)
+34.8455 	EXP 	Condition_text: height = np.float64(0.05)
+34.8455 	EXP 	Condition_text: height = np.float64(0.05)
+34.8455 	EXP 	Condition_text: text = 'tree'
+34.8455 	EXP 	Condition_text: autoDraw = True
+34.9290 	EXP 	Device response: <KeyPress from None: t=34.81781000003684, value=left, duration=0.1012891000136733>
+35.6288 	EXP 	Device response: <KeyPress from None: t=35.61733700003242, value=right, duration=None>
+35.6291 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'Characters': 'glin', 'Corr_ans': 0, 'answer': 'left', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+35.6337 	DATA 	Keypress: right
+35.6457 	INFO 	Keyboard events cleared
+35.6455 	EXP 	Condition_text: autoDraw = False
+35.6455 	EXP 	Condition_text: height = np.float64(0.05)
+35.6455 	EXP 	Condition_text: height = np.float64(0.05)
+35.6455 	EXP 	Condition_text: height = np.float64(0.05)
+35.6455 	EXP 	Condition_text: text = 'glin'
+35.6455 	EXP 	Condition_text: autoDraw = True
+35.7954 	EXP 	Device response: <KeyPress from None: t=35.61733700003242, value=right, duration=0.1701619999948889>
+36.5286 	EXP 	Device response: <KeyPress from None: t=36.52760220004711, value=left, duration=None>
+36.5289 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'Characters': 'kus', 'Corr_ans': 0, 'answer': 'left', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+36.5334 	DATA 	Keypress: left
+36.5452 	INFO 	Keyboard events cleared
+36.5450 	EXP 	Condition_text: autoDraw = False
+36.5450 	EXP 	Condition_text: height = np.float64(0.05)
+36.5450 	EXP 	Condition_text: height = np.float64(0.05)
+36.5450 	EXP 	Condition_text: height = np.float64(0.05)
+36.5450 	EXP 	Condition_text: text = 'kus'
+36.5450 	EXP 	Condition_text: autoDraw = True
+36.6447 	EXP 	Device response: <KeyPress from None: t=36.52760220004711, value=left, duration=0.10548619995824993>
+37.6118 	EXP 	Device response: <KeyPress from None: t=37.60832430003211, value=left, duration=None>
+37.6122 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'Characters': 'salt', 'Corr_ans': 1, 'answer': 'right', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+37.6169 	DATA 	Keypress: left
+37.6282 	INFO 	Keyboard events cleared
+37.6281 	EXP 	Condition_text: autoDraw = False
+37.6281 	EXP 	Condition_text: height = np.float64(0.05)
+37.6281 	EXP 	Condition_text: height = np.float64(0.05)
+37.6281 	EXP 	Condition_text: height = np.float64(0.05)
+37.6281 	EXP 	Condition_text: text = 'salt'
+37.6281 	EXP 	Condition_text: autoDraw = True
+37.7285 	EXP 	Device response: <KeyPress from None: t=37.60832430003211, value=left, duration=0.11988680000649765>
+38.3463 	EXP 	Device response: <KeyPress from None: t=38.34387630003039, value=right, duration=None>
+38.3466 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'Characters': 'lake', 'Corr_ans': 1, 'answer': 'right', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+38.3515 	DATA 	Keypress: right
+38.3620 	INFO 	Keyboard events cleared
+38.3619 	EXP 	Condition_text: autoDraw = False
+38.3619 	EXP 	Condition_text: height = np.float64(0.05)
+38.3619 	EXP 	Condition_text: height = np.float64(0.05)
+38.3619 	EXP 	Condition_text: height = np.float64(0.05)
+38.3619 	EXP 	Condition_text: text = 'lake'
+38.3619 	EXP 	Condition_text: autoDraw = True
+38.5119 	EXP 	Device response: <KeyPress from None: t=38.34387630003039, value=right, duration=0.1648581000044942>
+39.3115 	EXP 	Device response: <KeyPress from None: t=39.29912770004012, value=right, duration=None>
+39.3118 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'Characters': 'vix', 'Corr_ans': 0, 'answer': 'left', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+39.3156 	DATA 	Keypress: right
+39.3278 	INFO 	Keyboard events cleared
+39.3277 	EXP 	Condition_text: autoDraw = False
+39.3277 	EXP 	Condition_text: height = np.float64(0.05)
+39.3277 	EXP 	Condition_text: height = np.float64(0.05)
+39.3277 	EXP 	Condition_text: height = np.float64(0.05)
+39.3277 	EXP 	Condition_text: text = 'vix'
+39.3277 	EXP 	Condition_text: autoDraw = True
+39.4453 	EXP 	Device response: <KeyPress from None: t=39.29912770004012, value=right, duration=0.135838899994269>
+40.2117 	EXP 	Device response: <KeyPress from None: t=40.20016330003273, value=left, duration=None>
+40.2120 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'Characters': 'vist', 'Corr_ans': 0, 'answer': 'left', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+40.2157 	DATA 	Keypress: left
+40.2275 	INFO 	Keyboard events cleared
+40.2274 	EXP 	Condition_text: autoDraw = False
+40.2274 	EXP 	Condition_text: height = np.float64(0.05)
+40.2274 	EXP 	Condition_text: height = np.float64(0.05)
+40.2274 	EXP 	Condition_text: height = np.float64(0.05)
+40.2274 	EXP 	Condition_text: text = 'vist'
+40.2274 	EXP 	Condition_text: autoDraw = True
+40.3279 	EXP 	Device response: <KeyPress from None: t=40.20016330003273, value=left, duration=0.12456349999411032>
+42.8289 	EXP 	Device response: <KeyPress from None: t=42.82640350004658, value=left, duration=None>
+42.8292 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'Characters': 'zor', 'Corr_ans': 0, 'answer': 'left', 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+42.8345 	DATA 	Keypress: left
+42.8445 	INFO 	Keyboard events cleared
+42.8444 	EXP 	Condition_text: autoDraw = False
+42.8444 	EXP 	Condition_text: height = np.float64(0.05)
+42.8444 	EXP 	Condition_text: height = np.float64(0.05)
+42.8444 	EXP 	Condition_text: height = np.float64(0.05)
+42.8444 	EXP 	Condition_text: text = 'zor'
+42.8444 	EXP 	Condition_text: autoDraw = True
+42.9614 	EXP 	Device response: <KeyPress from None: t=42.82640350004658, value=left, duration=0.12647329998435453>
+43.6610 	EXP 	Device response: <KeyPress from None: t=43.65673680003965, value=left, duration=None>
+43.6613 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'Characters': 'rose', 'Corr_ans': 1, 'answer': 'right', 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+43.6659 	DATA 	Keypress: left
+43.6778 	INFO 	Keyboard events cleared
+43.6776 	EXP 	Condition_text: autoDraw = False
+43.6776 	EXP 	Condition_text: height = np.float64(0.05)
+43.6776 	EXP 	Condition_text: height = np.float64(0.05)
+43.6776 	EXP 	Condition_text: height = np.float64(0.05)
+43.6776 	EXP 	Condition_text: text = 'rose'
+43.6776 	EXP 	Condition_text: autoDraw = True
+43.7777 	EXP 	Device response: <KeyPress from None: t=43.65673680003965, value=left, duration=0.11964350001653656>
+44.3445 	EXP 	Device response: <KeyPress from None: t=44.33273350005038, value=right, duration=None>
+44.3448 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'Characters': 'moon', 'Corr_ans': 1, 'answer': 'right', 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+44.3494 	DATA 	Keypress: right
+44.3610 	INFO 	Keyboard events cleared
+44.3609 	EXP 	Condition_text: autoDraw = False
+44.3609 	EXP 	Condition_text: height = np.float64(0.05)
+44.3609 	EXP 	Condition_text: height = np.float64(0.05)
+44.3609 	EXP 	Condition_text: height = np.float64(0.05)
+44.3609 	EXP 	Condition_text: text = 'moon'
+44.3609 	EXP 	Condition_text: autoDraw = True
+44.4943 	EXP 	Device response: <KeyPress from None: t=44.33273350005038, value=right, duration=0.15496689995052293>
+45.2774 	EXP 	Device response: <KeyPress from None: t=45.26818270003423, value=right, duration=None>
+45.2777 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'Characters': 'card', 'Corr_ans': 1, 'answer': 'right', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+45.2824 	DATA 	Keypress: right
+45.2940 	INFO 	Keyboard events cleared
+45.2939 	EXP 	Condition_text: autoDraw = False
+45.2939 	EXP 	Condition_text: height = np.float64(0.05)
+45.2939 	EXP 	Condition_text: height = np.float64(0.05)
+45.2939 	EXP 	Condition_text: height = np.float64(0.05)
+45.2939 	EXP 	Condition_text: text = 'card'
+45.2939 	EXP 	Condition_text: autoDraw = True
+45.4277 	EXP 	Device response: <KeyPress from None: t=45.26818270003423, value=right, duration=0.14945389999775216>
+46.2285 	DATA 	Keypress: right
+46.2442 	EXP 	Device response: <KeyPress from None: t=46.228020500042476, value=right, duration=None>
+46.2445 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'Characters': 'gan', 'Corr_ans': 0, 'answer': 'left', 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+46.2607 	INFO 	Keyboard events cleared
+46.2606 	EXP 	Condition_text: autoDraw = False
+46.2606 	EXP 	Condition_text: height = np.float64(0.05)
+46.2606 	EXP 	Condition_text: height = np.float64(0.05)
+46.2606 	EXP 	Condition_text: height = np.float64(0.05)
+46.2606 	EXP 	Condition_text: text = 'gan'
+46.2606 	EXP 	Condition_text: autoDraw = True
+46.3940 	EXP 	Device response: <KeyPress from None: t=46.228020500042476, value=right, duration=0.15583419997710735>
+47.9608 	EXP 	Device response: <KeyPress from None: t=47.9596387000056, value=left, duration=None>
+47.9611 	EXP 	New trial (rep=0, index=29): <Trial 29 (29 in rep 0) data={'Characters': 'night', 'Corr_ans': 1, 'answer': 'right', 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 0}>
+47.9661 	DATA 	Keypress: left
+47.9772 	INFO 	Keyboard events cleared
+47.9771 	EXP 	Condition_text: autoDraw = False
+47.9771 	EXP 	Condition_text: height = np.float64(0.05)
+47.9771 	EXP 	Condition_text: height = np.float64(0.05)
+47.9771 	EXP 	Condition_text: height = np.float64(0.05)
+47.9771 	EXP 	Condition_text: text = 'night'
+47.9771 	EXP 	Condition_text: autoDraw = True
+48.0774 	EXP 	Device response: <KeyPress from None: t=47.9596387000056, value=left, duration=0.11425040004542097>
+48.9101 	EXP 	Device response: <KeyPress from None: t=48.90443980001146, value=right, duration=None>
+48.9104 	EXP 	New trial (rep=0, index=30): <Trial 30 (30 in rep 0) data={'Characters': 'flower', 'Corr_ans': 1, 'answer': 'right', 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 0}>
+48.9150 	DATA 	Keypress: right
+48.9266 	INFO 	Keyboard events cleared
+48.9265 	EXP 	Condition_text: autoDraw = False
+48.9265 	EXP 	Condition_text: height = np.float64(0.05)
+48.9265 	EXP 	Condition_text: height = np.float64(0.05)
+48.9265 	EXP 	Condition_text: height = np.float64(0.05)
+48.9265 	EXP 	Condition_text: text = 'flower'
+48.9265 	EXP 	Condition_text: autoDraw = True
+49.0603 	EXP 	Device response: <KeyPress from None: t=48.90443980001146, value=right, duration=0.14023980003548786>
+49.7938 	EXP 	Device response: <KeyPress from None: t=49.78979440004332, value=right, duration=None>
+49.7941 	EXP 	New trial (rep=0, index=31): <Trial 31 (31 in rep 0) data={'Characters': 'pik', 'Corr_ans': 0, 'answer': 'left', 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 0}>
+49.7989 	DATA 	Keypress: right
+49.8102 	INFO 	Keyboard events cleared
+49.8101 	EXP 	Condition_text: autoDraw = False
+49.8101 	EXP 	Condition_text: height = np.float64(0.05)
+49.8101 	EXP 	Condition_text: height = np.float64(0.05)
+49.8101 	EXP 	Condition_text: height = np.float64(0.05)
+49.8101 	EXP 	Condition_text: text = 'pik'
+49.8101 	EXP 	Condition_text: autoDraw = True
+49.9435 	EXP 	Device response: <KeyPress from None: t=49.78979440004332, value=right, duration=0.14684719999786466>
+50.9441 	EXP 	Device response: <KeyPress from None: t=50.941741100046784, value=left, duration=None>
+50.9445 	EXP 	New trial (rep=0, index=32): <Trial 32 (32 in rep 0) data={'Characters': 'chair', 'Corr_ans': 1, 'answer': 'right', 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 0}>
+50.9499 	DATA 	Keypress: left
+50.9594 	INFO 	Keyboard events cleared
+50.9593 	EXP 	Condition_text: autoDraw = False
+50.9593 	EXP 	Condition_text: height = np.float64(0.05)
+50.9593 	EXP 	Condition_text: height = np.float64(0.05)
+50.9593 	EXP 	Condition_text: height = np.float64(0.05)
+50.9593 	EXP 	Condition_text: text = 'chair'
+50.9593 	EXP 	Condition_text: autoDraw = True
+51.0601 	EXP 	Device response: <KeyPress from None: t=50.941741100046784, value=left, duration=0.10974859999259934>
+51.7102 	EXP 	Device response: <KeyPress from None: t=51.706285600026604, value=right, duration=None>
+51.7105 	EXP 	New trial (rep=0, index=33): <Trial 33 (33 in rep 0) data={'Characters': 'tev', 'Corr_ans': 0, 'answer': 'left', 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 0}>
+51.7154 	DATA 	Keypress: right
+51.7266 	INFO 	Keyboard events cleared
+51.7265 	EXP 	Condition_text: autoDraw = False
+51.7265 	EXP 	Condition_text: height = np.float64(0.05)
+51.7265 	EXP 	Condition_text: height = np.float64(0.05)
+51.7265 	EXP 	Condition_text: height = np.float64(0.05)
+51.7265 	EXP 	Condition_text: text = 'tev'
+51.7265 	EXP 	Condition_text: autoDraw = True
+51.8599 	EXP 	Device response: <KeyPress from None: t=51.706285600026604, value=right, duration=0.14020500000333413>
+52.8937 	EXP 	Device response: <KeyPress from None: t=52.88245920004556, value=right, duration=None>
+52.8940 	EXP 	New trial (rep=0, index=34): <Trial 34 (34 in rep 0) data={'Characters': 'mouse', 'Corr_ans': 1, 'answer': 'right', 'thisN': 34, 'thisTrialN': 34, 'thisRepN': 0}>
+52.8989 	DATA 	Keypress: right
+52.9096 	INFO 	Keyboard events cleared
+52.9094 	EXP 	Condition_text: autoDraw = False
+52.9094 	EXP 	Condition_text: height = np.float64(0.05)
+52.9094 	EXP 	Condition_text: height = np.float64(0.05)
+52.9094 	EXP 	Condition_text: height = np.float64(0.05)
+52.9094 	EXP 	Condition_text: text = 'mouse'
+52.9094 	EXP 	Condition_text: autoDraw = True
+53.0269 	EXP 	Device response: <KeyPress from None: t=52.88245920004556, value=right, duration=0.13598540000384673>
+56.7100 	DATA 	Keypress: right
+56.7262 	EXP 	Device response: <KeyPress from None: t=56.70881980005652, value=right, duration=None>
+56.7265 	EXP 	New trial (rep=0, index=35): <Trial 35 (35 in rep 0) data={'Characters': 'wall', 'Corr_ans': 1, 'answer': 'right', 'thisN': 35, 'thisTrialN': 35, 'thisRepN': 0}>
+56.7427 	INFO 	Keyboard events cleared
+56.7425 	EXP 	Condition_text: autoDraw = False
+56.7425 	EXP 	Condition_text: height = np.float64(0.05)
+56.7425 	EXP 	Condition_text: height = np.float64(0.05)
+56.7425 	EXP 	Condition_text: height = np.float64(0.05)
+56.7425 	EXP 	Condition_text: text = 'wall'
+56.7425 	EXP 	Condition_text: autoDraw = True
+56.9094 	EXP 	Device response: <KeyPress from None: t=56.70881980005652, value=right, duration=0.18491779995383695>
+58.2594 	EXP 	Device response: <KeyPress from None: t=58.25045540003339, value=right, duration=None>
+58.2597 	EXP 	New trial (rep=0, index=36): <Trial 36 (36 in rep 0) data={'Characters': 'fip', 'Corr_ans': 0, 'answer': 'left', 'thisN': 36, 'thisTrialN': 36, 'thisRepN': 0}>
+58.2642 	DATA 	Keypress: right
+58.2755 	INFO 	Keyboard events cleared
+58.2753 	EXP 	Condition_text: autoDraw = False
+58.2753 	EXP 	Condition_text: height = np.float64(0.05)
+58.2753 	EXP 	Condition_text: height = np.float64(0.05)
+58.2753 	EXP 	Condition_text: height = np.float64(0.05)
+58.2753 	EXP 	Condition_text: text = 'fip'
+58.2753 	EXP 	Condition_text: autoDraw = True
+58.3927 	EXP 	Device response: <KeyPress from None: t=58.25045540003339, value=right, duration=0.13919800001895055>
+59.2766 	DATA 	Keypress: left
+59.2924 	EXP 	Device response: <KeyPress from None: t=59.275759700045455, value=left, duration=None>
+59.2927 	EXP 	New trial (rep=0, index=37): <Trial 37 (37 in rep 0) data={'Characters': 'spl', 'Corr_ans': 0, 'answer': 'left', 'thisN': 37, 'thisTrialN': 37, 'thisRepN': 0}>
+59.3092 	INFO 	Keyboard events cleared
+59.3090 	EXP 	Condition_text: autoDraw = False
+59.3090 	EXP 	Condition_text: height = np.float64(0.05)
+59.3090 	EXP 	Condition_text: height = np.float64(0.05)
+59.3090 	EXP 	Condition_text: height = np.float64(0.05)
+59.3090 	EXP 	Condition_text: text = 'spl'
+59.3090 	EXP 	Condition_text: autoDraw = True
+59.4094 	EXP 	Device response: <KeyPress from None: t=59.275759700045455, value=left, duration=0.11996159999398515>
+60.1757 	EXP 	Device response: <KeyPress from None: t=60.1667248000158, value=left, duration=None>
+60.1760 	EXP 	New trial (rep=0, index=38): <Trial 38 (38 in rep 0) data={'Characters': 'plo', 'Corr_ans': 0, 'answer': 'left', 'thisN': 38, 'thisTrialN': 38, 'thisRepN': 0}>
+60.1806 	DATA 	Keypress: left
+60.1924 	INFO 	Keyboard events cleared
+60.1922 	EXP 	Condition_text: autoDraw = False
+60.1922 	EXP 	Condition_text: height = np.float64(0.05)
+60.1922 	EXP 	Condition_text: height = np.float64(0.05)
+60.1922 	EXP 	Condition_text: height = np.float64(0.05)
+60.1922 	EXP 	Condition_text: text = 'plo'
+60.1922 	EXP 	Condition_text: autoDraw = True
+60.2927 	EXP 	Device response: <KeyPress from None: t=60.1667248000158, value=left, duration=0.11486890004016459>
+61.0922 	EXP 	Device response: <KeyPress from None: t=61.08642200002214, value=left, duration=None>
+61.0925 	EXP 	New trial (rep=0, index=39): <Trial 39 (39 in rep 0) data={'Characters': 'glass', 'Corr_ans': 1, 'answer': 'right', 'thisN': 39, 'thisTrialN': 39, 'thisRepN': 0}>
+61.0957 	DATA 	Keypress: left
+61.1077 	INFO 	Keyboard events cleared
+61.1076 	EXP 	Condition_text: autoDraw = False
+61.1076 	EXP 	Condition_text: height = np.float64(0.05)
+61.1076 	EXP 	Condition_text: height = np.float64(0.05)
+61.1076 	EXP 	Condition_text: height = np.float64(0.05)
+61.1076 	EXP 	Condition_text: text = 'glass'
+61.1076 	EXP 	Condition_text: autoDraw = True
+61.2260 	EXP 	Device response: <KeyPress from None: t=61.08642200002214, value=left, duration=0.13545940001495183>
+61.8424 	EXP 	Device response: <KeyPress from None: t=61.83185520005645, value=right, duration=None>
+61.8427 	EXP 	New trial (rep=0, index=40): <Trial 40 (40 in rep 0) data={'Characters': 'tam', 'Corr_ans': 0, 'answer': 'left', 'thisN': 40, 'thisTrialN': 40, 'thisRepN': 0}>
+61.8480 	DATA 	Keypress: right
+61.8609 	INFO 	Keyboard events cleared
+61.8607 	EXP 	Condition_text: autoDraw = False
+61.8607 	EXP 	Condition_text: height = np.float64(0.05)
+61.8607 	EXP 	Condition_text: height = np.float64(0.05)
+61.8607 	EXP 	Condition_text: height = np.float64(0.05)
+61.8607 	EXP 	Condition_text: text = 'tam'
+61.8607 	EXP 	Condition_text: autoDraw = True
+61.9757 	EXP 	Device response: <KeyPress from None: t=61.83185520005645, value=right, duration=0.13082369999028742>
+63.1427 	DATA 	Keypress: left
+63.1583 	EXP 	Device response: <KeyPress from None: t=63.14227980002761, value=left, duration=None>
+63.1586 	EXP 	New trial (rep=0, index=41): <Trial 41 (41 in rep 0) data={'Characters': 'beach', 'Corr_ans': 1, 'answer': 'right', 'thisN': 41, 'thisTrialN': 41, 'thisRepN': 0}>
+63.1753 	INFO 	Keyboard events cleared
+63.1751 	EXP 	Condition_text: autoDraw = False
+63.1751 	EXP 	Condition_text: height = np.float64(0.05)
+63.1751 	EXP 	Condition_text: height = np.float64(0.05)
+63.1751 	EXP 	Condition_text: height = np.float64(0.05)
+63.1751 	EXP 	Condition_text: text = 'beach'
+63.1751 	EXP 	Condition_text: autoDraw = True
+63.2421 	EXP 	Device response: <KeyPress from None: t=63.14227980002761, value=left, duration=0.0958595999982208>
+63.8750 	EXP 	Device response: <KeyPress from None: t=63.86793170002056, value=right, duration=None>
+63.8753 	EXP 	New trial (rep=0, index=42): <Trial 42 (42 in rep 0) data={'Characters': 'jkn', 'Corr_ans': 0, 'answer': 'left', 'thisN': 42, 'thisTrialN': 42, 'thisRepN': 0}>
+63.8800 	DATA 	Keypress: right
+63.8917 	INFO 	Keyboard events cleared
+63.8915 	EXP 	Condition_text: autoDraw = False
+63.8915 	EXP 	Condition_text: height = np.float64(0.05)
+63.8915 	EXP 	Condition_text: height = np.float64(0.05)
+63.8915 	EXP 	Condition_text: height = np.float64(0.05)
+63.8915 	EXP 	Condition_text: text = 'jkn'
+63.8915 	EXP 	Condition_text: autoDraw = True
+64.0086 	EXP 	Device response: <KeyPress from None: t=63.86793170002056, value=right, duration=0.12560760002816096>
+64.8584 	EXP 	Device response: <KeyPress from None: t=64.84921300003771, value=left, duration=None>
+64.8587 	EXP 	New trial (rep=0, index=43): <Trial 43 (43 in rep 0) data={'Characters': 'door', 'Corr_ans': 1, 'answer': 'right', 'thisN': 43, 'thisTrialN': 43, 'thisRepN': 0}>
+64.8629 	DATA 	Keypress: left
+64.8747 	INFO 	Keyboard events cleared
+64.8745 	EXP 	Condition_text: autoDraw = False
+64.8745 	EXP 	Condition_text: height = np.float64(0.05)
+64.8745 	EXP 	Condition_text: height = np.float64(0.05)
+64.8745 	EXP 	Condition_text: height = np.float64(0.05)
+64.8745 	EXP 	Condition_text: text = 'door'
+64.8745 	EXP 	Condition_text: autoDraw = True
+64.9914 	EXP 	Device response: <KeyPress from None: t=64.84921300003771, value=left, duration=0.13058799999998882>
+65.8747 	EXP 	Device response: <KeyPress from None: t=65.87378680001711, value=right, duration=None>
+65.8750 	EXP 	New trial (rep=0, index=44): <Trial 44 (44 in rep 0) data={'Characters': 'sote', 'Corr_ans': 0, 'answer': 'left', 'thisN': 44, 'thisTrialN': 44, 'thisRepN': 0}>
+65.8793 	DATA 	Keypress: right
+65.8911 	INFO 	Keyboard events cleared
+65.8910 	EXP 	Condition_text: autoDraw = False
+65.8910 	EXP 	Condition_text: height = np.float64(0.05)
+65.8910 	EXP 	Condition_text: height = np.float64(0.05)
+65.8910 	EXP 	Condition_text: height = np.float64(0.05)
+65.8910 	EXP 	Condition_text: text = 'sote'
+65.8910 	EXP 	Condition_text: autoDraw = True
+66.0081 	EXP 	Device response: <KeyPress from None: t=65.87378680001711, value=right, duration=0.12678540003253147>
+66.8422 	EXP 	Device response: <KeyPress from None: t=66.83972870005528, value=left, duration=None>
+66.8425 	EXP 	New trial (rep=0, index=45): <Trial 45 (45 in rep 0) data={'Characters': 'bly', 'Corr_ans': 0, 'answer': 'left', 'thisN': 45, 'thisTrialN': 45, 'thisRepN': 0}>
+66.8467 	DATA 	Keypress: left
+66.8574 	INFO 	Keyboard events cleared
+66.8572 	EXP 	Condition_text: autoDraw = False
+66.8572 	EXP 	Condition_text: height = np.float64(0.05)
+66.8572 	EXP 	Condition_text: height = np.float64(0.05)
+66.8572 	EXP 	Condition_text: height = np.float64(0.05)
+66.8572 	EXP 	Condition_text: text = 'bly'
+66.8572 	EXP 	Condition_text: autoDraw = True
+66.9583 	EXP 	Device response: <KeyPress from None: t=66.83972870005528, value=left, duration=0.11143259995151311>
+67.9249 	EXP 	Device response: <KeyPress from None: t=67.90987370000221, value=left, duration=None>
+67.9252 	EXP 	New trial (rep=0, index=46): <Trial 46 (46 in rep 0) data={'Characters': 'jod', 'Corr_ans': 0, 'answer': 'left', 'thisN': 46, 'thisTrialN': 46, 'thisRepN': 0}>
+67.9292 	DATA 	Keypress: left
+67.9407 	INFO 	Keyboard events cleared
+67.9405 	EXP 	Condition_text: autoDraw = False
+67.9405 	EXP 	Condition_text: height = np.float64(0.05)
+67.9405 	EXP 	Condition_text: height = np.float64(0.05)
+67.9405 	EXP 	Condition_text: height = np.float64(0.05)
+67.9405 	EXP 	Condition_text: text = 'jod'
+67.9405 	EXP 	Condition_text: autoDraw = True
+68.0582 	EXP 	Device response: <KeyPress from None: t=67.90987370000221, value=left, duration=0.13507290004054084>
+69.4410 	EXP 	Device response: <KeyPress from None: t=69.44066800002474, value=left, duration=None>
+69.4413 	EXP 	New trial (rep=0, index=47): <Trial 47 (47 in rep 0) data={'Characters': 'tim', 'Corr_ans': 0, 'answer': 'left', 'thisN': 47, 'thisTrialN': 47, 'thisRepN': 0}>
+69.4458 	DATA 	Keypress: left
+69.4569 	INFO 	Keyboard events cleared
+69.4567 	EXP 	Condition_text: autoDraw = False
+69.4567 	EXP 	Condition_text: height = np.float64(0.05)
+69.4567 	EXP 	Condition_text: height = np.float64(0.05)
+69.4567 	EXP 	Condition_text: height = np.float64(0.05)
+69.4567 	EXP 	Condition_text: text = 'tim'
+69.4567 	EXP 	Condition_text: autoDraw = True
+69.5743 	EXP 	Device response: <KeyPress from None: t=69.44066800002474, value=left, duration=0.12541999999666587>
+71.2078 	EXP 	Device response: <KeyPress from None: t=71.20670990005601, value=right, duration=None>
+71.2081 	EXP 	New trial (rep=0, index=48): <Trial 48 (48 in rep 0) data={'Characters': 'vep', 'Corr_ans': 0, 'answer': 'left', 'thisN': 48, 'thisTrialN': 48, 'thisRepN': 0}>
+71.2132 	DATA 	Keypress: right
+71.2244 	INFO 	Keyboard events cleared
+71.2243 	EXP 	Condition_text: autoDraw = False
+71.2243 	EXP 	Condition_text: height = np.float64(0.05)
+71.2243 	EXP 	Condition_text: height = np.float64(0.05)
+71.2243 	EXP 	Condition_text: height = np.float64(0.05)
+71.2243 	EXP 	Condition_text: text = 'vep'
+71.2243 	EXP 	Condition_text: autoDraw = True
+71.3574 	EXP 	Device response: <KeyPress from None: t=71.20670990005601, value=right, duration=0.1404808999504894>
+72.1747 	EXP 	Device response: <KeyPress from None: t=72.17243170004804, value=left, duration=None>
+72.1750 	EXP 	New trial (rep=0, index=49): <Trial 49 (49 in rep 0) data={'Characters': 'gup', 'Corr_ans': 0, 'answer': 'left', 'thisN': 49, 'thisTrialN': 49, 'thisRepN': 0}>
+72.1798 	DATA 	Keypress: left
+72.1903 	INFO 	Keyboard events cleared
+72.1901 	EXP 	Condition_text: autoDraw = False
+72.1901 	EXP 	Condition_text: height = np.float64(0.05)
+72.1901 	EXP 	Condition_text: height = np.float64(0.05)
+72.1901 	EXP 	Condition_text: height = np.float64(0.05)
+72.1901 	EXP 	Condition_text: text = 'gup'
+72.1901 	EXP 	Condition_text: autoDraw = True
+72.2909 	EXP 	Device response: <KeyPress from None: t=72.17243170004804, value=left, duration=0.11038149998057634>
+73.1739 	EXP 	Device response: <KeyPress from None: t=73.16838080005255, value=left, duration=None>
+73.1742 	EXP 	New trial (rep=0, index=50): <Trial 50 (50 in rep 0) data={'Characters': 'day', 'Corr_ans': 1, 'answer': 'right', 'thisN': 50, 'thisTrialN': 50, 'thisRepN': 0}>
+73.1787 	DATA 	Keypress: left
+73.1905 	INFO 	Keyboard events cleared
+73.1904 	EXP 	Condition_text: autoDraw = False
+73.1904 	EXP 	Condition_text: height = np.float64(0.05)
+73.1904 	EXP 	Condition_text: height = np.float64(0.05)
+73.1904 	EXP 	Condition_text: height = np.float64(0.05)
+73.1904 	EXP 	Condition_text: text = 'day'
+73.1904 	EXP 	Condition_text: autoDraw = True
+73.2906 	EXP 	Device response: <KeyPress from None: t=73.16838080005255, value=left, duration=0.11925839999457821>
+74.0242 	EXP 	Device response: <KeyPress from None: t=74.0147425000323, value=right, duration=None>
+74.0245 	EXP 	New trial (rep=0, index=51): <Trial 51 (51 in rep 0) data={'Characters': 'train', 'Corr_ans': 1, 'answer': 'right', 'thisN': 51, 'thisTrialN': 51, 'thisRepN': 0}>
+74.0294 	DATA 	Keypress: right
+74.0405 	INFO 	Keyboard events cleared
+74.0403 	EXP 	Condition_text: autoDraw = False
+74.0403 	EXP 	Condition_text: height = np.float64(0.05)
+74.0403 	EXP 	Condition_text: height = np.float64(0.05)
+74.0403 	EXP 	Condition_text: height = np.float64(0.05)
+74.0403 	EXP 	Condition_text: text = 'train'
+74.0403 	EXP 	Condition_text: autoDraw = True
+74.1406 	EXP 	Device response: <KeyPress from None: t=74.0147425000323, value=right, duration=0.11381299997447059>
+74.8737 	EXP 	Device response: <KeyPress from None: t=74.85847690002993, value=right, duration=None>
+74.8740 	EXP 	New trial (rep=0, index=52): <Trial 52 (52 in rep 0) data={'Characters': 'window', 'Corr_ans': 1, 'answer': 'right', 'thisN': 52, 'thisTrialN': 52, 'thisRepN': 0}>
+74.8791 	DATA 	Keypress: right
+74.8905 	INFO 	Keyboard events cleared
+74.8903 	EXP 	Condition_text: autoDraw = False
+74.8903 	EXP 	Condition_text: height = np.float64(0.05)
+74.8903 	EXP 	Condition_text: height = np.float64(0.05)
+74.8903 	EXP 	Condition_text: height = np.float64(0.05)
+74.8903 	EXP 	Condition_text: text = 'window'
+74.8903 	EXP 	Condition_text: autoDraw = True
+75.0400 	EXP 	Device response: <KeyPress from None: t=74.85847690002993, value=right, duration=0.16582280001603067>
+75.6238 	EXP 	Device response: <KeyPress from None: t=75.60897390003083, value=right, duration=None>
+75.6241 	EXP 	New trial (rep=0, index=53): <Trial 53 (53 in rep 0) data={'Characters': 'leaf', 'Corr_ans': 1, 'answer': 'right', 'thisN': 53, 'thisTrialN': 53, 'thisRepN': 0}>
+75.6287 	DATA 	Keypress: right
+75.6405 	INFO 	Keyboard events cleared
+75.6403 	EXP 	Condition_text: autoDraw = False
+75.6403 	EXP 	Condition_text: height = np.float64(0.05)
+75.6403 	EXP 	Condition_text: height = np.float64(0.05)
+75.6403 	EXP 	Condition_text: height = np.float64(0.05)
+75.6403 	EXP 	Condition_text: text = 'leaf'
+75.6403 	EXP 	Condition_text: autoDraw = True
+75.7406 	EXP 	Device response: <KeyPress from None: t=75.60897390003083, value=right, duration=0.13001449999865144>
+76.4068 	EXP 	Device response: <KeyPress from None: t=76.3952205000096, value=right, duration=None>
+76.4071 	EXP 	New trial (rep=0, index=54): <Trial 54 (54 in rep 0) data={'Characters': 'kilp', 'Corr_ans': 0, 'answer': 'left', 'thisN': 54, 'thisTrialN': 54, 'thisRepN': 0}>
+76.4117 	DATA 	Keypress: right
+76.4230 	INFO 	Keyboard events cleared
+76.4229 	EXP 	Condition_text: autoDraw = False
+76.4229 	EXP 	Condition_text: height = np.float64(0.05)
+76.4229 	EXP 	Condition_text: height = np.float64(0.05)
+76.4229 	EXP 	Condition_text: height = np.float64(0.05)
+76.4229 	EXP 	Condition_text: text = 'kilp'
+76.4229 	EXP 	Condition_text: autoDraw = True
+76.5236 	EXP 	Device response: <KeyPress from None: t=76.3952205000096, value=right, duration=0.11996070004533976>
+78.1565 	EXP 	Device response: <KeyPress from None: t=78.15118360001361, value=left, duration=None>
+78.1568 	EXP 	New trial (rep=0, index=55): <Trial 55 (55 in rep 0) data={'Characters': 'psw', 'Corr_ans': 0, 'answer': 'left', 'thisN': 55, 'thisTrialN': 55, 'thisRepN': 0}>
+78.1605 	DATA 	Keypress: left
+78.1726 	INFO 	Keyboard events cleared
+78.1725 	EXP 	Condition_text: autoDraw = False
+78.1725 	EXP 	Condition_text: height = np.float64(0.05)
+78.1725 	EXP 	Condition_text: height = np.float64(0.05)
+78.1725 	EXP 	Condition_text: height = np.float64(0.05)
+78.1725 	EXP 	Condition_text: text = 'psw'
+78.1725 	EXP 	Condition_text: autoDraw = True
+78.2568 	EXP 	Device response: <KeyPress from None: t=78.15118360001361, value=left, duration=0.10005459998501465>
+78.9719 	EXP 	Device response: <KeyPress from None: t=78.96723980002571, value=left, duration=None>
+78.9722 	EXP 	New trial (rep=0, index=56): <Trial 56 (56 in rep 0) data={'Characters': 'ship', 'Corr_ans': 1, 'answer': 'right', 'thisN': 56, 'thisTrialN': 56, 'thisRepN': 0}>
+78.9770 	DATA 	Keypress: left
+78.9886 	INFO 	Keyboard events cleared
+78.9885 	EXP 	Condition_text: autoDraw = False
+78.9885 	EXP 	Condition_text: height = np.float64(0.05)
+78.9885 	EXP 	Condition_text: height = np.float64(0.05)
+78.9885 	EXP 	Condition_text: height = np.float64(0.05)
+78.9885 	EXP 	Condition_text: text = 'ship'
+78.9885 	EXP 	Condition_text: autoDraw = True
+79.0723 	EXP 	Device response: <KeyPress from None: t=78.96723980002571, value=left, duration=0.093445900012739>
+79.7237 	EXP 	Device response: <KeyPress from None: t=79.7215590000269, value=right, duration=None>
+79.7239 	EXP 	New trial (rep=0, index=57): <Trial 57 (57 in rep 0) data={'Characters': 'sno', 'Corr_ans': 0, 'answer': 'left', 'thisN': 57, 'thisTrialN': 57, 'thisRepN': 0}>
+79.7275 	DATA 	Keypress: right
+79.7396 	INFO 	Keyboard events cleared
+79.7394 	EXP 	Condition_text: autoDraw = False
+79.7394 	EXP 	Condition_text: height = np.float64(0.05)
+79.7394 	EXP 	Condition_text: height = np.float64(0.05)
+79.7394 	EXP 	Condition_text: height = np.float64(0.05)
+79.7394 	EXP 	Condition_text: text = 'sno'
+79.7394 	EXP 	Condition_text: autoDraw = True
+79.8397 	EXP 	Device response: <KeyPress from None: t=79.7215590000269, value=right, duration=0.10984869999811053>
+80.7067 	EXP 	Device response: <KeyPress from None: t=80.69755470001837, value=left, duration=None>
+80.7070 	EXP 	New trial (rep=0, index=58): <Trial 58 (58 in rep 0) data={'Characters': 'Cat', 'Corr_ans': 1, 'answer': 'right', 'thisN': 58, 'thisTrialN': 58, 'thisRepN': 0}>
+80.7141 	DATA 	Keypress: left
+80.7230 	INFO 	Keyboard events cleared
+80.7228 	EXP 	Condition_text: autoDraw = False
+80.7228 	EXP 	Condition_text: height = np.float64(0.05)
+80.7228 	EXP 	Condition_text: height = np.float64(0.05)
+80.7228 	EXP 	Condition_text: height = np.float64(0.05)
+80.7228 	EXP 	Condition_text: text = 'Cat'
+80.7228 	EXP 	Condition_text: autoDraw = True
+80.7895 	EXP 	Device response: <KeyPress from None: t=80.69755470001837, value=left, duration=0.07984369999030605>
+81.4228 	EXP 	Device response: <KeyPress from None: t=81.41733030002797, value=right, duration=None>
+81.4232 	EXP 	New trial (rep=0, index=59): <Trial 59 (59 in rep 0) data={'Characters': 'nsh', 'Corr_ans': 0, 'answer': 'left', 'thisN': 59, 'thisTrialN': 59, 'thisRepN': 0}>
+81.4276 	DATA 	Keypress: right
+81.4393 	INFO 	Keyboard events cleared
+81.4392 	EXP 	Condition_text: autoDraw = False
+81.4392 	EXP 	Condition_text: height = np.float64(0.05)
+81.4392 	EXP 	Condition_text: height = np.float64(0.05)
+81.4392 	EXP 	Condition_text: height = np.float64(0.05)
+81.4392 	EXP 	Condition_text: text = 'nsh'
+81.4392 	EXP 	Condition_text: autoDraw = True
+81.5558 	EXP 	Device response: <KeyPress from None: t=81.41733030002797, value=right, duration=0.1265891999937594>
+82.2903 	EXP 	Device response: <KeyPress from None: t=82.28776310000103, value=left, duration=None>
+82.2906 	EXP 	New trial (rep=0, index=60): <Trial 60 (60 in rep 0) data={'Characters': 'apple', 'Corr_ans': 1, 'answer': 'right', 'thisN': 60, 'thisTrialN': 60, 'thisRepN': 0}>
+82.2958 	DATA 	Keypress: left
+82.3063 	INFO 	Keyboard events cleared
+82.3061 	EXP 	Condition_text: autoDraw = False
+82.3061 	EXP 	Condition_text: height = np.float64(0.05)
+82.3061 	EXP 	Condition_text: height = np.float64(0.05)
+82.3061 	EXP 	Condition_text: height = np.float64(0.05)
+82.3061 	EXP 	Condition_text: text = 'apple'
+82.3061 	EXP 	Condition_text: autoDraw = True
+82.3728 	EXP 	Device response: <KeyPress from None: t=82.28776310000103, value=left, duration=0.0846534000011161>
+83.0227 	EXP 	Device response: <KeyPress from None: t=83.01470060000429, value=right, duration=None>
+83.0230 	EXP 	New trial (rep=0, index=61): <Trial 61 (61 in rep 0) data={'Characters': 'mip', 'Corr_ans': 0, 'answer': 'left', 'thisN': 61, 'thisTrialN': 61, 'thisRepN': 0}>
+83.0277 	DATA 	Keypress: right
+83.0395 	INFO 	Keyboard events cleared
+83.0394 	EXP 	Condition_text: autoDraw = False
+83.0394 	EXP 	Condition_text: height = np.float64(0.05)
+83.0394 	EXP 	Condition_text: height = np.float64(0.05)
+83.0394 	EXP 	Condition_text: height = np.float64(0.05)
+83.0394 	EXP 	Condition_text: text = 'mip'
+83.0394 	EXP 	Condition_text: autoDraw = True
+83.1395 	EXP 	Device response: <KeyPress from None: t=83.01470060000429, value=right, duration=0.11864960001548752>
+84.1225 	EXP 	Device response: <KeyPress from None: t=84.11370200000238, value=left, duration=None>
+84.1228 	EXP 	New trial (rep=0, index=62): <Trial 62 (62 in rep 0) data={'Characters': 'king', 'Corr_ans': 1, 'answer': 'right', 'thisN': 62, 'thisTrialN': 62, 'thisRepN': 0}>
+84.1276 	DATA 	Keypress: left
+84.1390 	INFO 	Keyboard events cleared
+84.1388 	EXP 	Condition_text: autoDraw = False
+84.1388 	EXP 	Condition_text: height = np.float64(0.05)
+84.1388 	EXP 	Condition_text: height = np.float64(0.05)
+84.1388 	EXP 	Condition_text: height = np.float64(0.05)
+84.1388 	EXP 	Condition_text: text = 'king'
+84.1388 	EXP 	Condition_text: autoDraw = True
+84.2062 	EXP 	Device response: <KeyPress from None: t=84.11370200000238, value=left, duration=0.08983350003836676>
+84.8392 	EXP 	Device response: <KeyPress from None: t=84.8290189000545, value=right, duration=None>
+84.8395 	EXP 	New trial (rep=0, index=63): <Trial 63 (63 in rep 0) data={'Characters': 'del', 'Corr_ans': 0, 'answer': 'left', 'thisN': 63, 'thisTrialN': 63, 'thisRepN': 0}>
+84.8446 	DATA 	Keypress: right
+84.8559 	INFO 	Keyboard events cleared
+84.8558 	EXP 	Condition_text: autoDraw = False
+84.8558 	EXP 	Condition_text: height = np.float64(0.05)
+84.8558 	EXP 	Condition_text: height = np.float64(0.05)
+84.8558 	EXP 	Condition_text: height = np.float64(0.05)
+84.8558 	EXP 	Condition_text: text = 'del'
+84.8558 	EXP 	Condition_text: autoDraw = True
+84.9725 	EXP 	Device response: <KeyPress from None: t=84.8290189000545, value=right, duration=0.13657069997861981>
+85.7890 	EXP 	Device response: <KeyPress from None: t=85.78014050005004, value=left, duration=None>
+85.7893 	EXP 	New trial (rep=0, index=64): <Trial 64 (64 in rep 0) data={'Characters': 'cap', 'Corr_ans': 1, 'answer': 'right', 'thisN': 64, 'thisTrialN': 64, 'thisRepN': 0}>
+85.7939 	DATA 	Keypress: left
+85.8059 	INFO 	Keyboard events cleared
+85.8057 	EXP 	Condition_text: autoDraw = False
+85.8057 	EXP 	Condition_text: height = np.float64(0.05)
+85.8057 	EXP 	Condition_text: height = np.float64(0.05)
+85.8057 	EXP 	Condition_text: height = np.float64(0.05)
+85.8057 	EXP 	Condition_text: text = 'cap'
+85.8057 	EXP 	Condition_text: autoDraw = True
+85.8894 	EXP 	Device response: <KeyPress from None: t=85.78014050005004, value=left, duration=0.09417429997120053>
+86.9057 	EXP 	Device response: <KeyPress from None: t=86.90487620001659, value=right, duration=None>
+86.9060 	EXP 	New trial (rep=0, index=65): <Trial 65 (65 in rep 0) data={'Characters': 'def', 'Corr_ans': 0, 'answer': 'left', 'thisN': 65, 'thisTrialN': 65, 'thisRepN': 0}>
+86.9106 	DATA 	Keypress: right
+86.9219 	INFO 	Keyboard events cleared
+86.9218 	EXP 	Condition_text: autoDraw = False
+86.9218 	EXP 	Condition_text: height = np.float64(0.05)
+86.9218 	EXP 	Condition_text: height = np.float64(0.05)
+86.9218 	EXP 	Condition_text: height = np.float64(0.05)
+86.9218 	EXP 	Condition_text: text = 'def'
+86.9218 	EXP 	Condition_text: autoDraw = True
+87.0385 	EXP 	Device response: <KeyPress from None: t=86.90487620001659, value=right, duration=0.12687320000259206>
+89.7217 	EXP 	Device response: <KeyPress from None: t=89.72121850005351, value=left, duration=None>
+89.7220 	EXP 	New trial (rep=0, index=66): <Trial 66 (66 in rep 0) data={'Characters': 'music', 'Corr_ans': 1, 'answer': 'right', 'thisN': 66, 'thisTrialN': 66, 'thisRepN': 0}>
+89.7270 	DATA 	Keypress: left
+89.7383 	INFO 	Keyboard events cleared
+89.7381 	EXP 	Condition_text: autoDraw = False
+89.7381 	EXP 	Condition_text: height = np.float64(0.05)
+89.7381 	EXP 	Condition_text: height = np.float64(0.05)
+89.7381 	EXP 	Condition_text: height = np.float64(0.05)
+89.7381 	EXP 	Condition_text: text = 'music'
+89.7381 	EXP 	Condition_text: autoDraw = True
+89.8216 	EXP 	Device response: <KeyPress from None: t=89.72121850005351, value=left, duration=0.0848631999688223>
+90.3053 	EXP 	Device response: <KeyPress from None: t=90.29183830000693, value=right, duration=None>
+90.3056 	EXP 	New trial (rep=0, index=67): <Trial 67 (67 in rep 0) data={'Characters': 'table', 'Corr_ans': 1, 'answer': 'right', 'thisN': 67, 'thisTrialN': 67, 'thisRepN': 0}>
+90.3105 	DATA 	Keypress: right
+90.3218 	INFO 	Keyboard events cleared
+90.3217 	EXP 	Condition_text: autoDraw = False
+90.3217 	EXP 	Condition_text: height = np.float64(0.05)
+90.3217 	EXP 	Condition_text: height = np.float64(0.05)
+90.3217 	EXP 	Condition_text: height = np.float64(0.05)
+90.3217 	EXP 	Condition_text: text = 'table'
+90.3217 	EXP 	Condition_text: autoDraw = True
+90.4717 	EXP 	Device response: <KeyPress from None: t=90.29183830000693, value=right, duration=0.17072400002507493>
+90.9884 	EXP 	Device response: <KeyPress from None: t=90.98379450000357, value=right, duration=None>
+90.9887 	EXP 	New trial (rep=0, index=68): <Trial 68 (68 in rep 0) data={'Characters': 'bag', 'Corr_ans': 1, 'answer': 'right', 'thisN': 68, 'thisTrialN': 68, 'thisRepN': 0}>
+90.9936 	DATA 	Keypress: right
+91.0043 	INFO 	Keyboard events cleared
+91.0042 	EXP 	Condition_text: autoDraw = False
+91.0042 	EXP 	Condition_text: height = np.float64(0.05)
+91.0042 	EXP 	Condition_text: height = np.float64(0.05)
+91.0042 	EXP 	Condition_text: height = np.float64(0.05)
+91.0042 	EXP 	Condition_text: text = 'bag'
+91.0042 	EXP 	Condition_text: autoDraw = True
+91.1050 	EXP 	Device response: <KeyPress from None: t=90.98379450000357, value=right, duration=0.10874450003029779>
+91.8714 	EXP 	Device response: <KeyPress from None: t=91.86752900003921, value=right, duration=None>
+91.8717 	EXP 	New trial (rep=0, index=69): <Trial 69 (69 in rep 0) data={'Characters': 'nar', 'Corr_ans': 0, 'answer': 'left', 'thisN': 69, 'thisTrialN': 69, 'thisRepN': 0}>
+91.8763 	DATA 	Keypress: right
+91.8881 	INFO 	Keyboard events cleared
+91.8879 	EXP 	Condition_text: autoDraw = False
+91.8879 	EXP 	Condition_text: height = np.float64(0.05)
+91.8879 	EXP 	Condition_text: height = np.float64(0.05)
+91.8879 	EXP 	Condition_text: height = np.float64(0.05)
+91.8879 	EXP 	Condition_text: text = 'nar'
+91.8879 	EXP 	Condition_text: autoDraw = True
+92.0386 	EXP 	Device response: <KeyPress from None: t=91.86752900003921, value=right, duration=0.1557728999760002>
+92.7217 	EXP 	Device response: <KeyPress from None: t=92.71351260005031, value=left, duration=None>
+92.7220 	EXP 	New trial (rep=0, index=70): <Trial 70 (70 in rep 0) data={'Characters': 'tup', 'Corr_ans': 0, 'answer': 'left', 'thisN': 70, 'thisTrialN': 70, 'thisRepN': 0}>
+92.7267 	DATA 	Keypress: left
+92.7382 	INFO 	Keyboard events cleared
+92.7380 	EXP 	Condition_text: autoDraw = False
+92.7380 	EXP 	Condition_text: height = np.float64(0.05)
+92.7380 	EXP 	Condition_text: height = np.float64(0.05)
+92.7380 	EXP 	Condition_text: height = np.float64(0.05)
+92.7380 	EXP 	Condition_text: text = 'tup'
+92.7380 	EXP 	Condition_text: autoDraw = True
+92.8719 	EXP 	Device response: <KeyPress from None: t=92.71351260005031, value=left, duration=0.14454299997305498>
+93.8378 	EXP 	Device response: <KeyPress from None: t=93.82898250001017, value=left, duration=None>
+93.8381 	EXP 	New trial (rep=0, index=71): <Trial 71 (71 in rep 0) data={'Characters': 'team', 'Corr_ans': 1, 'answer': 'right', 'thisN': 71, 'thisTrialN': 71, 'thisRepN': 0}>
+93.8434 	DATA 	Keypress: left
+93.8540 	INFO 	Keyboard events cleared
+93.8539 	EXP 	Condition_text: autoDraw = False
+93.8539 	EXP 	Condition_text: height = np.float64(0.05)
+93.8539 	EXP 	Condition_text: height = np.float64(0.05)
+93.8539 	EXP 	Condition_text: height = np.float64(0.05)
+93.8539 	EXP 	Condition_text: text = 'team'
+93.8539 	EXP 	Condition_text: autoDraw = True
+93.9381 	EXP 	Device response: <KeyPress from None: t=93.82898250001017, value=left, duration=0.09530650003580377>
+94.5045 	EXP 	Device response: <KeyPress from None: t=94.4887951000128, value=right, duration=None>
+94.5048 	EXP 	New trial (rep=0, index=72): <Trial 72 (72 in rep 0) data={'Characters': 'bird', 'Corr_ans': 1, 'answer': 'right', 'thisN': 72, 'thisTrialN': 72, 'thisRepN': 0}>
+94.5097 	DATA 	Keypress: right
+94.5209 	INFO 	Keyboard events cleared
+94.5208 	EXP 	Condition_text: autoDraw = False
+94.5208 	EXP 	Condition_text: height = np.float64(0.05)
+94.5208 	EXP 	Condition_text: height = np.float64(0.05)
+94.5208 	EXP 	Condition_text: height = np.float64(0.05)
+94.5208 	EXP 	Condition_text: text = 'bird'
+94.5208 	EXP 	Condition_text: autoDraw = True
+94.6217 	EXP 	Device response: <KeyPress from None: t=94.4887951000128, value=right, duration=0.12097079999512061>
+95.1877 	EXP 	Device response: <KeyPress from None: t=95.1802003000048, value=right, duration=None>
+95.1880 	EXP 	New trial (rep=0, index=73): <Trial 73 (73 in rep 0) data={'Characters': 'cup', 'Corr_ans': 1, 'answer': 'right', 'thisN': 73, 'thisTrialN': 73, 'thisRepN': 0}>
+95.1926 	DATA 	Keypress: right
+95.2043 	INFO 	Keyboard events cleared
+95.2042 	EXP 	Condition_text: autoDraw = False
+95.2042 	EXP 	Condition_text: height = np.float64(0.05)
+95.2042 	EXP 	Condition_text: height = np.float64(0.05)
+95.2042 	EXP 	Condition_text: height = np.float64(0.05)
+95.2042 	EXP 	Condition_text: text = 'cup'
+95.2042 	EXP 	Condition_text: autoDraw = True
+95.3210 	EXP 	Device response: <KeyPress from None: t=95.1802003000048, value=right, duration=0.1299089000094682>
+95.9378 	EXP 	Device response: <KeyPress from None: t=95.92460399999982, value=right, duration=None>
+95.9381 	EXP 	New trial (rep=0, index=74): <Trial 74 (74 in rep 0) data={'Characters': 'rek', 'Corr_ans': 0, 'answer': 'left', 'thisN': 74, 'thisTrialN': 74, 'thisRepN': 0}>
+95.9427 	DATA 	Keypress: right
+95.9542 	INFO 	Keyboard events cleared
+95.9540 	EXP 	Condition_text: autoDraw = False
+95.9540 	EXP 	Condition_text: height = np.float64(0.05)
+95.9540 	EXP 	Condition_text: height = np.float64(0.05)
+95.9540 	EXP 	Condition_text: height = np.float64(0.05)
+95.9540 	EXP 	Condition_text: text = 'rek'
+95.9540 	EXP 	Condition_text: autoDraw = True
+96.0876 	EXP 	Device response: <KeyPress from None: t=95.92460399999982, value=right, duration=0.1553204000229016>
+96.5878 	EXP 	Device response: <KeyPress from None: t=96.58511260000523, value=left, duration=None>
+96.5881 	EXP 	New trial (rep=0, index=75): <Trial 75 (75 in rep 0) data={'Characters': 'shoe', 'Corr_ans': 1, 'answer': 'right', 'thisN': 75, 'thisTrialN': 75, 'thisRepN': 0}>
+96.5929 	DATA 	Keypress: left
+96.6043 	INFO 	Keyboard events cleared
+96.6041 	EXP 	Condition_text: autoDraw = False
+96.6041 	EXP 	Condition_text: height = np.float64(0.05)
+96.6041 	EXP 	Condition_text: height = np.float64(0.05)
+96.6041 	EXP 	Condition_text: height = np.float64(0.05)
+96.6041 	EXP 	Condition_text: text = 'shoe'
+96.6041 	EXP 	Condition_text: autoDraw = True
+96.7212 	EXP 	Device response: <KeyPress from None: t=96.58511260000523, value=left, duration=0.1253523000050336>
+97.6208 	EXP 	Device response: <KeyPress from None: t=97.61146030004602, value=left, duration=None>
+97.6211 	EXP 	New trial (rep=0, index=76): <Trial 76 (76 in rep 0) data={'Characters': 'kiy', 'Corr_ans': 0, 'answer': 'left', 'thisN': 76, 'thisTrialN': 76, 'thisRepN': 0}>
+97.6257 	DATA 	Keypress: left
+97.6373 	INFO 	Keyboard events cleared
+97.6372 	EXP 	Condition_text: autoDraw = False
+97.6372 	EXP 	Condition_text: height = np.float64(0.05)
+97.6372 	EXP 	Condition_text: height = np.float64(0.05)
+97.6372 	EXP 	Condition_text: height = np.float64(0.05)
+97.6372 	EXP 	Condition_text: text = 'kiy'
+97.6372 	EXP 	Condition_text: autoDraw = True
+97.7539 	EXP 	Device response: <KeyPress from None: t=97.61146030004602, value=left, duration=0.13479240000015125>
+98.6373 	EXP 	Device response: <KeyPress from None: t=98.62699180003256, value=left, duration=None>
+98.6376 	EXP 	New trial (rep=0, index=77): <Trial 77 (77 in rep 0) data={'Characters': 'rig', 'Corr_ans': 0, 'answer': 'left', 'thisN': 77, 'thisTrialN': 77, 'thisRepN': 0}>
+98.6423 	DATA 	Keypress: left
+98.6537 	INFO 	Keyboard events cleared
+98.6535 	EXP 	Condition_text: autoDraw = False
+98.6535 	EXP 	Condition_text: height = np.float64(0.05)
+98.6535 	EXP 	Condition_text: height = np.float64(0.05)
+98.6535 	EXP 	Condition_text: height = np.float64(0.05)
+98.6535 	EXP 	Condition_text: text = 'rig'
+98.6535 	EXP 	Condition_text: autoDraw = True
+98.7707 	EXP 	Device response: <KeyPress from None: t=98.62699180003256, value=left, duration=0.13506760000018403>
+99.6707 	EXP 	Device response: <KeyPress from None: t=99.6626602000324, value=left, duration=None>
+99.6710 	EXP 	New trial (rep=0, index=78): <Trial 78 (78 in rep 0) data={'Characters': 'desk', 'Corr_ans': 1, 'answer': 'right', 'thisN': 78, 'thisTrialN': 78, 'thisRepN': 0}>
+99.6756 	DATA 	Keypress: left
+99.6876 	INFO 	Keyboard events cleared
+99.6874 	EXP 	Condition_text: autoDraw = False
+99.6874 	EXP 	Condition_text: height = np.float64(0.05)
+99.6874 	EXP 	Condition_text: height = np.float64(0.05)
+99.6874 	EXP 	Condition_text: height = np.float64(0.05)
+99.6874 	EXP 	Condition_text: text = 'desk'
+99.6874 	EXP 	Condition_text: autoDraw = True
+99.8205 	EXP 	Device response: <KeyPress from None: t=99.6626602000324, value=left, duration=0.14458600000943989>
+101.3037 	EXP 	Device response: <KeyPress from None: t=101.29345550003927, value=right, duration=None>
+101.3040 	EXP 	New trial (rep=0, index=79): <Trial 79 (79 in rep 0) data={'Characters': 'lun', 'Corr_ans': 0, 'answer': 'left', 'thisN': 79, 'thisTrialN': 79, 'thisRepN': 0}>
+101.3091 	DATA 	Keypress: right
+101.3204 	INFO 	Keyboard events cleared
+101.3203 	EXP 	Condition_text: autoDraw = False
+101.3203 	EXP 	Condition_text: height = np.float64(0.05)
+101.3203 	EXP 	Condition_text: height = np.float64(0.05)
+101.3203 	EXP 	Condition_text: height = np.float64(0.05)
+101.3203 	EXP 	Condition_text: text = 'lun'
+101.3203 	EXP 	Condition_text: autoDraw = True
+101.4204 	EXP 	Device response: <KeyPress from None: t=101.29345550003927, value=right, duration=0.12419589998899028>
+102.4035 	EXP 	Device response: <KeyPress from None: t=102.39368410001043, value=left, duration=None>
+102.4038 	EXP 	New trial (rep=0, index=80): <Trial 80 (80 in rep 0) data={'Characters': 'river', 'Corr_ans': 1, 'answer': 'right', 'thisN': 80, 'thisTrialN': 80, 'thisRepN': 0}>
+102.4088 	DATA 	Keypress: left
+102.4203 	INFO 	Keyboard events cleared
+102.4202 	EXP 	Condition_text: autoDraw = False
+102.4202 	EXP 	Condition_text: height = np.float64(0.05)
+102.4202 	EXP 	Condition_text: height = np.float64(0.05)
+102.4202 	EXP 	Condition_text: height = np.float64(0.05)
+102.4202 	EXP 	Condition_text: text = 'river'
+102.4202 	EXP 	Condition_text: autoDraw = True
+102.5371 	EXP 	Device response: <KeyPress from None: t=102.39368410001043, value=left, duration=0.13451960001839325>
+103.1534 	EXP 	Device response: <KeyPress from None: t=103.13949200004572, value=right, duration=None>
+103.1537 	EXP 	New trial (rep=0, index=81): <Trial 81 (81 in rep 0) data={'Characters': 'spov', 'Corr_ans': 0, 'answer': 'left', 'thisN': 81, 'thisTrialN': 81, 'thisRepN': 0}>
+103.1583 	DATA 	Keypress: right
+103.1699 	INFO 	Keyboard events cleared
+103.1697 	EXP 	Condition_text: autoDraw = False
+103.1697 	EXP 	Condition_text: height = np.float64(0.05)
+103.1697 	EXP 	Condition_text: height = np.float64(0.05)
+103.1697 	EXP 	Condition_text: height = np.float64(0.05)
+103.1697 	EXP 	Condition_text: text = 'spov'
+103.1697 	EXP 	Condition_text: autoDraw = True
+103.2870 	EXP 	Device response: <KeyPress from None: t=103.13949200004572, value=right, duration=0.13421089999610558>
+104.0033 	EXP 	Device response: <KeyPress from None: t=103.99057820002781, value=left, duration=None>
+104.0036 	EXP 	New trial (rep=0, index=82): <Trial 82 (82 in rep 0) data={'Characters': 'plant', 'Corr_ans': 1, 'answer': 'right', 'thisN': 82, 'thisTrialN': 82, 'thisRepN': 0}>
+104.0087 	DATA 	Keypress: left
+104.0200 	INFO 	Keyboard events cleared
+104.0199 	EXP 	Condition_text: autoDraw = False
+104.0199 	EXP 	Condition_text: height = np.float64(0.05)
+104.0199 	EXP 	Condition_text: height = np.float64(0.05)
+104.0199 	EXP 	Condition_text: height = np.float64(0.05)
+104.0199 	EXP 	Condition_text: text = 'plant'
+104.0199 	EXP 	Condition_text: autoDraw = True
+104.1199 	EXP 	Device response: <KeyPress from None: t=103.99057820002781, value=left, duration=0.12442960002226755>
+104.9700 	EXP 	Device response: <KeyPress from None: t=104.966167400009, value=right, duration=None>
+104.9703 	EXP 	New trial (rep=0, index=83): <Trial 83 (83 in rep 0) data={'Characters': 'fen', 'Corr_ans': 0, 'answer': 'left', 'thisN': 83, 'thisTrialN': 83, 'thisRepN': 0}>
+104.9749 	DATA 	Keypress: right
+104.9866 	INFO 	Keyboard events cleared
+104.9864 	EXP 	Condition_text: autoDraw = False
+104.9864 	EXP 	Condition_text: height = np.float64(0.05)
+104.9864 	EXP 	Condition_text: height = np.float64(0.05)
+104.9864 	EXP 	Condition_text: height = np.float64(0.05)
+104.9864 	EXP 	Condition_text: text = 'fen'
+104.9864 	EXP 	Condition_text: autoDraw = True
+105.1202 	EXP 	Device response: <KeyPress from None: t=104.966167400009, value=right, duration=0.14438090001931414>
+106.5530 	EXP 	Device response: <KeyPress from None: t=106.54071000003023, value=left, duration=None>
+106.5533 	EXP 	New trial (rep=0, index=84): <Trial 84 (84 in rep 0) data={'Characters': 'mouse', 'Corr_ans': 1, 'answer': 'right', 'thisN': 84, 'thisTrialN': 84, 'thisRepN': 0}>
+106.5582 	DATA 	Keypress: left
+106.5692 	INFO 	Keyboard events cleared
+106.5690 	EXP 	Condition_text: autoDraw = False
+106.5690 	EXP 	Condition_text: height = np.float64(0.05)
+106.5690 	EXP 	Condition_text: height = np.float64(0.05)
+106.5690 	EXP 	Condition_text: height = np.float64(0.05)
+106.5690 	EXP 	Condition_text: text = 'mouse'
+106.5690 	EXP 	Condition_text: autoDraw = True
+106.6697 	EXP 	Device response: <KeyPress from None: t=106.54071000003023, value=left, duration=0.12508269998943433>
+107.9033 	EXP 	Device response: <KeyPress from None: t=107.89215750002768, value=right, duration=None>
+107.9036 	EXP 	New trial (rep=0, index=85): <Trial 85 (85 in rep 0) data={'Characters': 'dors', 'Corr_ans': 0, 'answer': 'left', 'thisN': 85, 'thisTrialN': 85, 'thisRepN': 0}>
+107.9082 	DATA 	Keypress: right
+107.9194 	INFO 	Keyboard events cleared
+107.9192 	EXP 	Condition_text: autoDraw = False
+107.9192 	EXP 	Condition_text: height = np.float64(0.05)
+107.9192 	EXP 	Condition_text: height = np.float64(0.05)
+107.9192 	EXP 	Condition_text: height = np.float64(0.05)
+107.9192 	EXP 	Condition_text: text = 'dors'
+107.9192 	EXP 	Condition_text: autoDraw = True
+108.0364 	EXP 	Device response: <KeyPress from None: t=107.89215750002768, value=right, duration=0.1403273000032641>
+109.1199 	EXP 	Device response: <KeyPress from None: t=109.11708400002681, value=left, duration=None>
+109.1202 	EXP 	New trial (rep=0, index=86): <Trial 86 (86 in rep 0) data={'Characters': 'loi', 'Corr_ans': 0, 'answer': 'left', 'thisN': 86, 'thisTrialN': 86, 'thisRepN': 0}>
+109.1254 	DATA 	Keypress: left
+109.1360 	INFO 	Keyboard events cleared
+109.1359 	EXP 	Condition_text: autoDraw = False
+109.1359 	EXP 	Condition_text: height = np.float64(0.05)
+109.1359 	EXP 	Condition_text: height = np.float64(0.05)
+109.1359 	EXP 	Condition_text: height = np.float64(0.05)
+109.1359 	EXP 	Condition_text: text = 'loi'
+109.1359 	EXP 	Condition_text: autoDraw = True
+109.2528 	EXP 	Device response: <KeyPress from None: t=109.11708400002681, value=left, duration=0.12497060000896454>
+110.3193 	EXP 	Device response: <KeyPress from None: t=110.31324860005407, value=left, duration=None>
+110.3196 	EXP 	New trial (rep=0, index=87): <Trial 87 (87 in rep 0) data={'Characters': 'phone', 'Corr_ans': 1, 'answer': 'right', 'thisN': 87, 'thisTrialN': 87, 'thisRepN': 0}>
+110.3249 	DATA 	Keypress: left
+110.3360 	INFO 	Keyboard events cleared
+110.3358 	EXP 	Condition_text: autoDraw = False
+110.3358 	EXP 	Condition_text: height = np.float64(0.05)
+110.3358 	EXP 	Condition_text: height = np.float64(0.05)
+110.3358 	EXP 	Condition_text: height = np.float64(0.05)
+110.3358 	EXP 	Condition_text: text = 'phone'
+110.3358 	EXP 	Condition_text: autoDraw = True
+110.4021 	EXP 	Device response: <KeyPress from None: t=110.31324860005407, value=left, duration=0.0843736999668181>
+110.9855 	EXP 	Device response: <KeyPress from None: t=110.97457890002988, value=right, duration=None>
+110.9858 	EXP 	New trial (rep=0, index=88): <Trial 88 (88 in rep 0) data={'Characters': 'kib', 'Corr_ans': 0, 'answer': 'left', 'thisN': 88, 'thisTrialN': 88, 'thisRepN': 0}>
+110.9908 	DATA 	Keypress: right
+111.0020 	INFO 	Keyboard events cleared
+111.0018 	EXP 	Condition_text: autoDraw = False
+111.0018 	EXP 	Condition_text: height = np.float64(0.05)
+111.0018 	EXP 	Condition_text: height = np.float64(0.05)
+111.0018 	EXP 	Condition_text: height = np.float64(0.05)
+111.0018 	EXP 	Condition_text: text = 'kib'
+111.0018 	EXP 	Condition_text: autoDraw = True
+111.1524 	EXP 	Device response: <KeyPress from None: t=110.97457890002988, value=right, duration=0.17389460001140833>
+111.8021 	EXP 	Device response: <KeyPress from None: t=111.79396990005625, value=left, duration=None>
+111.8024 	EXP 	New trial (rep=0, index=89): <Trial 89 (89 in rep 0) data={'Characters': 'book', 'Corr_ans': 1, 'answer': 'right', 'thisN': 89, 'thisTrialN': 89, 'thisRepN': 0}>
+111.8057 	DATA 	Keypress: left
+111.8184 	INFO 	Keyboard events cleared
+111.8183 	EXP 	Condition_text: autoDraw = False
+111.8183 	EXP 	Condition_text: height = np.float64(0.05)
+111.8183 	EXP 	Condition_text: height = np.float64(0.05)
+111.8183 	EXP 	Condition_text: height = np.float64(0.05)
+111.8183 	EXP 	Condition_text: text = 'book'
+111.8183 	EXP 	Condition_text: autoDraw = True
+111.9359 	EXP 	Device response: <KeyPress from None: t=111.79396990005625, value=left, duration=0.13036269997246563>
+112.6521 	EXP 	Device response: <KeyPress from None: t=112.64473730005557, value=right, duration=None>
+112.6524 	EXP 	New trial (rep=0, index=90): <Trial 90 (90 in rep 0) data={'Characters': 'pum', 'Corr_ans': 0, 'answer': 'left', 'thisN': 90, 'thisTrialN': 90, 'thisRepN': 0}>
+112.6560 	DATA 	Keypress: right
+112.6678 	INFO 	Keyboard events cleared
+112.6677 	EXP 	Condition_text: autoDraw = False
+112.6677 	EXP 	Condition_text: height = np.float64(0.05)
+112.6677 	EXP 	Condition_text: height = np.float64(0.05)
+112.6677 	EXP 	Condition_text: height = np.float64(0.05)
+112.6677 	EXP 	Condition_text: text = 'pum'
+112.6677 	EXP 	Condition_text: autoDraw = True
+112.7689 	EXP 	Device response: <KeyPress from None: t=112.64473730005557, value=right, duration=0.10912229999667034>
+113.5025 	EXP 	Device response: <KeyPress from None: t=113.48946670000441, value=left, duration=None>
+113.5028 	EXP 	New trial (rep=0, index=91): <Trial 91 (91 in rep 0) data={'Characters': 'tea', 'Corr_ans': 1, 'answer': 'right', 'thisN': 91, 'thisTrialN': 91, 'thisRepN': 0}>
+113.5074 	DATA 	Keypress: left
+113.5187 	INFO 	Keyboard events cleared
+113.5185 	EXP 	Condition_text: autoDraw = False
+113.5185 	EXP 	Condition_text: height = np.float64(0.05)
+113.5185 	EXP 	Condition_text: height = np.float64(0.05)
+113.5185 	EXP 	Condition_text: height = np.float64(0.05)
+113.5185 	EXP 	Condition_text: text = 'tea'
+113.5185 	EXP 	Condition_text: autoDraw = True
+113.6517 	EXP 	Device response: <KeyPress from None: t=113.48946670000441, value=left, duration=0.14998930000001565>
+114.3353 	EXP 	Device response: <KeyPress from None: t=114.33485270000529, value=right, duration=None>
+114.3356 	EXP 	New trial (rep=0, index=92): <Trial 92 (92 in rep 0) data={'Characters': 'pencil', 'Corr_ans': 1, 'answer': 'right', 'thisN': 92, 'thisTrialN': 92, 'thisRepN': 0}>
+114.3407 	DATA 	Keypress: right
+114.3520 	INFO 	Keyboard events cleared
+114.3518 	EXP 	Condition_text: autoDraw = False
+114.3518 	EXP 	Condition_text: height = np.float64(0.05)
+114.3518 	EXP 	Condition_text: height = np.float64(0.05)
+114.3518 	EXP 	Condition_text: height = np.float64(0.05)
+114.3518 	EXP 	Condition_text: text = 'pencil'
+114.3518 	EXP 	Condition_text: autoDraw = True
+114.4853 	EXP 	Device response: <KeyPress from None: t=114.33485270000529, value=right, duration=0.15006180002819747>
+115.0850 	EXP 	Device response: <KeyPress from None: t=115.08110930002294, value=right, duration=None>
+115.0853 	EXP 	New trial (rep=0, index=93): <Trial 93 (93 in rep 0) data={'Characters': 'baf', 'Corr_ans': 0, 'answer': 'left', 'thisN': 93, 'thisTrialN': 93, 'thisRepN': 0}>
+115.0899 	DATA 	Keypress: right
+115.1020 	INFO 	Keyboard events cleared
+115.1019 	EXP 	Condition_text: autoDraw = False
+115.1019 	EXP 	Condition_text: height = np.float64(0.05)
+115.1019 	EXP 	Condition_text: height = np.float64(0.05)
+115.1019 	EXP 	Condition_text: height = np.float64(0.05)
+115.1019 	EXP 	Condition_text: text = 'baf'
+115.1019 	EXP 	Condition_text: autoDraw = True
+115.2355 	EXP 	Device response: <KeyPress from None: t=115.08110930002294, value=right, duration=0.14477279997663572>
+115.9187 	EXP 	Device response: <KeyPress from None: t=115.91585840005428, value=left, duration=None>
+115.9190 	EXP 	New trial (rep=0, index=94): <Trial 94 (94 in rep 0) data={'Characters': 'sun', 'Corr_ans': 1, 'answer': 'right', 'thisN': 94, 'thisTrialN': 94, 'thisRepN': 0}>
+115.9243 	DATA 	Keypress: left
+115.9353 	INFO 	Keyboard events cleared
+115.9352 	EXP 	Condition_text: autoDraw = False
+115.9352 	EXP 	Condition_text: height = np.float64(0.05)
+115.9352 	EXP 	Condition_text: height = np.float64(0.05)
+115.9352 	EXP 	Condition_text: height = np.float64(0.05)
+115.9352 	EXP 	Condition_text: text = 'sun'
+115.9352 	EXP 	Condition_text: autoDraw = True
+116.0688 	EXP 	Device response: <KeyPress from None: t=115.91585840005428, value=left, duration=0.1464832999627106>
+116.6018 	EXP 	Device response: <KeyPress from None: t=116.59660410002107, value=right, duration=None>
+116.6021 	EXP 	New trial (rep=0, index=95): <Trial 95 (95 in rep 0) data={'Characters': 'cloud', 'Corr_ans': 1, 'answer': 'right', 'thisN': 95, 'thisTrialN': 95, 'thisRepN': 0}>
+116.6072 	DATA 	Keypress: right
+116.6184 	INFO 	Keyboard events cleared
+116.6182 	EXP 	Condition_text: autoDraw = False
+116.6182 	EXP 	Condition_text: height = np.float64(0.05)
+116.6182 	EXP 	Condition_text: height = np.float64(0.05)
+116.6182 	EXP 	Condition_text: height = np.float64(0.05)
+116.6182 	EXP 	Condition_text: text = 'cloud'
+116.6182 	EXP 	Condition_text: autoDraw = True
+116.7515 	EXP 	Device response: <KeyPress from None: t=116.59660410002107, value=right, duration=0.1544879000284709>
+117.3529 	DATA 	Keypress: right
+117.3680 	EXP 	Device response: <KeyPress from None: t=117.35201200004667, value=right, duration=None>
+117.3683 	EXP 	New trial (rep=0, index=96): <Trial 96 (96 in rep 0) data={'Characters': 'wex', 'Corr_ans': 0, 'answer': 'left', 'thisN': 96, 'thisTrialN': 96, 'thisRepN': 0}>
+117.3849 	INFO 	Keyboard events cleared
+117.3848 	EXP 	Condition_text: autoDraw = False
+117.3848 	EXP 	Condition_text: height = np.float64(0.05)
+117.3848 	EXP 	Condition_text: height = np.float64(0.05)
+117.3848 	EXP 	Condition_text: height = np.float64(0.05)
+117.3848 	EXP 	Condition_text: text = 'wex'
+117.3848 	EXP 	Condition_text: autoDraw = True
+117.5016 	EXP 	Device response: <KeyPress from None: t=117.35201200004667, value=right, duration=0.1345490999519825>
+120.2509 	EXP 	Device response: <KeyPress from None: t=120.2481131000095, value=left, duration=None>
+120.2512 	EXP 	New trial (rep=0, index=97): <Trial 97 (97 in rep 0) data={'Characters': 'shirt', 'Corr_ans': 1, 'answer': 'right', 'thisN': 97, 'thisTrialN': 97, 'thisRepN': 0}>
+120.2563 	DATA 	Keypress: left
+120.2675 	INFO 	Keyboard events cleared
+120.2674 	EXP 	Condition_text: autoDraw = False
+120.2674 	EXP 	Condition_text: height = np.float64(0.05)
+120.2674 	EXP 	Condition_text: height = np.float64(0.05)
+120.2674 	EXP 	Condition_text: height = np.float64(0.05)
+120.2674 	EXP 	Condition_text: text = 'shirt'
+120.2674 	EXP 	Condition_text: autoDraw = True
+120.3511 	EXP 	Device response: <KeyPress from None: t=120.2481131000095, value=left, duration=0.09998800000175834>
+121.0842 	EXP 	Device response: <KeyPress from None: t=121.08362780004973, value=right, duration=None>
+121.0845 	EXP 	New trial (rep=0, index=98): <Trial 98 (98 in rep 0) data={'Characters': 'lamp', 'Corr_ans': 1, 'answer': 'right', 'thisN': 98, 'thisTrialN': 98, 'thisRepN': 0}>
+121.0890 	DATA 	Keypress: right
+121.1012 	INFO 	Keyboard events cleared
+121.1011 	EXP 	Condition_text: autoDraw = False
+121.1011 	EXP 	Condition_text: height = np.float64(0.05)
+121.1011 	EXP 	Condition_text: height = np.float64(0.05)
+121.1011 	EXP 	Condition_text: height = np.float64(0.05)
+121.1011 	EXP 	Condition_text: text = 'lamp'
+121.1011 	EXP 	Condition_text: autoDraw = True
+121.2176 	EXP 	Device response: <KeyPress from None: t=121.08362780004973, value=right, duration=0.12062030000379309>
+122.6508 	EXP 	Device response: <KeyPress from None: t=122.64954990003025, value=right, duration=None>
+122.6511 	EXP 	New trial (rep=0, index=99): <Trial 99 (99 in rep 0) data={'Characters': 'hei', 'Corr_ans': 0, 'answer': 'left', 'thisN': 99, 'thisTrialN': 99, 'thisRepN': 0}>
+122.6557 	DATA 	Keypress: right
+122.6677 	INFO 	Keyboard events cleared
+122.6676 	EXP 	Condition_text: autoDraw = False
+122.6676 	EXP 	Condition_text: height = np.float64(0.05)
+122.6676 	EXP 	Condition_text: height = np.float64(0.05)
+122.6676 	EXP 	Condition_text: height = np.float64(0.05)
+122.6676 	EXP 	Condition_text: text = 'hei'
+122.6676 	EXP 	Condition_text: autoDraw = True
+122.8006 	EXP 	Device response: <KeyPress from None: t=122.64954990003025, value=right, duration=0.14984530000947416>
+123.3510 	EXP 	Device response: <KeyPress from None: t=123.34991410002112, value=left, duration=None>
+123.3540 	DATA 	Keypress: left
+123.3673 	EXP 	Condition_text: autoDraw = False
+123.3673 	EXP 	text_2: autoDraw = True
+123.4670 	EXP 	Device response: <KeyPress from None: t=123.34991410002112, value=left, duration=0.10631719999946654>
+126.3666 	EXP 	text_2: autoDraw = False
+126.3666 	EXP 	text_2: autoDraw = False
+126.3668 	EXP 	Lexical Decision Task: status = STOPPED
+126.3916 	INFO 	saved data to 'C:\\Users\\123\\OneDrive\\Desktop\\Lab Psychology\\Solo Project Lexical Decision Task\\data\\5_Lexical Decision Task_2025-11-18_21h54.49.246.csv'
+126.3953 	INFO 	saved data to C:\Users\123\OneDrive\Desktop\Lab Psychology\Solo Project Lexical Decision Task\data\5_Lexical Decision Task_2025-11-18_21h54.49.246.psydat
+126.8261 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+126.8688 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
